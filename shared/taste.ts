@@ -14,6 +14,8 @@ export const TASTE_KEYWORDS: { label: string; weight: number; patterns: string[]
   { label: "makers", weight: 2, patterns: ["fablab", "maker", "atelier", "bricol", "réparation", "repair café", "électronique", "impression 3d", "do it yourself", "diy"] },
   { label: "nature", weight: 2, patterns: ["oiseaux", "ornitho", "étoiles", "astronom", "nuit noire", "balade", "randonnée", "sortie nature", "faune", "flore", "chauves-souris", "calanques", "écoute"] },
   { label: "original", weight: 2, patterns: ["nocturne", "insolite", "secret", "immersi", "sonore", "à l'aube", "lever du soleil", "pleine lune"] },
+  { label: "jeux", weight: 2, patterns: ["jeu de société", "jeux de société", "soirée jeux", "ludique", "ludothèque", "jeu de go", "game jam", "jeu vidéo indé", "jeux vidéo indé", "murder party", "escape game"] },
+  { label: "court métrage", weight: 2, patterns: ["court métrage", "courts métrages", "court-métrage", "courts-métrages", "fête du court"] },
   { label: "festival", weight: 1, patterns: ["festival"] },
   { label: "prix libre", weight: 1, patterns: ["prix libre", "gratuit", "entrée libre", "participation libre"] },
 ];
