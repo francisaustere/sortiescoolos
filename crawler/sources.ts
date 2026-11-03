@@ -230,7 +230,7 @@ export const SOURCES: SourceConfig[] = [
   {
     id: "vortex", name: "Le Vortex (agenda concerts souterrains)", kind: "custom", url: "https://vortexfrommars.org/",
     venueTags: ["planque"], defaultCategories: ["concert"], requireLocalMatch: false, enabled: true,
-    note: "Agenda mensuel DIY 0-10 € publié en PDF. Lecteur texte approximatif, à affiner d'après snapshots/vortex.txt.",
+    note: "Agenda mensuel DIY 0-10 € en PDF scanné (grille). OCR testé : illisible, seul le lien vers le PDF est affiché.",
   },
   {
     id: "tarpin-bien", name: "Le Tarpin Bien", kind: "auto", url: "https://tarpin-bien.com/categorie/video/lagenda/",

@@ -33,8 +33,12 @@ export async function readVortex(html: string, baseUrl: string, http: HttpClient
   // The zine is usually a scan: fall back to OCR when the PDF has no text layer
   const { text: embedded } = await extractText(await getDocumentProxy(bytes.slice()), { mergePages: true });
   const isScan = embedded.trim().length < MIN_TEXT_LENGTH;
-  const text = isScan ? await ocrPdf(bytes) ?? "" : embedded;
-  const events = parseAgendaText(text, parseVortexVenues(html))
-    .map((event) => ({ ...event, url: pdfUrl, approximate: isScan }));
-  return { events, links, snapshotText: text };
+  if (isScan) {
+    // OCR tested on issue 151 (Nov 2026): the zine is a multi-column calendar grid and the text comes out
+    // scrambled. We keep the OCR text as a snapshot for a future column-aware reader, but emit no events:
+    // a wrong concert is worse than a missing one. The PDF stays one click away via `links`.
+    return { events: [], links, snapshotText: await ocrPdf(bytes) ?? "" };
+  }
+  const events = parseAgendaText(embedded, parseVortexVenues(html)).map((event) => ({ ...event, url: pdfUrl }));
+  return { events, links, snapshotText: embedded };
 }
