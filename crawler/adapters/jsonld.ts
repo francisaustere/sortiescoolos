@@ -3,6 +3,8 @@ import type { RawEvent } from "@shared/event";
 import type { Adapter } from "../types";
 
 const MAX_FOLLOWED_PAGES = 40;
+// Placeholder place names seen on tourism sites; the real name is then in the address
+const GENERIC_PLACE_NAMES = /^(adresse|address|lieu|location|place)$/i;
 
 type JsonObject = Record<string, unknown>;
 
@@ -60,7 +62,7 @@ function toRawEvent(node: JsonObject, pageUrl: string): RawEvent | null {
     end: asString(node["endDate"]),
     description: node["description"] ? cheerio.load(String(asString(node["description"]) ?? "")).text() : undefined,
     url: asString(node["url"]) ?? pageUrl,
-    venueName: place ? asString(place["name"]) : asString(location),
+    venueName: [place ? asString(place["name"]) : asString(location)].find((n) => n && !GENERIC_PLACE_NAMES.test(n)),
     address: address
       ? [asString(address["streetAddress"]), asString(address["postalCode"]), asString(address["addressLocality"])].filter(Boolean).join(", ")
       : typeof place?.["address"] === "string" ? place["address"] : undefined,
@@ -85,7 +87,7 @@ export function extractJsonLdEvents(html: string, pageUrl: string): RawEvent[] {
   return nodes.map((node) => toRawEvent(node, pageUrl)).filter((e): e is RawEvent => e !== null);
 }
 
-export function extractLinks(html: string, selector: string, baseUrl: string): string[] {
+export function extractLinks(html: string, selector: string, baseUrl: string, limit = 0): string[] {
   const $ = cheerio.load(html);
   const links = new Set<string>();
   $(selector).each((_, element) => {
@@ -97,7 +99,7 @@ export function extractLinks(html: string, selector: string, baseUrl: string): s
       // Ignore unparsable hrefs
     }
   });
-  return [...links].slice(0, MAX_FOLLOWED_PAGES);
+  return [...links].slice(0, Math.max(MAX_FOLLOWED_PAGES, limit));
 }
 
 /** Reads JSON-LD on the listing page; if a selector is given, also reads each linked event page. */

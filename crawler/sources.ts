@@ -13,7 +13,7 @@ export const SOURCES: SourceConfig[] = [
   {
     id: "marseille-tourisme", name: "Office de tourisme de Marseille", kind: "auto",
     url: "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/",
-    venueTags: [], requireLocalMatch: true, enabled: true,
+    venueTags: [], requireLocalMatch: true, enabled: true, maxFollow: 120,
     note: "Couvre presque tous les lieux (base Apidae). Source pivot.",
   },
   {
@@ -146,7 +146,7 @@ export const SOURCES: SourceConfig[] = [
     defaultVenue: { name: "Librairie Maupetit", address: "142 La Canebière, 13001 Marseille", commune: MARSEILLE }, enabled: true,
   },
   {
-    id: "mucem", name: "Mucem", kind: "auto", url: "https://www.mucem.org/programme",
+    id: "mucem", name: "Mucem", kind: "auto", url: "https://www.mucem.org/",
     venueTags: ["institution"], defaultVenue: { name: "Mucem", address: "7 promenade Robert-Laffont, 13002 Marseille", commune: MARSEILLE }, enabled: true,
   },
   {
@@ -200,7 +200,7 @@ export const SOURCES: SourceConfig[] = [
     venueTags: ["nature", "planque"], defaultCategories: ["nature"], defaultVenue: { name: "Observatoire de Marseille", commune: MARSEILLE }, enabled: true,
   },
   {
-    id: "bureau-guides", name: "Bureau des guides du GR2013", kind: "wp-tribe", url: "https://bureaudesguides-gr2013.fr/",
+    id: "bureau-guides", name: "Bureau des guides du GR2013", kind: "auto", url: "https://bureaudesguides-gr2013.fr/evenements/",
     venueTags: ["nature", "planque"], defaultCategories: ["nature"], requireLocalMatch: true, enabled: true,
   },
 

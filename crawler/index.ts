@@ -13,6 +13,10 @@ import { SOURCES } from "./sources";
 import type { Adapter, SourceConfig, SourceKind } from "./types";
 
 const OUTPUT_PATH = "public/data/events.json";
+/** HTML of sources that yield nothing, saved so custom readers can be written from real pages. */
+const SNAPSHOT_DIR = "snapshots";
+const SNAPSHOT_MAX_CHARS = 400_000;
+const SAME_HOST_DELAY_MS = 3_000;
 const WINDOW_DAYS = 45;
 const CONCURRENCY = 4;
 const DAY_IN_MS = 24 * 60 * 60 * 1000;
@@ -64,6 +68,28 @@ async function runSource(source: SourceConfig, window: Window, previous: EventsF
   }
 }
 
+async function saveSnapshot(source: SourceConfig): Promise<void> {
+  try {
+    const html = await new FetchHttpClient().getText(source.url);
+    await mkdir(SNAPSHOT_DIR, { recursive: true });
+    await writeFile(`${SNAPSHOT_DIR}/${source.id}.html`, html.slice(0, SNAPSHOT_MAX_CHARS));
+  } catch {
+    // Nothing to save when the page itself is unreachable
+  }
+}
+
+const sleep = (ms: number): Promise<void> => new Promise((resolve) => setTimeout(resolve, ms));
+
+/** Groups sources by host so one server never gets two crawls at once (Shotgun answered 429). */
+function groupByHost(sources: SourceConfig[]): SourceConfig[][] {
+  const groups = new Map<string, SourceConfig[]>();
+  for (const source of sources) {
+    const host = new URL(source.url).host;
+    groups.set(host, [...(groups.get(host) ?? []), source]);
+  }
+  return [...groups.values()];
+}
+
 /** Runs tasks with a small concurrency limit, to stay polite with small venue servers. */
 async function runPool<T, R>(items: T[], limit: number, task: (item: T) => Promise<R>): Promise<R[]> {
   const results: R[] = new Array(items.length);
@@ -86,7 +112,19 @@ async function main(): Promise<void> {
   const previous = await readPrevious();
   const sources = SOURCES.filter((s) => s.enabled);
 
-  const outcomes = await runPool(sources, CONCURRENCY, (source) => runSource(source, window, previous));
+  const groups = groupByHost(sources);
+  const grouped = await runPool(groups, CONCURRENCY, async (group) => {
+    const results: SourceOutcome[] = [];
+    for (const [index, source] of group.entries()) {
+      if (index > 0) await sleep(SAME_HOST_DELAY_MS);
+      const outcome = await runSource(source, window, previous);
+      if (outcome.report.ok && outcome.report.eventCount === 0) await saveSnapshot(source);
+      results.push(outcome);
+    }
+    return results;
+  });
+  const order = new Map(sources.map((s, i) => [s.id, i]));
+  const outcomes = grouped.flat().sort((a, b) => (order.get(a.report.id) ?? 0) - (order.get(b.report.id) ?? 0));
   const events = dedupe(outcomes.flatMap((o) => o.events)).sort((a, b) => a.start.localeCompare(b.start));
   const watch = outcomes.flatMap((o) => o.watch).sort((a, b) => b.createdAt.localeCompare(a.createdAt));
 

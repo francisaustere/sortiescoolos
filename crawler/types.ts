@@ -15,6 +15,8 @@ export interface SourceConfig {
   readonly defaultVenue?: { name: string; address?: string; commune: string };
   /** jsonld only: CSS selector of links to event detail pages to follow when the listing has no JSON-LD. */
   readonly followLinks?: string;
+  /** auto only: how many detail pages to follow (default 25). */
+  readonly maxFollow?: number;
   /** Aggregators covering a wide area must prove the event is in our communes. */
   readonly requireLocalMatch?: boolean;
   readonly enabled: boolean;

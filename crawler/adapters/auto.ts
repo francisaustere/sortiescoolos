@@ -33,9 +33,9 @@ const autoAdapter: Adapter = async (source, http) => {
   if (events.length > 0 && !source.followLinks) return { events };
 
   const host = new URL(source.url).host;
-  const links = extractLinks(html, source.followLinks ?? EVENT_LINK_SELECTOR, source.url)
+  const links = extractLinks(html, source.followLinks ?? EVENT_LINK_SELECTOR, source.url, source.maxFollow)
     .filter((link) => new URL(link).host === host && link !== source.url)
-    .slice(0, MAX_AUTO_FOLLOW);
+    .slice(0, source.maxFollow ?? MAX_AUTO_FOLLOW);
   for (const link of links) {
     try {
       events.push(...extractJsonLdEvents(await http.getText(link), link));
