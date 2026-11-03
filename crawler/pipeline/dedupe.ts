@@ -25,6 +25,8 @@ export function dedupe(events: SortieEvent[]): SortieEvent[] {
       score: Math.max(richest.score, other.score),
       scoreReasons: [...new Set([...richest.scoreReasons, ...other.scoreReasons])],
       venueTags: [...new Set([...richest.venueTags, ...other.venueTags])],
+      // A reliable source confirms an OCR guess
+      approximate: richest.approximate && other.approximate,
       sources: [...richest.sources, ...other.sources.filter((s) => !richest.sources.some((r) => r.id === s.id))],
     });
   }

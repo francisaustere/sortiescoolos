@@ -30,6 +30,8 @@
     "coeur": "Coup de cœur",
     "why": "Pourquoi : {reasons}",
     "open": "Voir la source",
+    "approximate": "Lu dans un PDF – à vérifier",
+    "approximateHint": "Texte reconnu automatiquement sur une image : date, nom ou lieu peuvent être faux.",
     "alsoOn": "Vu sur : {sources}"
   },
   "empty": "Aucune sortie ne correspond. Élargis les filtres.",

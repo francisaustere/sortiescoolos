@@ -1,4 +1,4 @@
-import type { Category, RawEvent, VenueTag, WatchPost } from "@shared/event";
+import type { Category, RawEvent, UsefulLink, VenueTag, WatchPost } from "@shared/event";
 
 export type SourceKind = "auto" | "custom" | "ical" | "jsonld" | "wp-tribe" | "reddit";
 
@@ -29,6 +29,7 @@ export interface AdapterResult {
   watch?: WatchPost[];
   /** Extracted text worth saving for writing/refining a reader (e.g. PDF agenda). */
   snapshotText?: string;
+  links?: UsefulLink[];
 }
 
 export type Adapter = (source: SourceConfig, http: HttpClient) => Promise<AdapterResult>;

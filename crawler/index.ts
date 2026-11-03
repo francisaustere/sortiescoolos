@@ -1,6 +1,6 @@
 import { mkdir, readFile, writeFile } from "node:fs/promises";
 import { dirname } from "node:path";
-import type { EventsFile, SortieEvent, SourceReport, WatchPost } from "@shared/event";
+import type { EventsFile, SortieEvent, SourceReport, UsefulLink, WatchPost } from "@shared/event";
 import autoAdapter from "./adapters/auto";
 import customAdapter from "./adapters/custom";
 import icalAdapter from "./adapters/ical";
@@ -34,6 +34,7 @@ const ADAPTERS: Record<SourceKind, Adapter> = {
 interface SourceOutcome {
   events: SortieEvent[];
   watch: WatchPost[];
+  links: UsefulLink[];
   report: SourceReport;
 }
 
@@ -57,7 +58,7 @@ async function runSource(source: SourceConfig, window: Window, previous: EventsF
     report.eventCount = result.events.length;
     report.keptCount = events.length;
     if (result.snapshotText) await saveText(`${source.id}.txt`, result.snapshotText);
-    return { events, watch: result.watch ?? [], report };
+    return { events, watch: result.watch ?? [], links: result.links ?? [], report };
   } catch (error) {
     report.ok = false;
     report.error = error instanceof Error ? error.message : String(error);
@@ -67,7 +68,7 @@ async function runSource(source: SourceConfig, window: Window, previous: EventsF
     );
     report.usedFallback = fallback.length > 0;
     report.keptCount = fallback.length;
-    return { events: fallback, watch: [], report };
+    return { events: fallback, watch: [], links: [], report };
   }
 }
 
@@ -141,6 +142,7 @@ async function main(): Promise<void> {
     windowDays: WINDOW_DAYS,
     events,
     watch,
+    links: outcomes.flatMap((o) => o.links),
     sources: outcomes.map((o) => o.report),
   };
   await mkdir(dirname(OUTPUT_PATH), { recursive: true });

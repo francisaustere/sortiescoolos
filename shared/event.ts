@@ -35,6 +35,8 @@ export interface RawEvent {
   priceText?: string;
   isFree?: boolean;
   keywords?: string[];
+  /** Read by OCR or loose text parsing: show a "check it" warning. */
+  approximate?: boolean;
 }
 
 /** Event as stored in events.json and displayed by the dashboard. */
@@ -57,6 +59,13 @@ export interface SortieEvent {
   score: number;
   scoreReasons: string[];
   sources: { id: string; name: string }[];
+  approximate: boolean;
+}
+
+/** Useful link shown at the top of the dashboard (e.g. a monthly PDF agenda). */
+export interface UsefulLink {
+  label: string;
+  url: string;
 }
 
 /** Recent Reddit post worth a look (no reliable date, shown apart). */
@@ -84,5 +93,6 @@ export interface EventsFile {
   windowDays: number;
   events: SortieEvent[];
   watch: WatchPost[];
+  links: UsefulLink[];
   sources: SourceReport[];
 }

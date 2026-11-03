@@ -69,5 +69,6 @@ export function normalize(raw: RawEvent, source: SourceConfig, window: Window): 
     score: scored.score,
     scoreReasons: scored.reasons,
     sources: [{ id: source.id, name: source.name }],
+    approximate: raw.approximate ?? false,
   };
 }

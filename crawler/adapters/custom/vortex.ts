@@ -2,6 +2,9 @@ import * as cheerio from "cheerio";
 import { extractText, getDocumentProxy } from "unpdf";
 import type { AdapterResult, HttpClient } from "../../types";
 import { parseAgendaText, type KnownVenue } from "../../pipeline/agendaText";
+import { ocrPdf } from "../../utils/ocr.utils";
+
+const MIN_TEXT_LENGTH = 200;
 
 /** Venue list on the homepage: "<a>Name</a> — address — 13006". */
 export function parseVortexVenues(html: string): KnownVenue[] {
@@ -24,8 +27,14 @@ export async function readVortex(html: string, baseUrl: string, http: HttpClient
   const pdfHref = $("a[href$='.pdf']").map((_, a) => $(a).attr("href")).get().find((href) => /vortex/i.test(href));
   if (!pdfHref) throw new Error("Lien du PDF Vortex introuvable");
   const pdfUrl = new URL(pdfHref, baseUrl).toString();
-  const pdf = await getDocumentProxy(await http.getBytes(pdfUrl));
-  const { text } = await extractText(pdf, { mergePages: true });
-  const events = parseAgendaText(text, parseVortexVenues(html)).map((event) => ({ ...event, url: pdfUrl }));
-  return { events, snapshotText: text };
+  const bytes = await http.getBytes(pdfUrl);
+  const links = [{ label: "Agenda du Vortex (PDF du mois)", url: pdfUrl }];
+
+  // The zine is usually a scan: fall back to OCR when the PDF has no text layer
+  const { text: embedded } = await extractText(await getDocumentProxy(bytes.slice()), { mergePages: true });
+  const isScan = embedded.trim().length < MIN_TEXT_LENGTH;
+  const text = isScan ? await ocrPdf(bytes) ?? "" : embedded;
+  const events = parseAgendaText(text, parseVortexVenues(html))
+    .map((event) => ({ ...event, url: pdfUrl, approximate: isScan }));
+  return { events, links, snapshotText: text };
 }

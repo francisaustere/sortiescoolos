@@ -18,6 +18,12 @@
         <span v-if="isGem(event)" class="rounded-full bg-sun/20 px-2 py-0.5">💎 {{ t("event.gem") }}</span>
         <span v-if="isCoeur(event)" class="rounded-full bg-brick/15 px-2 py-0.5 text-brick">❤️ {{ t("event.coeur") }}</span>
         <span v-if="event.isFree" class="rounded-full border border-[var(--border)] px-2 py-0.5">{{ t("event.free") }}</span>
+        <span
+          v-if="event.approximate"
+          class="rounded-full border border-dashed border-brick px-2 py-0.5 text-brick"
+          :title="t('event.approximateHint')">
+          {{ t("event.approximate") }}
+        </span>
       </div>
 
       <h3 class="mt-1.5 text-base leading-snug font-semibold">

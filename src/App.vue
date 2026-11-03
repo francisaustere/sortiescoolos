@@ -5,6 +5,18 @@
       <p v-if="data" class="text-sm text-[var(--muted)]">{{ t("app.subtitle", { date: formatStamp(data.generatedAt) }) }}</p>
     </header>
 
+    <div v-if="data?.links?.length" class="App__Links flex flex-wrap gap-2 text-sm">
+      <a
+        v-for="link in data.links"
+        :key="link.url"
+        :href="link.url"
+        target="_blank"
+        rel="noopener"
+        class="rounded-full border border-sun bg-sun/15 px-3 py-1 font-medium hover:bg-sun/30">
+        📄 {{ link.label }}
+      </a>
+    </div>
+
     <nav class="App__Tabs flex gap-1 rounded-full border border-[var(--border)] bg-[var(--surface)] p-1 text-sm">
       <button
         v-for="tab in TABS"
