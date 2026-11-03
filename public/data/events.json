@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T19:37:22.535Z",
+  "generatedAt": "2026-11-03T19:44:08.566Z",
   "windowDays": 45,
   "events": [
     {
@@ -56,6 +56,288 @@
         {
           "id": "marseille-tourisme",
           "name": "Office de tourisme de Marseille"
+        }
+      ]
+    },
+    {
+      "id": "82deaf87e338",
+      "title": "MÉDÉE/S – Louise Vignaud, Rachida Brakni",
+      "start": "2026-11-03T00:00:00.000Z",
+      "end": "2026-11-13T23:00:00.000Z",
+      "allDay": true,
+      "description": "",
+      "url": "https://www.lestheatres.net/fr/a/6109-medees",
+      "venueName": "Bernardines",
+      "address": "17 bd Garibaldi, 13001 Marseille",
+      "commune": "Marseille",
+      "image": "https://d2d4te11holpqx.cloudfront.net/picture/13006/pivot_192x128/les-theatres-photo-de-repetition-oda4otc4ndy1.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "theatre"
+      ],
+      "venueTags": [
+        "institution"
+      ],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "les-theatres",
+          "name": "Les Théâtres (Bernardines, Gymnase…)"
+        }
+      ]
+    },
+    {
+      "id": "55196651b8e4",
+      "title": "La vie farpaite | films du collectif LFKs",
+      "start": "2026-11-03T00:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://www.videodrome2.fr/la-vie-farpaite-films-du-collectif-lfks/",
+      "venueName": "Vidéodrome 2",
+      "address": "49 cours Julien, 13006 Marseille",
+      "commune": "Marseille",
+      "image": "https://www.videodrome2.fr/wp-content/uploads/LVP-IMPR4-scaled.jpeg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "cinema"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 3,
+      "scoreReasons": [
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "videodrome2",
+          "name": "Vidéodrome 2"
+        }
+      ]
+    },
+    {
+      "id": "5cc3400b0cbb",
+      "title": "Permanence juridique pour les demandeurs d’asile",
+      "start": "2026-11-04T13:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://www.millebabords.org/spip.php?article42370",
+      "venueName": "Local de l’AUP",
+      "address": "Local de l’AUP, 62 bd du Jardin Zoologique, 13004 Marseille",
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "conference"
+      ],
+      "venueTags": [
+        "militant",
+        "planque"
+      ],
+      "score": 7,
+      "scoreReasons": [
+        "lieu militant",
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "mille-babords",
+          "name": "Mille Bâbords"
+        }
+      ]
+    },
+    {
+      "id": "29d2cf78b0a2",
+      "title": "★ Jeune public | De l'autre côté du ciel",
+      "start": "2026-11-04T13:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://www.videodrome2.fr/%e2%98%85-jeune-public-de-lautre-cote-du-ciel/",
+      "venueName": "Vidéodrome 2",
+      "address": "49 cours Julien, 13006 Marseille",
+      "commune": "Marseille",
+      "image": "https://www.videodrome2.fr/wp-content/uploads/de-lautre-cote-du-ciel.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "cinema"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 3,
+      "scoreReasons": [
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "videodrome2",
+          "name": "Vidéodrome 2"
+        }
+      ]
+    },
+    {
+      "id": "8bce57f27e4b",
+      "title": "Permanence RESF 13 jeunes majeurs et familles sans papiers",
+      "start": "2026-11-04T13:30:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://www.millebabords.org/spip.php?article42369",
+      "venueName": "Mille Bâbords",
+      "address": "Mille Bâbords, 61 rue Consolat, 13001 Marseille (pendant les travaux de MMDH, 34 cours Julien, 13006 Marseille)",
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "conference"
+      ],
+      "venueTags": [
+        "militant",
+        "planque"
+      ],
+      "score": 7,
+      "scoreReasons": [
+        "lieu militant",
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "mille-babords",
+          "name": "Mille Bâbords"
+        }
+      ]
+    },
+    {
+      "id": "e338d951363e",
+      "title": "La vie farpaite | IDM (Inner Direct Metaphysics) - Parties 1 & 2",
+      "start": "2026-11-04T16:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://www.videodrome2.fr/la-vie-farpaite-idm-inner-direct-metaphysics-partie-1/",
+      "venueName": "Vidéodrome 2",
+      "address": "49 cours Julien, 13006 Marseille",
+      "commune": "Marseille",
+      "image": "https://www.videodrome2.fr/wp-content/uploads/IDM-MEA2.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "cinema"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 3,
+      "scoreReasons": [
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "videodrome2",
+          "name": "Vidéodrome 2"
+        }
+      ]
+    },
+    {
+      "id": "2274e32682b5",
+      "title": "SOIRÉE DE SOUTIEN AUX LYCÉENS MOBILISÉS",
+      "start": "2026-11-04T17:30:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://lemolotov.com/events/soiree-de-soutien-aux-lyceens-mobilises/",
+      "venueName": "Le Molotov",
+      "address": "3 place Paul-Cézanne, 13006 Marseille",
+      "commune": "Marseille",
+      "image": "https://lemolotov.com/wp-content/uploads/2026/10/soiree_soutien_lyceen.webp",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert",
+        "fete"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "molotov",
+          "name": "Le Molotov / Le Dodu"
+        }
+      ]
+    },
+    {
+      "id": "f60a64f53497",
+      "title": "Avant-première du documentaire \"rester debout !\"",
+      "start": "2026-11-04T18:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://www.millebabords.org/spip.php?article42389",
+      "venueName": "cinéma Le Gyptis",
+      "address": "cinéma Le Gyptis - 136 Rue Loubon, 13003 Marseille",
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "cinema"
+      ],
+      "venueTags": [
+        "militant",
+        "planque"
+      ],
+      "score": 5,
+      "scoreReasons": [
+        "lieu militant",
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "mille-babords",
+          "name": "Mille Bâbords"
+        }
+      ]
+    },
+    {
+      "id": "79e89f966a3a",
+      "title": "Présentation de \"Andromaque dans une berline rouge\" de Nanténé Traoré",
+      "start": "2026-11-04T18:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://www.millebabords.org/spip.php?article42394",
+      "venueName": "Librairie Transit",
+      "address": "Librairie Transit - 51 Bd de la Libération - Marseille, 13001",
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "conference"
+      ],
+      "venueTags": [
+        "militant",
+        "planque"
+      ],
+      "score": 7,
+      "scoreReasons": [
+        "lieu militant",
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "mille-babords",
+          "name": "Mille Bâbords"
         }
       ]
     },
@@ -120,6 +402,232 @@
       ]
     },
     {
+      "id": "851d7d7d6104",
+      "title": "Commémoration - Hommage aux personnes décédées lors des effondrements",
+      "start": "2026-11-05T08:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://www.millebabords.org/spip.php?article42390",
+      "venueName": "devant les 63 et 65 rue d’Aubagne",
+      "address": "devant les 63 et 65 rue d’Aubagne - 13001 Marseille",
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "conference"
+      ],
+      "venueTags": [
+        "militant",
+        "planque"
+      ],
+      "score": 7,
+      "scoreReasons": [
+        "lieu militant",
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "mille-babords",
+          "name": "Mille Bâbords"
+        }
+      ]
+    },
+    {
+      "id": "c2ec8239d064",
+      "title": "Manif pour soutenir les lycéens,",
+      "start": "2026-11-05T09:30:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://www.millebabords.org/spip.php?article42409",
+      "venueName": "Auyx Réformés",
+      "address": "Auyx Réformés, Kisque L’éon Blum, laCanebière",
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "conference"
+      ],
+      "venueTags": [
+        "militant",
+        "planque"
+      ],
+      "score": 7,
+      "scoreReasons": [
+        "lieu militant",
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "mille-babords",
+          "name": "Mille Bâbords"
+        }
+      ]
+    },
+    {
+      "id": "8a38a3831cba",
+      "title": "Permanence juridique et syndicale de l’Union Locale CNT 13",
+      "start": "2026-11-05T11:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://www.millebabords.org/spip.php?article42373",
+      "venueName": "Mille Bâbords",
+      "address": "Mille Bâbords, 61 rue Consolat, 13001 Marseille",
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "conference"
+      ],
+      "venueTags": [
+        "militant",
+        "planque"
+      ],
+      "score": 10,
+      "scoreReasons": [
+        "politique",
+        "lieu militant",
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "mille-babords",
+          "name": "Mille Bâbords"
+        }
+      ]
+    },
+    {
+      "id": "e447759109ef",
+      "title": "Permanence RUSF 13",
+      "start": "2026-11-05T13:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://www.millebabords.org/spip.php?article42372",
+      "venueName": "locaux d’Info Jeunes",
+      "address": "locaux d’Info Jeunes, 96 La Canebière, 13001 Marseille",
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "conference"
+      ],
+      "venueTags": [
+        "militant",
+        "planque"
+      ],
+      "score": 7,
+      "scoreReasons": [
+        "lieu militant",
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "mille-babords",
+          "name": "Mille Bâbords"
+        }
+      ]
+    },
+    {
+      "id": "812dea0af8a3",
+      "title": "Permanences anticarcérales",
+      "start": "2026-11-05T16:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://www.millebabords.org/spip.php?article42371",
+      "venueName": "Local du Manba",
+      "address": "Local du Manba, 8 rue Barbaroux - 13001 Marseille",
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "conference"
+      ],
+      "venueTags": [
+        "militant",
+        "planque"
+      ],
+      "score": 7,
+      "scoreReasons": [
+        "lieu militant",
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "mille-babords",
+          "name": "Mille Bâbords"
+        }
+      ]
+    },
+    {
+      "id": "2fc6fa4a640e",
+      "title": "Présentation de \"Nous sommes des milliardes\" de Frédérique Guétat-Liviani Avec Frédérique Guétat-Liviani",
+      "start": "2026-11-05T18:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://www.millebabords.org/spip.php?article42395",
+      "venueName": "Librairie Transit",
+      "address": "Librairie Transit - 51 Bd de la Libération - Marseille, 13001",
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "conference"
+      ],
+      "venueTags": [
+        "militant",
+        "planque"
+      ],
+      "score": 7,
+      "scoreReasons": [
+        "lieu militant",
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "mille-babords",
+          "name": "Mille Bâbords"
+        }
+      ]
+    },
+    {
+      "id": "fba4d129b57d",
+      "title": "THE LET’S GO’S + Supreme Nightclub",
+      "start": "2026-11-05T19:30:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://lemolotov.com/events/the-lets-gos-guest/",
+      "venueName": "Le Molotov",
+      "address": "3 place Paul-Cézanne, 13006 Marseille",
+      "commune": "Marseille",
+      "image": "https://lemolotov.com/wp-content/uploads/2026/03/photo-1.webp",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "molotov",
+          "name": "Le Molotov / Le Dodu"
+        }
+      ]
+    },
+    {
       "id": "06a1813602b9",
       "title": "Table ronde « Patients, bénévoles, soignants »",
       "start": "2026-11-05T23:00:00.000Z",
@@ -149,6 +657,39 @@
       ]
     },
     {
+      "id": "08a4ae85034f",
+      "title": "Réunion publique : auto-entreprenariat, comprendre le statut et s’organiser contre la précarisation du travail.",
+      "start": "2026-11-06T09:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://www.millebabords.org/spip.php?article42374",
+      "venueName": "Manifesten",
+      "address": "Manifesten, 59 rue Adolphe Thiers 13001 Marseille",
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "conference"
+      ],
+      "venueTags": [
+        "militant",
+        "planque"
+      ],
+      "score": 7,
+      "scoreReasons": [
+        "lieu militant",
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "mille-babords",
+          "name": "Mille Bâbords"
+        }
+      ]
+    },
+    {
       "id": "e2a31b52d093",
       "title": "NINA UZAN",
       "start": "2026-11-06T18:00:00.000Z",
@@ -172,6 +713,94 @@
         {
           "id": "espace-julien",
           "name": "L'Espace Julien"
+        }
+      ]
+    },
+    {
+      "id": "494ca0f785cb",
+      "title": "Lancement du livre \"la colère d’une ville\"",
+      "start": "2026-11-06T18:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://www.millebabords.org/spip.php?article42391",
+      "venueName": "chez Solidaires 13",
+      "address": "chez Solidaires 13, 29 bd Longchamp - 13001 Marseille",
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "conference"
+      ],
+      "venueTags": [
+        "militant",
+        "planque"
+      ],
+      "score": 7,
+      "scoreReasons": [
+        "lieu militant",
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "mille-babords",
+          "name": "Mille Bâbords"
+        }
+      ]
+    },
+    {
+      "id": "d3b2599ae382",
+      "title": "MASTER BOOT RECORD + FULCI + Arottenbit",
+      "start": "2026-11-06T19:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://lemolotov.com/events/master-boot-record-fulci-arottenbit/",
+      "venueName": "Le Dodu",
+      "address": "Belle de Mai, 13003 Marseille",
+      "commune": "Marseille",
+      "image": "https://lemolotov.com/wp-content/uploads/2026/03/mbr_fb_dodu.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "molotov",
+          "name": "Le Molotov / Le Dodu"
+        }
+      ]
+    },
+    {
+      "id": "d9c198ad89c1",
+      "title": "PaS SaGe #3",
+      "start": "2026-11-06T19:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://lemolotov.com/events/pas-sage-3/",
+      "venueName": "Le Molotov",
+      "address": "3 place Paul-Cézanne, 13006 Marseille",
+      "commune": "Marseille",
+      "image": "https://lemolotov.com/wp-content/uploads/2026/10/pas_sage_3.webp",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert",
+        "fete"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "molotov",
+          "name": "Le Molotov / Le Dodu"
         }
       ]
     },
@@ -207,6 +836,160 @@
       ]
     },
     {
+      "id": "35583ce07dee",
+      "title": "Assemblée ouverte contre le technofascisme, les data centers et l’IA",
+      "start": "2026-11-07T09:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://www.millebabords.org/spip.php?article42399",
+      "venueName": "kiosque des Réformés",
+      "address": "kiosque des Réformés, 127 La Canebière 13001 Marseille",
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "conference"
+      ],
+      "venueTags": [
+        "militant",
+        "planque"
+      ],
+      "score": 7,
+      "scoreReasons": [
+        "lieu militant",
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "mille-babords",
+          "name": "Mille Bâbords"
+        }
+      ]
+    },
+    {
+      "id": "4e7ca0d0e13f",
+      "title": "Festival rue d’Aubagne",
+      "start": "2026-11-07T13:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://www.millebabords.org/spip.php?article42392",
+      "venueName": "La plateforme",
+      "address": "La plateforme - 12 rue Urbain V - 13002 Marseille",
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "festival"
+      ],
+      "venueTags": [
+        "militant",
+        "planque"
+      ],
+      "score": 7,
+      "scoreReasons": [
+        "festival",
+        "lieu militant",
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "mille-babords",
+          "name": "Mille Bâbords"
+        }
+      ]
+    },
+    {
+      "id": "bb127d75576c",
+      "title": "Manifestation de soutien à GAZA - Rassemblement statique",
+      "start": "2026-11-07T17:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://www.millebabords.org/spip.php?article42375",
+      "venueName": "Porte d’Aix",
+      "address": "Porte d’Aix - 13001 Marseille",
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "conference"
+      ],
+      "venueTags": [
+        "militant",
+        "planque"
+      ],
+      "score": 7,
+      "scoreReasons": [
+        "lieu militant",
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "mille-babords",
+          "name": "Mille Bâbords"
+        }
+      ]
+    },
+    {
+      "id": "fce7355c5698",
+      "title": "IANWILL + Perseide + Maze’D + Ghetto Paradise",
+      "start": "2026-11-07T19:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://lemolotov.com/events/ianwill-perseide-mazed-ghetto-paradise/",
+      "venueName": "Le Molotov",
+      "address": "3 place Paul-Cézanne, 13006 Marseille",
+      "commune": "Marseille",
+      "image": "https://lemolotov.com/wp-content/uploads/2026/09/0711.webp",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "molotov",
+          "name": "Le Molotov / Le Dodu"
+        }
+      ]
+    },
+    {
+      "id": "5b88ab949d73",
+      "title": "UP TOWN MUSIC BAND #24",
+      "start": "2026-11-08T17:30:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://lemolotov.com/events/up-town-music-band-24/",
+      "venueName": "Le Molotov",
+      "address": "3 place Paul-Cézanne, 13006 Marseille",
+      "commune": "Marseille",
+      "image": "https://lemolotov.com/wp-content/uploads/2025/12/uptown.webp",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "molotov",
+          "name": "Le Molotov / Le Dodu"
+        }
+      ]
+    },
+    {
       "id": "0123c4cae634",
       "title": "SAID & WADIE - TWO-MAN SHOW",
       "start": "2026-11-08T18:00:00.000Z",
@@ -230,6 +1013,198 @@
         {
           "id": "espace-julien",
           "name": "L'Espace Julien"
+        }
+      ]
+    },
+    {
+      "id": "87f5bf3f1b33",
+      "title": "Émission La Courte Échelle",
+      "start": "2026-11-08T18:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://www.millebabords.org/spip.php?article42398",
+      "venueName": "La courte échelle",
+      "address": "La courte échelle, Radio Galère, Friche de la Belle de mai, 12 rue François Simon, 13003 Marseille ou sur Radio Galère 88.4FM.",
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "conference"
+      ],
+      "venueTags": [
+        "militant",
+        "planque"
+      ],
+      "score": 7,
+      "scoreReasons": [
+        "lieu militant",
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "mille-babords",
+          "name": "Mille Bâbords"
+        }
+      ]
+    },
+    {
+      "id": "437886a4e0b4",
+      "title": "Permanence de Mille Bâbords et de sa médiathèque",
+      "start": "2026-11-09T14:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://www.millebabords.org/spip.php?article42400",
+      "venueName": "Mille Bâbords",
+      "address": "Mille Bâbords, 61 rue Consolat, 13001 Marseille",
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "conference"
+      ],
+      "venueTags": [
+        "militant",
+        "planque"
+      ],
+      "score": 7,
+      "scoreReasons": [
+        "lieu militant",
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "mille-babords",
+          "name": "Mille Bâbords"
+        }
+      ]
+    },
+    {
+      "id": "78b50d503bbd",
+      "title": "Permanence des Amoureux au ban public",
+      "start": "2026-11-10T16:30:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://www.millebabords.org/spip.php?article42402",
+      "venueName": "Mille Bâbords",
+      "address": "Mille Bâbords, 61 rue Consolat, 13001 Marseille",
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "conference"
+      ],
+      "venueTags": [
+        "militant",
+        "planque"
+      ],
+      "score": 7,
+      "scoreReasons": [
+        "lieu militant",
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "mille-babords",
+          "name": "Mille Bâbords"
+        }
+      ]
+    },
+    {
+      "id": "2dfaf082f2ff",
+      "title": "Un antisémitisme sans antisémites ?",
+      "start": "2026-11-10T17:30:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://www.millebabords.org/spip.php?article42366",
+      "venueName": "Les Rotatives de La Marseillaise",
+      "address": "Les Rotatives de La Marseillaise, 17 cours Honoré d’Estienne d’Orves 13001 Marseille",
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "conference"
+      ],
+      "venueTags": [
+        "militant",
+        "planque"
+      ],
+      "score": 7,
+      "scoreReasons": [
+        "lieu militant",
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "mille-babords",
+          "name": "Mille Bâbords"
+        }
+      ]
+    },
+    {
+      "id": "65d32617e4e5",
+      "title": "Permanence d’accès aux droits sociaux",
+      "start": "2026-11-10T17:30:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://www.millebabords.org/spip.php?article42401",
+      "venueName": "Local de l’AUP",
+      "address": "Local de l’AUP, 62 bd du jardin zoologique, 13004 Marseille",
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "conference"
+      ],
+      "venueTags": [
+        "militant",
+        "planque"
+      ],
+      "score": 7,
+      "scoreReasons": [
+        "lieu militant",
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "mille-babords",
+          "name": "Mille Bâbords"
+        }
+      ]
+    },
+    {
+      "id": "2b6e7bf9cb8f",
+      "title": "FLY ANAKIN & QUELLE CHRIS",
+      "start": "2026-11-10T19:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://lemolotov.com/events/fly-anakin-quelle-chris/",
+      "venueName": "Le Molotov",
+      "address": "3 place Paul-Cézanne, 13006 Marseille",
+      "commune": "Marseille",
+      "image": "https://lemolotov.com/wp-content/uploads/2026/07/web-2.webp",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "molotov",
+          "name": "Le Molotov / Le Dodu"
         }
       ]
     },
@@ -261,6 +1236,184 @@
       ]
     },
     {
+      "id": "1d8cd5616bde",
+      "title": "Alternative Fantasy | cycle cinéma",
+      "start": "2026-11-11T00:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://www.videodrome2.fr/alternative-fantasy-cycle-cinema/",
+      "venueName": "Vidéodrome 2",
+      "address": "49 cours Julien, 13006 Marseille",
+      "commune": "Marseille",
+      "image": "https://www.videodrome2.fr/wp-content/uploads/ALTFANT2-scaled.jpeg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "cinema"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 3,
+      "scoreReasons": [
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "videodrome2",
+          "name": "Vidéodrome 2"
+        }
+      ]
+    },
+    {
+      "id": "0b5e23ccb412",
+      "title": "Apéro social club et chants au comptoir",
+      "start": "2026-11-11T18:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://www.millebabords.org/spip.php?article42403",
+      "venueName": "Manifesten",
+      "address": "Manifesten - 59 rue adolphe thiers 13001 marseille",
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "conference"
+      ],
+      "venueTags": [
+        "militant",
+        "planque"
+      ],
+      "score": 7,
+      "scoreReasons": [
+        "lieu militant",
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "mille-babords",
+          "name": "Mille Bâbords"
+        }
+      ]
+    },
+    {
+      "id": "0d2e81d22393",
+      "title": "TISSILAWEN + Mehtoze",
+      "start": "2026-11-11T19:30:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://lemolotov.com/events/tissilawen-mehtoze/",
+      "venueName": "Le Molotov",
+      "address": "3 place Paul-Cézanne, 13006 Marseille",
+      "commune": "Marseille",
+      "image": "https://lemolotov.com/wp-content/uploads/2026/10/tissilawen.webp",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "molotov",
+          "name": "Le Molotov / Le Dodu"
+        }
+      ]
+    },
+    {
+      "id": "1a632176503a",
+      "title": "Permanence de Mille Bâbords et de sa Médiathèque",
+      "start": "2026-11-12T14:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://www.millebabords.org/spip.php?article42404",
+      "venueName": "Mille Bâbords",
+      "address": "Mille Bâbords, 61 rue Consolat, 13001 Marseille",
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "conference"
+      ],
+      "venueTags": [
+        "militant",
+        "planque"
+      ],
+      "score": 7,
+      "scoreReasons": [
+        "lieu militant",
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "mille-babords",
+          "name": "Mille Bâbords"
+        }
+      ]
+    },
+    {
+      "id": "82d78ec1eaf6",
+      "title": "RATS DON’T SINK + Vodk47 + Bad Call",
+      "start": "2026-11-12T19:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://lemolotov.com/events/rats-dont-sink-vodk47-bad-call/",
+      "venueName": "Le Molotov",
+      "address": "3 place Paul-Cézanne, 13006 Marseille",
+      "commune": "Marseille",
+      "image": "https://lemolotov.com/wp-content/uploads/2026/10/rats.webp",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "molotov",
+          "name": "Le Molotov / Le Dodu"
+        }
+      ]
+    },
+    {
+      "id": "767b02ff5b07",
+      "title": "ASHEN + Ascend + Fleur.",
+      "start": "2026-11-13T18:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://lemolotov.com/events/ashen-guest/",
+      "venueName": "Le Dodu",
+      "address": "Belle de Mai, 13003 Marseille",
+      "commune": "Marseille",
+      "image": "https://lemolotov.com/wp-content/uploads/2026/06/web-2.webp",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "molotov",
+          "name": "Le Molotov / Le Dodu"
+        }
+      ]
+    },
+    {
       "id": "83b5e8814dae",
       "title": "SO LA LUNE",
       "start": "2026-11-13T19:00:00.000Z",
@@ -284,6 +1437,63 @@
         {
           "id": "espace-julien",
           "name": "L'Espace Julien"
+        }
+      ]
+    },
+    {
+      "id": "5f8deda13fa1",
+      "title": "LA FIÈVRE – MENTION TRÈS FIÈR·ES",
+      "start": "2026-11-13T20:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://lemolotov.com/events/la-fievre-mention-tres-fier%c2%b7es/",
+      "venueName": "Le Molotov",
+      "address": "3 place Paul-Cézanne, 13006 Marseille",
+      "commune": "Marseille",
+      "image": "https://lemolotov.com/wp-content/uploads/2026/10/LA_FIEVRE_SHOTGUN_HZ_mention_tres_fiere_i95adi.webp",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "molotov",
+          "name": "Le Molotov / Le Dodu"
+        }
+      ]
+    },
+    {
+      "id": "05276d870911",
+      "title": "DREAMACHINE FESTIVAL: KEIYAA + Broodoo Ramses",
+      "start": "2026-11-14T18:30:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://lemolotov.com/events/dreamachine-festival-keiyaa-broodoo-ramses/",
+      "venueName": "Le Dodu",
+      "address": "Belle de Mai, 13003 Marseille",
+      "commune": "Marseille",
+      "image": "https://lemolotov.com/wp-content/uploads/2026/02/keiyaa.webp",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "festival",
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 2,
+      "scoreReasons": [
+        "festival"
+      ],
+      "sources": [
+        {
+          "id": "molotov",
+          "name": "Le Molotov / Le Dodu"
         }
       ]
     },
@@ -315,6 +1525,143 @@
       ]
     },
     {
+      "id": "bd8d60822bac",
+      "title": "THE UPSESSIONS",
+      "start": "2026-11-15T19:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://lemolotov.com/events/the-upsessions/",
+      "venueName": "Le Molotov",
+      "address": "3 place Paul-Cézanne, 13006 Marseille",
+      "commune": "Marseille",
+      "image": "https://lemolotov.com/wp-content/uploads/2026/08/upsessions.webp",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "molotov",
+          "name": "Le Molotov / Le Dodu"
+        }
+      ]
+    },
+    {
+      "id": "68a636e30d94",
+      "title": "ARTICLE 353 DU CODE PÉNAL – Tanguy Viel, Emmanuel Noblet",
+      "start": "2026-11-16T23:00:00.000Z",
+      "end": "2026-11-27T23:00:00.000Z",
+      "allDay": true,
+      "description": "",
+      "url": "https://www.lestheatres.net/fr/a/6113-article-353-du-code-penal",
+      "venueName": "Bernardines",
+      "address": "17 bd Garibaldi, 13001 Marseille",
+      "commune": "Marseille",
+      "image": "https://d2d4te11holpqx.cloudfront.net/picture/12385/pivot_192x128/les-theatres-mjqxmju2odi2.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "theatre"
+      ],
+      "venueTags": [
+        "institution"
+      ],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "les-theatres",
+          "name": "Les Théâtres (Bernardines, Gymnase…)"
+        }
+      ]
+    },
+    {
+      "id": "c955d0435071",
+      "title": "MASSIMO SILVERIO + Misé Babilha",
+      "start": "2026-11-19T19:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://lemolotov.com/events/massimo-silverio-mise-babilha/",
+      "venueName": "Le Molotov",
+      "address": "3 place Paul-Cézanne, 13006 Marseille",
+      "commune": "Marseille",
+      "image": "https://lemolotov.com/wp-content/uploads/2026/09/Massimo-Silverio-Live-S.Francesco-@Riccardo-Carpanese.webp",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "molotov",
+          "name": "Le Molotov / Le Dodu"
+        }
+      ]
+    },
+    {
+      "id": "598229ec87e3",
+      "title": "MARCUS GAD & Tribe",
+      "start": "2026-11-20T18:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://lemolotov.com/events/marcus-gad-tribe-2/",
+      "venueName": "Le Dodu",
+      "address": "Belle de Mai, 13003 Marseille",
+      "commune": "Marseille",
+      "image": "https://lemolotov.com/wp-content/uploads/2026/04/PHOTO-MARCUS.webp",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "molotov",
+          "name": "Le Molotov / Le Dodu"
+        }
+      ]
+    },
+    {
+      "id": "32ea38f59422",
+      "title": "SPIDER ZED",
+      "start": "2026-11-21T18:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://lemolotov.com/events/spider-zed/",
+      "venueName": "Le Dodu",
+      "address": "Belle de Mai, 13003 Marseille",
+      "commune": "Marseille",
+      "image": "https://lemolotov.com/wp-content/uploads/2026/04/web-4.webp",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "molotov",
+          "name": "Le Molotov / Le Dodu"
+        }
+      ]
+    },
+    {
       "id": "be8eba5ce1a6",
       "title": "IBEYI",
       "start": "2026-11-21T19:00:00.000Z",
@@ -338,6 +1685,34 @@
         {
           "id": "espace-julien",
           "name": "L'Espace Julien"
+        }
+      ]
+    },
+    {
+      "id": "6ff0326be53b",
+      "title": "CHIMÈRES IV : LE BAL DES OMBRES",
+      "start": "2026-11-21T19:30:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://lemolotov.com/events/chimeres-iv-le-bal-des-ombres/",
+      "venueName": "Le Molotov",
+      "address": "3 place Paul-Cézanne, 13006 Marseille",
+      "commune": "Marseille",
+      "image": "https://lemolotov.com/wp-content/uploads/2026/10/chimeres_cover.webp",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert",
+        "fete"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "molotov",
+          "name": "Le Molotov / Le Dodu"
         }
       ]
     },
@@ -373,6 +1748,62 @@
       ]
     },
     {
+      "id": "534c747474e1",
+      "title": "GVLLOW + Ohm Sweet Ohm",
+      "start": "2026-11-24T19:30:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://lemolotov.com/events/gvllow-guest/",
+      "venueName": "Le Molotov",
+      "address": "3 place Paul-Cézanne, 13006 Marseille",
+      "commune": "Marseille",
+      "image": "https://lemolotov.com/wp-content/uploads/2026/04/3.webp",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "molotov",
+          "name": "Le Molotov / Le Dodu"
+        }
+      ]
+    },
+    {
+      "id": "eb50d4029637",
+      "title": "TRAHISONS – Harold Pinter, Tatiana Vialle",
+      "start": "2026-11-24T23:00:00.000Z",
+      "end": "2026-11-27T23:00:00.000Z",
+      "allDay": true,
+      "description": "",
+      "url": "https://www.lestheatres.net/fr/a/6117-trahisons",
+      "venueName": "Odéon / Théâtre du Gymnase - Hors les Murs",
+      "address": "4 rue du Théâtre Français, 13001 Marseille",
+      "commune": "Marseille",
+      "image": "https://d2d4te11holpqx.cloudfront.net/picture/12400/pivot_192x128/les-theatres-mtm5njg0ndm5mg.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "theatre"
+      ],
+      "venueTags": [
+        "institution"
+      ],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "les-theatres",
+          "name": "Les Théâtres (Bernardines, Gymnase…)"
+        }
+      ]
+    },
+    {
       "id": "d629bc8b8376",
       "title": "Geordie Greep",
       "start": "2026-11-25T23:00:00.000Z",
@@ -402,6 +1833,91 @@
       ]
     },
     {
+      "id": "383b50f5bd7b",
+      "title": "ERADIKAL INSANE + Reign + Vulher",
+      "start": "2026-11-27T19:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://lemolotov.com/events/eradikal-insane-reign/",
+      "venueName": "Le Molotov",
+      "address": "3 place Paul-Cézanne, 13006 Marseille",
+      "commune": "Marseille",
+      "image": "https://lemolotov.com/wp-content/uploads/2026/09/eradikal_insane.webp",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "molotov",
+          "name": "Le Molotov / Le Dodu"
+        }
+      ]
+    },
+    {
+      "id": "338a024bfebd",
+      "title": "DON JUAN – Philippe Car, Agence de Voyages Imaginaires",
+      "start": "2026-11-30T23:00:00.000Z",
+      "end": "2026-12-03T23:00:00.000Z",
+      "allDay": true,
+      "description": "",
+      "url": "https://www.lestheatres.net/fr/a/6120-don-juan",
+      "venueName": "Friche la Belle de Mai / Théâtre du Gymnase - Hors les Murs",
+      "address": "4 rue du Théâtre Français, 13001 Marseille",
+      "commune": "Marseille",
+      "image": "https://d2d4te11holpqx.cloudfront.net/picture/12421/pivot_192x128/les-theatres-mjazntezmjk3mw.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "theatre"
+      ],
+      "venueTags": [
+        "institution"
+      ],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "les-theatres",
+          "name": "Les Théâtres (Bernardines, Gymnase…)"
+        }
+      ]
+    },
+    {
+      "id": "5a4da5c9c010",
+      "title": "CAUSONS THÉÂTRE ! – Animé par Mateo Mavromatis",
+      "start": "2026-12-02T23:00:00.000Z",
+      "end": "2027-06-09T22:00:00.000Z",
+      "allDay": true,
+      "description": "",
+      "url": "https://www.lestheatres.net/fr/a/6303-causons-theatre",
+      "venueName": "Gymnase",
+      "address": "4 rue du Théâtre Français, 13001 Marseille",
+      "commune": "Marseille",
+      "image": "https://d2d4te11holpqx.cloudfront.net/picture/12919/pivot_192x128/les-theatres-mtc3ntcznjizoq.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "theatre"
+      ],
+      "venueTags": [
+        "institution"
+      ],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "les-theatres",
+          "name": "Les Théâtres (Bernardines, Gymnase…)"
+        }
+      ]
+    },
+    {
       "id": "f947e687aec8",
       "title": "OUAI STEPHANE + Luufa",
       "start": "2026-12-03T19:00:00.000Z",
@@ -425,6 +1941,33 @@
         {
           "id": "espace-julien",
           "name": "L'Espace Julien"
+        }
+      ]
+    },
+    {
+      "id": "9ca8b584e80b",
+      "title": "KRAV BOCA + Wake the Dead",
+      "start": "2026-12-04T18:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://lemolotov.com/events/krav-boca-wake-the-dead/",
+      "venueName": "Le Dodu",
+      "address": "Belle de Mai, 13003 Marseille",
+      "commune": "Marseille",
+      "image": "https://lemolotov.com/wp-content/uploads/2026/05/Affiche-MARS-EVENT-FB-copie.webp",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "molotov",
+          "name": "Le Molotov / Le Dodu"
         }
       ]
     },
@@ -460,6 +2003,60 @@
       ]
     },
     {
+      "id": "6068ca18997c",
+      "title": "SETH GUEKO",
+      "start": "2026-12-05T19:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://lemolotov.com/events/seth-gueko/",
+      "venueName": "Le Molotov",
+      "address": "3 place Paul-Cézanne, 13006 Marseille",
+      "commune": "Marseille",
+      "image": "https://lemolotov.com/wp-content/uploads/2026/05/web-5.webp",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "molotov",
+          "name": "Le Molotov / Le Dodu"
+        }
+      ]
+    },
+    {
+      "id": "01216119d0d3",
+      "title": "THIS WILL DESTROY YOU + Cahill//Costello + Bord du Monde",
+      "start": "2026-12-08T19:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://lemolotov.com/events/this-will-destroy-you-cahill-costello/",
+      "venueName": "Le Molotov",
+      "address": "3 place Paul-Cézanne, 13006 Marseille",
+      "commune": "Marseille",
+      "image": "https://lemolotov.com/wp-content/uploads/2026/08/twdy_banner.webp",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "molotov",
+          "name": "Le Molotov / Le Dodu"
+        }
+      ]
+    },
+    {
       "id": "2a7eee99539c",
       "title": "Conférence Boris Cyrulnik - Jean-Marie Cavada",
       "start": "2026-12-08T23:00:00.000Z",
@@ -485,6 +2082,87 @@
         {
           "id": "marseille-tourisme",
           "name": "Office de tourisme de Marseille"
+        }
+      ]
+    },
+    {
+      "id": "c04512a913b7",
+      "title": "METAL NIGHT: BREEDING CHAOS + KVÅRK + Clone Shop + Angel Guts",
+      "start": "2026-12-10T19:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://lemolotov.com/events/metal-night-breeding-chaos-kvark-clone-shop-angel-guts/",
+      "venueName": "Le Molotov",
+      "address": "3 place Paul-Cézanne, 13006 Marseille",
+      "commune": "Marseille",
+      "image": "https://lemolotov.com/wp-content/uploads/2026/10/metal-night.webp",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "molotov",
+          "name": "Le Molotov / Le Dodu"
+        }
+      ]
+    },
+    {
+      "id": "43bb42ebbe4e",
+      "title": "TÄRA",
+      "start": "2026-12-11T19:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://lemolotov.com/events/tara/",
+      "venueName": "Le Molotov",
+      "address": "3 place Paul-Cézanne, 13006 Marseille",
+      "commune": "Marseille",
+      "image": "https://lemolotov.com/wp-content/uploads/2026/09/site.webp",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "molotov",
+          "name": "Le Molotov / Le Dodu"
+        }
+      ]
+    },
+    {
+      "id": "68390d5f6a1f",
+      "title": "LOS FASTIDIOS",
+      "start": "2026-12-16T19:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://lemolotov.com/events/los-fastidios-3/",
+      "venueName": "Le Molotov",
+      "address": "3 place Paul-Cézanne, 13006 Marseille",
+      "commune": "Marseille",
+      "image": "https://lemolotov.com/wp-content/uploads/2026/06/web-6.webp",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "molotov",
+          "name": "Le Molotov / Le Dodu"
         }
       ]
     },
@@ -635,10 +2313,10 @@
     {
       "id": "molotov",
       "name": "Le Molotov / Le Dodu",
-      "kind": "auto",
+      "kind": "custom",
       "ok": true,
-      "eventCount": 0,
-      "keptCount": 0,
+      "eventCount": 33,
+      "keptCount": 25,
       "error": null,
       "usedFallback": false
     },
@@ -705,10 +2383,10 @@
     {
       "id": "les-theatres",
       "name": "Les Théâtres (Bernardines, Gymnase…)",
-      "kind": "auto",
+      "kind": "custom",
       "ok": true,
-      "eventCount": 0,
-      "keptCount": 0,
+      "eventCount": 18,
+      "keptCount": 5,
       "error": null,
       "usedFallback": false
     },
@@ -745,10 +2423,10 @@
     {
       "id": "mille-babords",
       "name": "Mille Bâbords",
-      "kind": "auto",
+      "kind": "custom",
       "ok": true,
-      "eventCount": 0,
-      "keptCount": 0,
+      "eventCount": 23,
+      "keptCount": 22,
       "error": null,
       "usedFallback": false
     },
@@ -815,10 +2493,10 @@
     {
       "id": "videodrome2",
       "name": "Vidéodrome 2",
-      "kind": "auto",
+      "kind": "custom",
       "ok": true,
-      "eventCount": 0,
-      "keptCount": 0,
+      "eventCount": 6,
+      "keptCount": 5,
       "error": null,
       "usedFallback": false
     },
@@ -879,7 +2557,7 @@
       "ok": false,
       "eventCount": 0,
       "keptCount": 0,
-      "error": "Réseau injoignable (Connect Timeout Error (attempted addresses: 185.128.239.10:443, 185.128.239.11:443, timeout: 10000ms)) sur https://andromede.id.st/",
+      "error": "Réseau injoignable (Connect Timeout Error (attempted addresses: 185.128.239.11:443, 185.128.239.10:443, timeout: 10000ms)) sur https://andromede.id.st/",
       "usedFallback": false
     },
     {
