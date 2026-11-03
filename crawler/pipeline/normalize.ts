@@ -9,6 +9,8 @@ import { shortenDescription } from "./text.utils";
 
 const FREE_PATTERN = /gratuit|entr[ée]e libre|prix libre|participation libre/i;
 const DAY_IN_MS = 24 * 60 * 60 * 1000;
+/** Listings that are services or internal meetings, not outings. */
+const NOT_A_SORTIE = /^(permanences?|r[ée]union (interne|de bureau|d'[ée]quipe)|assembl[ée]e g[ée]n[ée]rale|inscriptions?)\b/i;
 /** Multi-day events (exhibitions, festivals) longer than this are kept but shown once, at the window start. */
 const LONG_EVENT_DAYS = 3;
 
@@ -20,7 +22,7 @@ export interface Window {
 /** Turns a raw adapter event into a dashboard event, or null if it is out of the time or geographic window. */
 export function normalize(raw: RawEvent, source: SourceConfig, window: Window): SortieEvent | null {
   const title = raw.title.replace(/\s+/g, " ").trim();
-  if (!title) return null;
+  if (!title || NOT_A_SORTIE.test(title)) return null;
 
   const allDay = isDateOnly(raw.start);
   const start = toUtcIso(raw.start);

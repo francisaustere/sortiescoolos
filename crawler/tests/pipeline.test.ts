@@ -70,6 +70,13 @@ describe("wp-tribe adapter", () => {
   });
 });
 
+describe("not a sortie", () => {
+  it("drops permanences and general assemblies", () => {
+    expect(normalize({ title: "Permanence juridique CNT", start: "2026-11-20T18:00:00", address: "13001 Marseille" }, SOURCE, WINDOW)).toBeNull();
+    expect(normalize({ title: "Assemblée générale annuelle", start: "2026-11-20T18:00:00", address: "13001 Marseille" }, SOURCE, WINDOW)).toBeNull();
+  });
+});
+
 describe("sciences", () => {
   it("tags a Pint of Science talk as sciences and scores it", () => {
     const talk = normalize({ title: "Pint of Science : neurosciences et sommeil", start: "2026-11-20T19:30:00", address: "13001 Marseille" }, { ...SOURCE, venueTags: [] }, WINDOW);

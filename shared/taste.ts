@@ -20,9 +20,10 @@ export const TASTE_KEYWORDS: { label: string; weight: number; patterns: string[]
 
 /** Bonus per venue trait, so hidden spots surface first. */
 export const VENUE_TAG_WEIGHTS: Record<VenueTag, number> = {
-  planque: 3,
-  tiers_lieu: 2,
-  militant: 2,
+  // Kept modest so the topic, not the venue, decides the "coup de cœur"
+  planque: 2,
+  tiers_lieu: 1,
+  militant: 1,
   makers: 1,
   nature: 1,
   institution: 0,
