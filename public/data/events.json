@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T19:47:06.428Z",
+  "generatedAt": "2026-11-03T19:50:02.608Z",
   "windowDays": 45,
   "events": [
     {
@@ -230,8 +230,9 @@
         "militant",
         "planque"
       ],
-      "score": 3,
+      "score": 5,
       "scoreReasons": [
+        "débat",
         "lieu militant",
         "lieu planqué"
       ],
@@ -263,8 +264,9 @@
         "militant",
         "planque"
       ],
-      "score": 5,
+      "score": 7,
       "scoreReasons": [
+        "débat",
         "lieu militant",
         "lieu planqué"
       ],
@@ -389,8 +391,9 @@
         "militant",
         "planque"
       ],
-      "score": 5,
+      "score": 8,
       "scoreReasons": [
+        "politique",
         "lieu militant",
         "lieu planqué"
       ],
@@ -422,8 +425,9 @@
         "militant",
         "planque"
       ],
-      "score": 5,
+      "score": 7,
       "scoreReasons": [
+        "débat",
         "lieu militant",
         "lieu planqué"
       ],
@@ -511,8 +515,9 @@
         "militant",
         "planque"
       ],
-      "score": 5,
+      "score": 7,
       "scoreReasons": [
+        "débat",
         "lieu militant",
         "lieu planqué"
       ],
@@ -571,8 +576,9 @@
         "militant",
         "planque"
       ],
-      "score": 5,
+      "score": 7,
       "scoreReasons": [
+        "débat",
         "lieu militant",
         "lieu planqué"
       ],
@@ -690,8 +696,10 @@
         "militant",
         "planque"
       ],
-      "score": 5,
+      "score": 10,
       "scoreReasons": [
+        "politique",
+        "débat",
         "lieu militant",
         "lieu planqué"
       ],
@@ -723,8 +731,9 @@
         "militant",
         "planque"
       ],
-      "score": 5,
+      "score": 8,
       "scoreReasons": [
+        "politique",
         "festival",
         "lieu militant",
         "lieu planqué"
@@ -757,8 +766,9 @@
         "militant",
         "planque"
       ],
-      "score": 5,
+      "score": 8,
       "scoreReasons": [
+        "politique",
         "lieu militant",
         "lieu planqué"
       ],
@@ -904,8 +914,9 @@
         "militant",
         "planque"
       ],
-      "score": 5,
+      "score": 8,
       "scoreReasons": [
+        "politique",
         "lieu militant",
         "lieu planqué"
       ],
@@ -2116,10 +2127,10 @@
       "id": "actoral",
       "name": "actoral (ex-Montévidéo)",
       "kind": "auto",
-      "ok": true,
+      "ok": false,
       "eventCount": 0,
       "keptCount": 0,
-      "error": null,
+      "error": "Réseau injoignable (Connect Timeout Error (attempted address: www.actoral.org:443, timeout: 10000ms)) sur https://www.actoral.org/",
       "usedFallback": false
     },
     {
@@ -2259,7 +2270,7 @@
       "ok": false,
       "eventCount": 0,
       "keptCount": 0,
-      "error": "Réseau injoignable (Connect Timeout Error (attempted addresses: 185.128.239.11:443, 185.128.239.10:443, timeout: 10000ms)) sur https://andromede.id.st/",
+      "error": "Réseau injoignable (Connect Timeout Error (attempted addresses: 185.128.239.10:443, 185.128.239.11:443, timeout: 10000ms)) sur https://andromede.id.st/",
       "usedFallback": false
     },
     {
