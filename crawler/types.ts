@@ -1,6 +1,6 @@
 import type { Category, RawEvent, VenueTag, WatchPost } from "@shared/event";
 
-export type SourceKind = "auto" | "ical" | "jsonld" | "wp-tribe" | "reddit";
+export type SourceKind = "auto" | "custom" | "ical" | "jsonld" | "wp-tribe" | "reddit";
 
 export interface SourceConfig {
   readonly id: string;

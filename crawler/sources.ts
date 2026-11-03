@@ -70,7 +70,7 @@ export const SOURCES: SourceConfig[] = [
     defaultVenue: { name: "L'Embobineuse", address: "11 bd Bouès, 13003 Marseille", commune: MARSEILLE }, enabled: true,
   },
   {
-    id: "molotov", name: "Le Molotov / Le Dodu", kind: "auto", url: "https://www.lemolotov.com/",
+    id: "molotov", name: "Le Molotov / Le Dodu", kind: "custom", url: "https://www.lemolotov.com/",
     venueTags: [], defaultCategories: ["concert"],
     defaultVenue: { name: "Le Molotov", address: "3 place Paul-Cézanne, 13006 Marseille", commune: MARSEILLE }, enabled: true,
   },
@@ -106,7 +106,7 @@ export const SOURCES: SourceConfig[] = [
 
   // ---- Théâtre & spectacles
   {
-    id: "les-theatres", name: "Les Théâtres (Bernardines, Gymnase…)", kind: "auto", url: "https://www.lestheatres.net/fr/saison/",
+    id: "les-theatres", name: "Les Théâtres (Bernardines, Gymnase…)", kind: "custom", url: "https://www.lestheatres.net/fr/saison/",
     venueTags: ["institution"], defaultCategories: ["theatre"], requireLocalMatch: true, enabled: true,
   },
   {
@@ -125,10 +125,10 @@ export const SOURCES: SourceConfig[] = [
 
   // ---- Conférences, idées, militant
   {
-    id: "mille-babords", name: "Mille Bâbords", kind: "auto", url: "https://www.millebabords.org/",
+    id: "mille-babords", name: "Mille Bâbords", kind: "custom", url: "https://www.millebabords.org/",
     venueTags: ["militant", "planque"], defaultCategories: ["conference"],
     defaultVenue: { name: "Mille Bâbords", address: "61 rue Consolat, 13001 Marseille", commune: MARSEILLE }, enabled: true,
-    note: "Site SPIP : probablement besoin d'un lecteur sur mesure. Source prioritaire.",
+    note: "Lit le bloc agenda de la page d'accueil (SPIP Escal).",
   },
   {
     id: "up-marseille", name: "Université populaire de Marseille", kind: "auto", url: "https://universite-populaire-de-marseille.net/",
@@ -165,7 +165,7 @@ export const SOURCES: SourceConfig[] = [
 
   // ---- Cinéma associatif
   {
-    id: "videodrome2", name: "Vidéodrome 2", kind: "auto", url: "https://www.videodrome2.fr/",
+    id: "videodrome2", name: "Vidéodrome 2", kind: "custom", url: "https://www.videodrome2.fr/",
     venueTags: ["planque"], defaultCategories: ["cinema"],
     defaultVenue: { name: "Vidéodrome 2", address: "49 cours Julien, 13006 Marseille", commune: MARSEILLE }, enabled: true,
   },

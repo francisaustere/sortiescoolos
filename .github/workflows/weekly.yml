@@ -32,9 +32,12 @@ jobs:
           cache: npm
       - run: npm ci
       - run: npm test
+      # A code push only rebuilds the site; crawling runs on schedule or by hand (avoids data-commit conflicts)
       - name: Collecte des sources
+        if: github.event_name != 'push'
         run: npm run crawl
       - name: Sauvegarde des données dans le dépôt
+        if: github.event_name != 'push'
         run: |
           git config user.name "sorties-bot"
           git config user.email "sorties-bot@users.noreply.github.com"

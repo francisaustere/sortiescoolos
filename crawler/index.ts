@@ -2,6 +2,7 @@ import { mkdir, readFile, writeFile } from "node:fs/promises";
 import { dirname } from "node:path";
 import type { EventsFile, SortieEvent, SourceReport, WatchPost } from "@shared/event";
 import autoAdapter from "./adapters/auto";
+import customAdapter from "./adapters/custom";
 import icalAdapter from "./adapters/ical";
 import jsonLdAdapter from "./adapters/jsonld";
 import redditAdapter from "./adapters/reddit";
@@ -23,6 +24,7 @@ const DAY_IN_MS = 24 * 60 * 60 * 1000;
 
 const ADAPTERS: Record<SourceKind, Adapter> = {
   "auto": autoAdapter,
+  "custom": customAdapter,
   "ical": icalAdapter,
   "jsonld": jsonLdAdapter,
   "wp-tribe": wpTribeAdapter,
