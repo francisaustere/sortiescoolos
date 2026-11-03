@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T21:38:05.957Z",
+  "generatedAt": "2026-11-03T21:41:21.526Z",
   "windowDays": 45,
   "events": [
     {
@@ -53,6 +53,979 @@
       "venueTags": [],
       "score": 0,
       "scoreReasons": [],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "bee704c2966d",
+      "title": "KantatriX",
+      "start": "2026-11-03T00:00:00.000Z",
+      "end": "2027-05-04T22:00:00.000Z",
+      "allDay": true,
+      "description": "Standards Jazz – concert live KantatriX, ou l'âme du jazz. Le duo formé par Nicolas Cante (voix, piano) et Patrick Ferné (contrebasse) s'articule autour d'un répertoire de standards influencé par les plus grands — Nat King Cole, Frank Sinatra, Louis Armstrong, Nina Simone. Voix et contrebasse dialoguent dans une élégance feutrée, perpétuant la belle tradition du duo piano/contrebasse, comme puren…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/kantatrix-marseille-2eme-fr-6845441/",
+      "venueName": null,
+      "address": "Restaurant La Caravelle34 Quai Du Port, 13002, Marseille 2ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/153/236/43314329.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "d25e89ecd358",
+      "title": "Visite-atelier et visite commentée en famille au MAAOA",
+      "start": "2026-11-03T00:00:00.000Z",
+      "end": "2026-12-11T23:00:00.000Z",
+      "allDay": true,
+      "description": "Rendez-vous au Musée d'Arts Africains, Océaniens et Amérindiens (MAAOA) pour une visite-atelier. Visites-ateliers pour découvrir de manière ludique les collections du musée. Programme OCTOBRE ► Samedi 24 octobre : Masques en fête au Mexique Découvrez les fêtes mexicaines à travers les multiples masques présentés dans la salle des arts du Mexique au Musée des Arts Africains, Océaniens, Amérindiens…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/visite-atelier-et-visite-commentee-en-famille-au-maaoa-marseille-2eme-fr-5310998/",
+      "venueName": null,
+      "address": "Musée d'Arts Africains, Océaniens, Amérindiens - MAAOACentre de la Vieille Charité2 Rue de la Charité, 13002, Marseille 2ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/226/23/41621474.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "makers"
+      ],
+      "venueTags": [],
+      "score": 5,
+      "scoreReasons": [
+        "makers",
+        "jeux"
+      ],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "53d1f1cf7dbb",
+      "title": "Visite ludique \"Safari nouveau\"",
+      "start": "2026-11-03T00:00:00.000Z",
+      "end": "2026-12-29T23:00:00.000Z",
+      "allDay": true,
+      "description": "Visites animées pour le jeune public au Musée Borély - Musée des Arts décoratifs, de la Faïence et de la Mode. Biche, carpe, dragon ou coq … : en avant pour un safari d’observation ! Les enfants doivent débusquer les animaux qui se cachent un peu partout dans le château Borély et dans l’exposition. • Enfant de 4 à 6 ans • Durée : 45 min • Sur réservation, par courriel à chateau-borely-musee@marse…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/visite-ludique-safari-nouveau-marseille-8eme-fr-6634453/",
+      "venueName": null,
+      "address": "Musée Borély – Musée des Arts décoratifs, de la Faïence et de la ModeChâteau Borély132 Avenue Clot-Bey, 13008, Marseille 8ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/45/81/41963821.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "expo"
+      ],
+      "venueTags": [],
+      "score": 2,
+      "scoreReasons": [
+        "jeux"
+      ],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "6501a1a9ab4a",
+      "title": "Marché de producteurs du Cours Julien",
+      "start": "2026-11-03T00:00:00.000Z",
+      "end": "2026-12-30T23:00:00.000Z",
+      "allDay": true,
+      "description": "Sous les pergolas du cours Julien, le Marché Paysan donne rendez-vous chaque semaine aux amateurs de bonne chère. Sous les pergolas du cours Julien Le Marché de prodcteurs donne rendez-vous chaque semaine aux amateurs de bonne chère.",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/marche-de-producteurs-du-cours-julien-marseille-6eme-fr-2781411/",
+      "venueName": null,
+      "address": "Cours JulienCours Julien, 13006, Marseille 6ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/164/234/12839588.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "autre"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "4da9bca27777",
+      "title": "Les Balades de Juliette",
+      "start": "2026-11-03T00:00:00.000Z",
+      "end": "2026-12-30T23:00:00.000Z",
+      "allDay": true,
+      "description": "Guide-conférencière en français, anglais, allemand et espagnol, Juliette a une offre de balades littéraires et historiques et de conférences. Juliette, guide-conférencière, vous fera découvrir Marseille avec deux balades littéraires : - Marseille au 19e siècle, Lazarine Nègre, une autrice émancipée : une balade d'1h30 dans le secteur Vieux-Port - Canebière - Noailles. - Le Docker noir de Sembène …",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/les-balades-de-juliette-marseille-1er-fr-5326927/",
+      "venueName": null,
+      "address": "13001, Marseille 1er",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/107/207/28364651.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "nature",
+        "fete"
+      ],
+      "venueTags": [],
+      "score": 6,
+      "scoreReasons": [
+        "débat",
+        "nature"
+      ],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "da2b2a869311",
+      "title": "Les Gabians",
+      "start": "2026-11-03T00:00:00.000Z",
+      "end": "2026-12-05T23:00:00.000Z",
+      "allDay": true,
+      "description": "Formés dans ses coulisses, ils rentrent au Garage Comedy Club non plus comme apprentis - mais pour passer au niveau supérieur. Bruyant, omniprésent et impossible à ignorer, le collectif de stand-up Les Gabians installe son nid pour une mensuelle au Garage Comedy Club ! 1 heure de stand-up, des artistes renouvelés à chaque événement, des styles d’humour différents mais un seul objectif : vous prop…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/les-gabians-marseille-6eme-fr-6815830/",
+      "venueName": null,
+      "address": "Garage Comédy Club15 Rue Trois Frères Barthélémy, 13006, Marseille 6ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/155/223/42786715.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "spectacle"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "2ef7a53754ed",
+      "title": "Festival en Ribambelle",
+      "start": "2026-11-03T00:00:00.000Z",
+      "end": "2026-11-14T23:00:00.000Z",
+      "allDay": true,
+      "description": "Festival jeune public des arts de la marionnette et de l’objet, en Ribambelle ! est de retour pour une 13ème édition. Une vingtaine de spectacles et ateliers seront proposés à Marseille et dans tout le département. Une sortie à faire en famille ! Le festival En Ribambelle ! est le rendez-vous incontournable des familles en quête de spectacles jeune public. Imaginé par le Théâtre Massalia - Scène …",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/festival-en-ribambelle-marseille-3eme-fr-6665124/",
+      "venueName": null,
+      "address": "Théâtre MassaliaLa Friche Belle de Mai41 rue Jobin (entrée piéton) 12 rue François Simon (parking), 13003, Marseille 3ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/204/150/42112716.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "festival"
+      ],
+      "venueTags": [],
+      "score": 4,
+      "scoreReasons": [
+        "makers",
+        "festival"
+      ],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "017a84d6a931",
+      "title": "Exposition d’Elsa Devèze et Barbara Sanches",
+      "start": "2026-11-03T00:00:00.000Z",
+      "end": "2026-11-03T23:00:00.000Z",
+      "allDay": true,
+      "description": "Rejoignez-nous pour le vernissage de l’exposition d’Elsa Devèze et Barbara Sanches à Artless Gallery & English Bookstore. Vernissage le jeudi 15 octobre à partir de 18h Exposition du 16 octobre au 4 novembre À travers son travail, Elsa Devèze explore le chaos des éléments naturels jusqu’à l’abstraction et arpenter les érèmes à la frontière du fantastique (érème : espace préservé de toute modifica…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/exposition-delsa-deveze-et-barbara-sanches-marseille-6eme-fr-6815867/",
+      "venueName": null,
+      "address": "Artless Gallery & English Bookstore1 rue Ferdinand Rey, 13006, Marseille 6ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/142/182/42776206.jpeg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "expo"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "176666dccb7d",
+      "title": "Marché Monthyon",
+      "start": "2026-11-03T00:00:00.000Z",
+      "end": "2026-12-30T23:00:00.000Z",
+      "allDay": true,
+      "description": "Marché de quartier Marché Place Monthyon Produits manufacturés : lundi, mercredi, vendredi Produits alimentaires divers : du lundi au samedi",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/marche-monthyon-marseille-6eme-fr-5907454/",
+      "venueName": null,
+      "address": "Place Monthyon, 13006, Marseille 6ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/249/215/33216505.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "autre"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "ae370bba7c00",
+      "title": "Programme novembre du Vig's",
+      "start": "2026-11-03T00:00:00.000Z",
+      "end": "2026-12-02T23:00:00.000Z",
+      "allDay": true,
+      "description": "Programme du mois de novembre. Programme de l'automne, qui offre toujours une bonne dose de rigolade, avec Anaïs Gilles, Greg Petras, Achraf et Merwan et de nombreux guests !",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/programme-novembre-du-vigs-marseille-7eme-fr-6880065/",
+      "venueName": null,
+      "address": "Le Vig's15 Quai de Rive-Neuve, 13007, Marseille 7ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/227/189/43564515.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "autre"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "72ecf1124fa7",
+      "title": "Populaire ?",
+      "start": "2026-11-03T00:00:00.000Z",
+      "end": "2026-12-30T23:00:00.000Z",
+      "allDay": true,
+      "description": "La nouvelle exposition semi-permanente du Mucem, qui prend la suite de l’exposition « Connectivités » ouverte en novembre 2017. Alors que le Mucem fête cette année ses dix ans, l’occasion est belle de revenir sur ce qui constitue son cœur et son histoire : sa collection. Cette exposition permanente souhaite présenter sa collection dans toute sa diversité. Elle réunit en effet les fonds historique…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/populaire-marseille-2eme-fr-4339344/",
+      "venueName": null,
+      "address": "Mucem7 Promenade Robert Laffont, 13002, Marseille 2ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/168/174/20164264.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "expo",
+        "fete"
+      ],
+      "venueTags": [],
+      "score": 2,
+      "scoreReasons": [
+        "histoire"
+      ],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "2ba69b300966",
+      "title": "Le marché des bouquinistes",
+      "start": "2026-11-03T00:00:00.000Z",
+      "end": "2026-12-30T23:00:00.000Z",
+      "allDay": true,
+      "description": "Marché des bouquinistes Retrouvez le Marché des bouquinistes sur la Place Léon Blum. Livres, disques, CD et DVD d'occasion.",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/le-marche-des-bouquinistes-marseille-1er-fr-2998181/",
+      "venueName": null,
+      "address": "Square Léon Blum, 13001, Marseille 1er",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/179/253/9174451.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "autre"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "7b58dba84d16",
+      "title": "The Jury Experience : Le procès de l’IA meurtrière",
+      "start": "2026-11-03T00:00:00.000Z",
+      "end": "2027-01-14T23:00:00.000Z",
+      "allDay": true,
+      "description": "Dilemme Moral #1 : une voiture autonome a fait une manœuvre pour éviter un accident... et a causé la mort d'une personne. A toi de décider qui est responsable. Plonge dans un thriller judiciaire palpitant où le public joue le rôle du jury. Tu as été appelé·e à faire partie d'un jury. Ecoute les témoignages, analyse les preuves et décide finalement si l'accusé est... coupable ou innocent ? Tu as é…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/the-jury-experience-le-proces-de-lia-meurtriere-marseille-2eme-fr-6335012/",
+      "venueName": null,
+      "address": "Villa Cosquer MéditerranéeEsplanade Gisèle Halimi, 13002, Marseille 2ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/61/183/39171901.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "autre"
+      ],
+      "venueTags": [],
+      "score": 2,
+      "scoreReasons": [
+        "nature"
+      ],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "e592b2d16994",
+      "title": "Dinosaures de Provence",
+      "start": "2026-11-03T00:00:00.000Z",
+      "end": "2027-06-19T22:00:00.000Z",
+      "allDay": true,
+      "description": "Rendez-vous au Muséum d'Histoire Naturelle de Marseille du 18 septembre 2026 au 9 mai 2027 afin de découvrir l'exposition \"Dinosaures de Provence\". Immersive, cette exposition est l’occasion d’une plongée dans le monde des dinosaures et de la Provence il y a 73 millions d’années, sur la piste de ces géants, petits et grands, du métier de paléontologue, de l’histoire des découvertes, des représent…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/dinosaures-de-provence-marseille-4eme-fr-6606174/",
+      "venueName": null,
+      "address": "Muséum d'Histoire NaturellePalais Longchamp aile droiteBoulevard Philippon, 13004, Marseille 4ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/250/54/42612474.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "expo"
+      ],
+      "venueTags": [],
+      "score": 4,
+      "scoreReasons": [
+        "histoire",
+        "original"
+      ],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "5430a9b03f91",
+      "title": "Les jeudis réalité virtuelle à la micro-folie départementale des Bouches-du-Rhône",
+      "start": "2026-11-03T00:00:00.000Z",
+      "end": "2026-12-30T23:00:00.000Z",
+      "allDay": true,
+      "description": "Tous les jeudis à 16h et à 17h, découvrez le monde de l’art dans une exploration immersive grâce à un casque de réalité virtuelle. Plus que de l’histoire de l’art, c’est l’occasion de ressentir et de comprendre l’art à travers une oeuvre numérique à expérimenter avec un casque de Réalité Virtuelle. Au programme jusqu’au 31 décembre 2026 - Gauguin, le voyage intérieur - En tête-à-tête avec La Joco…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/les-jeudis-realite-virtuelle-a-la-micro-folie-departementale-des-bouches-du-rhone-marseille-3eme-fr-6830003/",
+      "venueName": null,
+      "address": "Archives départementales18 Rue Mirès, 13003, Marseille 3ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/46/209/42848558.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "autre"
+      ],
+      "venueTags": [],
+      "score": 4,
+      "scoreReasons": [
+        "histoire",
+        "original"
+      ],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "1ab1c12ad65e",
+      "title": "Amphibie par-ci, par-là.",
+      "start": "2026-11-03T00:00:00.000Z",
+      "end": "2027-03-27T23:00:00.000Z",
+      "allDay": true,
+      "description": "Depuis 1997, la Cabane Georgina, \"coeur lieu\" dans un quartier typique de bord de mer, tisse des fêtes, expositions, rencontres, résidences et solidarités. L'exposition \"Amphibie par-ci, par-là\" avec 50 artistes perpétue la tradition. 14e chapitre de la Saga de la Cabane Georgina \"Amphibie par-ci, par-là\" avec 50 artistes perpétue la tradition d'une réflexion, d'amusements, de rencontres et de fê…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/amphibie-par-ci-par-la-marseille-8eme-fr-6732435/",
+      "venueName": null,
+      "address": "La Cabane de Georgina2 chemin du Mauvais Pas, 13008, Marseille 8ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/18/7/42469138.jpeg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "expo",
+        "fete"
+      ],
+      "venueTags": [],
+      "score": 5,
+      "scoreReasons": [
+        "politique",
+        "débat"
+      ],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "5131453f4172",
+      "title": "Désobéir à l'ère numérique",
+      "start": "2026-11-03T00:00:00.000Z",
+      "end": "2026-12-12T23:00:00.000Z",
+      "allDay": true,
+      "description": "Exposition collective Dans le cadre de Biennale des Imaginaires Numériques et Saison Méditerranée Une proposition de CHRONIQUES Les artistes de cette exposition investissent les failles des systèmes numériques contemporains pour en révéler les mécanismes invisibles. Algorithmes, intelligences artificielles, plateformes sociales ou dispositifs de surveillance deviennent ici des matériaux à détourn…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/desobeir-a-lere-numerique-marseille-3eme-fr-6833636/",
+      "venueName": null,
+      "address": "Friche Belle de Mai41 Rue Jobin, 13003, Marseille 3ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/63/35/42869567.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "festival",
+        "expo"
+      ],
+      "venueTags": [],
+      "score": 1,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "84e4f40c80dd",
+      "title": "Marché aux puces",
+      "start": "2026-11-03T00:00:00.000Z",
+      "end": "2026-12-30T23:00:00.000Z",
+      "allDay": true,
+      "description": "Les Puces de Marseille vous accueille toute l'année, tous les jours sauf le lundi. Le Centre Commercial Les Puces de Marseille vous propose : - Un marché couvert ouvert tous les jours sauf le lundi de 8h30 à 19h30 300 forains et une centaine de brocanteurs et débarras de caves : - Commerçants forains le dimanche de 8h30 à 14h00. - Brocanteurs et débarras de caves le samedi et le dimanche de 8h30 …",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/marche-aux-puces-marseille-15eme-fr-3654376/",
+      "venueName": null,
+      "address": "130 chemin de la Madrague Ville, 13015, Marseille 15ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/9/49/13119753.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "autre"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "88238aba57ec",
+      "title": "Les Bonnes - Jean Genet",
+      "start": "2026-11-03T00:00:00.000Z",
+      "end": "2026-12-04T23:00:00.000Z",
+      "allDay": true,
+      "description": "Le complot raté de deux domestiques qui voulaient assassiner leur maîtresse. Mise en scène : Michel Adjriou Distribution : Claire : Anaïs Fiastre Solange : Anne Moriceau Madame : Sigrid Objilère Le complot raté de deux domestiques qui voulaient assassiner leur maîtresse. Elles travaillent pour un couple qui appartient à la classe bourgeoise. Elles s’adonnent régulièrement à un jeu de rôle sordide…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/les-bonnes-jean-genet-marseille-6eme-fr-6636809/",
+      "venueName": null,
+      "address": "Théâtre du Carré Rond23 rue des Trois Rois, 13006, Marseille 6ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/94/129/41976158.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "theatre"
+      ],
+      "venueTags": [],
+      "score": 2,
+      "scoreReasons": [
+        "jeux"
+      ],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "845928fd401f",
+      "title": "Le par­cours­ muséographique du Musée d'Histoire de Marseille",
+      "start": "2026-11-03T00:00:00.000Z",
+      "end": "2026-12-30T23:00:00.000Z",
+      "allDay": true,
+      "description": "Ce musée de la plus ancienne ville de France permet de découvrir 26 siècles d’histoire où se mêlent archéologie, beaux arts, objets du quotidien et architecture. Il est organisé en 13 séquences ponctuées de dispositifs numériques. Un musée d'Histoire pour un patrimoine vivant : Marseille se dote d'un musée d'Histoire en 1983. Véritable musée de site, il s'inscrit pleinement dans les aménagements …",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/le-parcours-museographique-du-musee-dhistoire-de-marseille-marseille-1er-fr-2781316/",
+      "venueName": null,
+      "address": "Musée d'Histoire de Marseille - (MHM)Centre Bourse2 rue Henri Barbusse, 13001, Marseille 1er",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/128/205/41667968.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 2,
+      "scoreReasons": [
+        "histoire"
+      ],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "b0e8a0e76cec",
+      "title": "Marché du Prado",
+      "start": "2026-11-03T00:00:00.000Z",
+      "end": "2026-12-30T23:00:00.000Z",
+      "allDay": true,
+      "description": "Du lundi au samedi, l'animation de la place Castellane se voit prolongée sur une grande partie de l'avenue du Prado. Le marché du Prado est l'un des principaux de la ville, et se tient le matin. Alimentaires divers et produits manufacturés : du lundi au samedi Fleurs/Plants et produits artisanaux et alimentaires : le vendredi",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/marche-du-prado-marseille-8eme-fr-2782375/",
+      "venueName": null,
+      "address": "Rond point Castellane à Périer (côté pair)Av. du Prado, 13008, Marseille 8ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/107/227/12837739.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "autre"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "e91a3287bab6",
+      "title": "Angela Detanico et Rafael Lain : Champ étoilé",
+      "start": "2026-11-03T00:00:00.000Z",
+      "end": "2026-11-14T23:00:00.000Z",
+      "allDay": true,
+      "description": "Avec le soutien de l’Instituto Guimarães Rosa et de l’Ambassade du Brésil à Paris, en partenariat avec la Galerie Martine Aboucaya. Angela Detanico et Rafael Lain nous invitent au Frac Sud à parcourir un champ d’étoiles et à nous plonger dans le mystère de la création de l’univers et des astres. Ce duo d’artistes franco-brésiliens mènent ensemble depuis plus de 20 ans une recherche artistique sur…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/angela-detanico-et-rafael-lain-champ-etoile-marseille-2eme-fr-6189684/",
+      "venueName": null,
+      "address": "Frac Sud – Cité de l’art contemporain20 Boulevard De Dunkerque, 13002, Marseille 2ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/177/35/37102513.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "nature",
+        "expo"
+      ],
+      "venueTags": [],
+      "score": 4,
+      "scoreReasons": [
+        "nature"
+      ],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "0c7f6a5d92d0",
+      "title": "Visite éveil \"Promenons-nous dans les bois\"",
+      "start": "2026-11-03T00:00:00.000Z",
+      "end": "2026-12-11T23:00:00.000Z",
+      "allDay": true,
+      "description": "Le musée des Beaux-Arts propose une visite éveil pour les tout-petits. Venez découvrir l'histoire cachée derrière l'œuvre d'Alexis Daligé de Fontenay. Éveil des sens garanti pour les tout-petits. • Enfants de 1 à 3 ans - Présence d’un adulte accompagnateur requise. • Durée : 45 min • Sur réservation au 04 91 14 59 30/35 Pour faciliter le bon déroulement des visites éveil, il est nécessaire de se …",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/visite-eveil-promenons-nous-dans-les-bois-marseille-4eme-fr-6156051/",
+      "venueName": null,
+      "address": "Musée des Beaux-Arts - (MBA)Palais LongchampAile gauche, 13004, Marseille 4ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/16/248/41941008.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "autre"
+      ],
+      "venueTags": [],
+      "score": 2,
+      "scoreReasons": [
+        "histoire"
+      ],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "2a1c28dce8f2",
+      "title": "The Jazz Room : un voyage au cœur de La Nouvelle-Orléans",
+      "start": "2026-11-03T00:00:00.000Z",
+      "end": "2026-11-12T23:00:00.000Z",
+      "allDay": true,
+      "description": "Embarquez pour un voyage au cœur de la Nouvelle-Orléans, berceau du jazz. Savant mélange de tubes classiques soigneusement sélectionnés et d’improvisations spontanées, cette représentation musicale vous transporte dans un voyage vers les origines de ce genre révolutionnaire. Profitez des meilleurs morceaux de « hot jazz », un mélange unique de ragtime, de brass et de blues, ainsi que des moments …",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/the-jazz-room-un-voyage-au-coeur-de-la-nouvelle-orleans-marseille-5eme-fr-6571301/",
+      "venueName": null,
+      "address": "Cabaret l'Etoile Bleue107 Bd Jeanne d'Arc, 13005, Marseille 5ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/135/221/41737607.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "f13e63b132d8",
+      "title": "Le souper - Jean Claude Brisville",
+      "start": "2026-11-03T00:00:00.000Z",
+      "end": "2027-01-29T23:00:00.000Z",
+      "allDay": true,
+      "description": "La scène du souper se déroule à Paris le 6 juillet 1815 à minuit, dans l'hôtel particulier de Talleyrand... Mise en scène: Dominique Lamour. Distribution: Talleyrand / Michel Adjriou, Fouché /Jean-Michel Messina Les deux valets / Pascal Gentil, Jean Latil La scène du souper se déroule à Paris le 6 juillet 1815 à minuit, dans l'hôtel particulier de Talleyrand, juste avant le retour au pouvoir de L…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/le-souper-jean-claude-brisville-marseille-6eme-fr-6636800/",
+      "venueName": null,
+      "address": "Théâtre du Carré Rond23 rue des Trois Rois, 13006, Marseille 6ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/145/130/41976465.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "theatre"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "1674e2b0ef8b",
+      "title": "Fêlures",
+      "start": "2026-11-03T00:00:00.000Z",
+      "end": "2026-11-14T23:00:00.000Z",
+      "allDay": true,
+      "description": "Le titre nous renvoie à l’exploration d’un interstice poétique dans lequel une vie nouvelle peut émerger à la façon de végétaux se développant dans une faille sur le béton d’un trottoir. Fêlures est une exposition regroupant une série d’installations qui mettent à l’honneur le détournement d’objets et de technologies. Au travers de différentes collections, de cailloux, de cuillères à absinthe tra…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/felures-marseille-1er-fr-6837491/",
+      "venueName": null,
+      "address": "Médusa17 rue Flégier, 13001, Marseille 1er",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/190/207/43241406.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "expo"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "5512257aabcd",
+      "title": "Visite éveil \"Gaio, le perroquet haut en couleurs\"",
+      "start": "2026-11-03T00:00:00.000Z",
+      "end": "2026-12-18T23:00:00.000Z",
+      "allDay": true,
+      "description": "Le musée des Beaux-Arts propose une visite éveil pour les tout-petits. L'aventure se déroule en Amazonie. Nous suivons Gaio dans sa quête de couleurs, rythmée par une balade musicale. Éveil des sens garanti pour les tout-petits. • Tout-petits de 1 à 3 ans • Durée : 45 min • Sur réservation au 04 91 14 59 30/35 Pour faciliter le bon déroulement des visites éveil, il est nécessaire de se présenter …",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/visite-eveil-gaio-le-perroquet-haut-en-couleurs-marseille-4eme-fr-6630256/",
+      "venueName": null,
+      "address": "Musée des Beaux-Arts - (MBA)Palais LongchampAile gauche, 13004, Marseille 4ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/147/248/41941139.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "nature",
+        "fete"
+      ],
+      "venueTags": [],
+      "score": 4,
+      "scoreReasons": [
+        "nature"
+      ],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "1909e7429238",
+      "title": "Papaya Jazz Quatuor",
+      "start": "2026-11-03T00:00:00.000Z",
+      "end": "2027-05-13T22:00:00.000Z",
+      "allDay": true,
+      "description": "Jazz fusion bossa – concert live . Avec son répertoire jazz fusion & bossa, entre reprises et compositions, Papaya Jazz embarque le public dans une soirée pleine d'énergie autour de standards de plusieurs générations. Du jazz aux couleurs de la bossa, avec un vrai sens du groove et de la fête. Formation modulable (jusqu'au quatuor : piano, basse, batterie, saxophone), le groupe fait de chaque con…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/papaya-jazz-quatuor-marseille-2eme-fr-6845460/",
+      "venueName": null,
+      "address": "Restaurant La Caravelle34 Quai Du Port, 13002, Marseille 2ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/155/236/43314331.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "85e7a28620d5",
+      "title": "Ateliers pour adulte \"autour de la collection\" - Cantini",
+      "start": "2026-11-03T00:00:00.000Z",
+      "end": "2026-12-18T23:00:00.000Z",
+      "allDay": true,
+      "description": "Rendez-vous au Musée Cantini pour un atelier pour les adultes. Ateliers proposés autour de la collection ! • Public : adultes • Durée : 3h • Matériel fourni, tablier indispensable • Sur réservation par mail : lbitunjac@marseille.fr",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/ateliers-pour-adulte-autour-de-la-collection-cantini-marseille-6eme-fr-6812931/",
+      "venueName": null,
+      "address": "Musée Cantini19 Rue Grignan, 13006, Marseille 6ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/111/175/42774383.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "makers"
+      ],
+      "venueTags": [],
+      "score": 3,
+      "scoreReasons": [
+        "makers"
+      ],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "ef4fe19a8150",
+      "title": "Visite-Atelier en famille \"Contes et mythologie\"",
+      "start": "2026-11-03T00:00:00.000Z",
+      "end": "2026-12-22T23:00:00.000Z",
+      "allDay": true,
+      "description": "Le musée des Beaux-Arts propose une visite en famille \"Contes et mythologie\". Exploration de figures mythologiques et de récits légendaires autour d'une sélection d’œuvres peintes et sculptées. Spécial Halloween Venez déguisés au musée ! • À 10h : enfants de 3 à 5 ans (durée : 1h) • À 14h30 : enfants à partir de 6 ans (durée : 1h30) • Réservation obligatoire au 04 91 14 59 30/35, dans la limite d…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/visite-atelier-en-famille-contes-et-mythologie-marseille-4eme-fr-5200566/",
+      "venueName": null,
+      "address": "Musée des Beaux-Arts - (MBA)Palais LongchampAile gauche, 13004, Marseille 4ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/103/64/25837671.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "makers"
+      ],
+      "venueTags": [],
+      "score": 3,
+      "scoreReasons": [
+        "makers"
+      ],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "d3361e982ce5",
+      "title": "Marché des Capucins (Noailles)",
+      "start": "2026-11-03T00:00:00.000Z",
+      "end": "2026-12-30T23:00:00.000Z",
+      "allDay": true,
+      "description": "Le marché Capucins est un lieu qui mérite le détour, c'est une véritable invitation au voyage. Le marché Capucins (ou de Noailles) est un lieu qui mérite le détour, c'est une véritable invitation au voyage : on s'y sent complètement dépaysé, loin de tout, à l'autre bout du monde le temps de quelques courses. Les produits proposés (fruits et légumes, des herbes, du poisson...) sont très frais, et …",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/marche-des-capucins-noailles-marseille-1er-fr-2781347/",
+      "venueName": null,
+      "address": "Marché des Capucins5 rue du Marché des Capucins, 13001, Marseille 1er",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/69/199/12044101.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "autre"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "c72569ec5a3f",
+      "title": "Le marché paysan de la Friche",
+      "start": "2026-11-03T00:00:00.000Z",
+      "end": "2027-12-30T23:00:00.000Z",
+      "allDay": true,
+      "description": "Des fruits, des légumes, du pain, fromage, œufs ou miel… Venez faire vos courses au marché paysan ! Marché Paysan tous les lundis. Des fruits, des légumes, du pain, fromage, œufs ou miel… Venez faire vos courses au marché paysan ! Tous les lundis, de 16h à 20h, retrouvez les producteurs et leurs étals sur la terrasse du restaurant Les Grandes Tables.",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/le-marche-paysan-de-la-friche-marseille-3eme-fr-2825327/",
+      "venueName": null,
+      "address": "Friche Belle de Mai41 Rue Jobin, 13003, Marseille 3ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/92/106/9136732.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "autre"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "98f1bd502585",
+      "title": "NOUS, Sorcière & Sauvage",
+      "start": "2026-11-03T00:00:00.000Z",
+      "end": "2027-03-12T23:00:00.000Z",
+      "allDay": true,
+      "description": "Une exposition labellisée Bicentenaire de la Photographie à la Bibliothèque départementale des Bouches-du-Rhône : 130 œuvres (dessin, photographie, peinture, illustration, sculpture, films, création vidéo…) Exposition - Visites - Ateliers - Médiations - Programmation culturelle L'homme sauvage et la sorcière sont deux grandes figures de l'imaginaire universel qui n'ont cessé d'être revisitées par…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/nous-sorciere-sauvage-marseille-3eme-fr-6830034/",
+      "venueName": null,
+      "address": "Archives départementales18 Rue Mirès, 13003, Marseille 3ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/252/205/42847740.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "makers",
+        "concert",
+        "expo"
+      ],
+      "venueTags": [],
+      "score": 6,
+      "scoreReasons": [
+        "makers",
+        "IA / code"
+      ],
       "sources": [
         {
           "id": "marseille-tourisme",
@@ -255,6 +1228,37 @@
         {
           "id": "friche",
           "name": "Friche la Belle de Mai"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "351dbc2719d4",
+      "title": "Pression HyperBAR ! Nos villes seront-elles habitables à +4°C ?",
+      "start": "2026-11-03T23:00:00.000Z",
+      "end": "2026-11-03T23:00:00.000Z",
+      "allDay": true,
+      "description": "Une rencontre conviviale avec les chercheurs de l’Observatoire des Sciences de l’Univers Pythéas, animée par les étudiants du Master ISME d’Aix-Marseille Université, à la brasserie Zoumaï. 2026 aura été une année climatique hors norme en France. Été le plus chaud jamais enregistré, vagues de chaleur à répétition, sécheresse des sols, incendies, températures marines exceptionnelles : ce…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/pression-hyperbar-nos-villes-seront-elles-habitables-a-4c-marseille-6eme-fr-6854002/",
+      "venueName": null,
+      "address": "Brasserie Le Zoumaï7 cours Gouffé, 13006, Marseille 6ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/186/238/43380410.png",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "sciences"
+      ],
+      "venueTags": [],
+      "score": 6,
+      "scoreReasons": [
+        "sciences",
+        "débat"
+      ],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
         }
       ],
       "approximate": false
@@ -752,6 +1756,95 @@
       "approximate": false
     },
     {
+      "id": "c72465e9f37f",
+      "title": "The Great Chevalier and The Pigeon Dance",
+      "start": "2026-11-04T23:00:00.000Z",
+      "end": "2026-11-04T23:00:00.000Z",
+      "allDay": true,
+      "description": "Le célèbre Ballet National Folklorique du Luxembourg marque son retour à KLAP Maison pour la danse à l’occasion des 50 ans de The Pigeon Dance. Le célèbre Ballet National Folklorique du Luxembourg marque son retour à KLAP Maison pour la danse à l’occasion des 50 ans de The Pigeon Dance, ballet mythique de Josiane Bal, ancienne directrice de la compagnie, et inspiré par l’iconique danse folkloriqu…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/the-great-chevalier-and-the-pigeon-dance-marseille-3eme-fr-6676652/",
+      "venueName": null,
+      "address": "KLAP Maison pour la Danse Kelemenis & Cie5 avenue RostandSaint-Mauront, 13003, Marseille 3ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/206/190/42122958.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "spectacle",
+        "fete"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "a6b6cf514459",
+      "title": "Trace ta Route",
+      "start": "2026-11-04T23:00:00.000Z",
+      "end": "2026-11-14T23:00:00.000Z",
+      "allDay": true,
+      "description": "Du 5 au 15 novembre, L’Aérosol Marseille accueille 70 artistes pour le Prix du Graffiti et du Street Art 2026. Autour du thème « Trace ta route », l’exposition célèbre la création urbaine contemporaine avant de rejoindre Paris. Prix du Graffiti et du Street Art 2026 : 70 artistes sélectionnés Pour sa sixième édition, le Prix du Graffiti et du Street Art, porté par Graff’Art, réunit 70 artistes au…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/trace-ta-route-marseille-15eme-fr-6862807/",
+      "venueName": null,
+      "address": "L'Aérosolla Tulipe5 Bd Romieu, 13015, Marseille 15ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/7/252/43449351.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "expo"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "e848f772688f",
+      "title": "Patrick Fiori",
+      "start": "2026-11-04T23:00:00.000Z",
+      "end": "2026-11-04T23:00:00.000Z",
+      "allDay": true,
+      "description": "Si vous rêvez d’un concert qui marque le cœur, embarquez en 2027 et 2028 avec Patrick Fiori. Après le succès de sa dernière tournée, Patrick Fiori revient sur scène avec l’envie de réinventer la rencontre avec son public. Accompagné de son équipe fidèle, il invite chacun à une soirée chaleureuse et généreuse où l’émotion, la proximité et le partage sont au cœur du spectacle. Des instants de compl…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/patrick-fiori-marseille-4eme-fr-6812911/",
+      "venueName": null,
+      "address": "Le Dôme48 avenue de Saint­-Just, 13004, Marseille 4ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/69/189/42777925.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "conference",
+        "concert",
+        "spectacle"
+      ],
+      "venueTags": [],
+      "score": 4,
+      "scoreReasons": [
+        "débat"
+      ],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
       "id": "e75bc5167f58",
       "title": "Entertorment @ L'Intermédiaire",
       "start": "2026-11-04T23:00:00.000Z",
@@ -1002,6 +2095,37 @@
       "venueTags": [],
       "score": 4,
       "scoreReasons": [
+        "débat"
+      ],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "defcfb9bc128",
+      "title": "Ciné-débat \"Pilleurs de terre\"",
+      "start": "2026-11-05T23:00:00.000Z",
+      "end": "2026-11-05T23:00:00.000Z",
+      "allDay": true,
+      "description": "Pilleurs de Terre suit au Cambodge, au Cameroun et en France le combat de communautés autochtones dont les terres ont été accaparées par des activités agro-industrielles. Vendredi 6 novembre, on se retrouve au Gyptis ! Réalisé par Fanny Paloma, ce documentaire indépendant donne la parole aux peuples autochtones Bunongs en Asie, aux communautés Bagyelis en Afrique, et à de nombreuses familles rura…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/cine-debat-pilleurs-de-terre-marseille-3eme-fr-6880026/",
+      "venueName": null,
+      "address": "Le Gyptis - Belle de Mai136 rue Loubon, 13003, Marseille 3ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/60/16/43520060.png",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "conference"
+      ],
+      "venueTags": [],
+      "score": 7,
+      "scoreReasons": [
+        "politique",
         "débat"
       ],
       "sources": [
@@ -2112,6 +3236,38 @@
       "approximate": false
     },
     {
+      "id": "732415f6191f",
+      "title": "Table ronde Travail et migrations au temps de la désindustrialisation",
+      "start": "2026-11-08T23:00:00.000Z",
+      "end": "2026-11-08T23:00:00.000Z",
+      "allDay": true,
+      "description": "Travail et migrations au temps de la désindustrialisation Trajectoires, représentations et transmissions De 1980 à 2007, ce sont en moyenne 71 000 emplois industriels qui sont supprimés chaque année en France. Associée aux délocalisations et aux mobilités de main-d’œuvre, l’histoire de l’industrie s’articule ainsi étroitement à celle des migrations. Cette journée d’étude propose de revenir sur le…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/table-ronde-travail-et-migrations-au-temps-de-la-desindustrialisation-marseille-2eme-fr-6880050/",
+      "venueName": null,
+      "address": "Mucem7 Promenade Robert Laffont, 13002, Marseille 2ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/246/144/43553014.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "conference"
+      ],
+      "venueTags": [],
+      "score": 9,
+      "scoreReasons": [
+        "histoire",
+        "politique",
+        "débat"
+      ],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
       "id": "734e1500e8c4",
       "title": "Marché paysan",
       "start": "2026-11-09T15:00:00.000Z",
@@ -2173,6 +3329,36 @@
         {
           "id": "friche",
           "name": "Friche la Belle de Mai"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "97ed759b7233",
+      "title": "Nils Klawitter : la petite main de la Résistance",
+      "start": "2026-11-09T23:00:00.000Z",
+      "end": "2026-11-09T23:00:00.000Z",
+      "allDay": true,
+      "description": "Une rencontre franco-allemande qui s'intéresse à la résistance pendant la Seconde Guerre mondiale. Der Ausgangspunkt ist die Geschichte von Melanie Berger, festgehalten von Nils Klawitter in seinem Roman. Literatur | Comment Melanie Berger défia les nazis L'épopée héroïque et méconnue d'une jeune résistante pendant la Seconde guerre mondiale. En 1934, à l'âge de douze ans, en Autriche, Melanie Be…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/nils-klawitter-la-petite-main-de-la-resistance-marseille-1er-fr-6820105/",
+      "venueName": null,
+      "address": "Librairie Maupetit142 la Canebière, 13001, Marseille 1er",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/141/103/42821517.png",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 2,
+      "scoreReasons": [
+        "débat"
+      ],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
         }
       ],
       "approximate": false
@@ -2583,6 +3769,62 @@
       "approximate": false
     },
     {
+      "id": "31961a0d3219",
+      "title": "Concert ¡Escucha!",
+      "start": "2026-11-11T23:00:00.000Z",
+      "end": "2026-11-11T23:00:00.000Z",
+      "allDay": true,
+      "description": "Artless Gallery & English Bookstore, accueille le duo musical ¡Escucha! Découvrez ¡Escucha!, le duo musical qui fait vibrer la chaleur et les rythmes entraînants de l’Amérique latine grâce à la voix, à la guitare et aux percussions. Fort d’un riche répertoire de chansons latino-américaines, le duo convie le public à un voyage musical sincère, empreint de rythme, d’émotion et de partage.",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/concert-escucha-marseille-6eme-fr-6873864/",
+      "venueName": null,
+      "address": "Artless Gallery & English Bookstore1 rue Ferdinand Rey, 13006, Marseille 6ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/215/182/43497175.jpeg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "02309f84e464",
+      "title": "Kino Panic Attack",
+      "start": "2026-11-11T23:00:00.000Z",
+      "end": "2026-11-11T23:00:00.000Z",
+      "allDay": true,
+      "description": "Panic attack avec Kino à l'Art Dû ! « Alors que tout allait bien dans sa vie… elle est arrivée. La première. Celle dont on se souvient toujours : L’attaque de panic Kino va être diagnosBqué d’une anxiété généralisée avec opBon agoraphobie. Le meilleur diagnostic possible quand on joue tous les soirs devant des centaines de personnes, dans une salle, fermée, sans fenêtres. Parfait Bming. Aujourd’h…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/kino-panic-attack-marseille-6eme-fr-6420395/",
+      "venueName": null,
+      "address": "Théâtre L'Art Dû83 rue Marengo, 13006, Marseille 6ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/71/83/41177927.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
       "id": "177d6196ec44",
       "title": "DevFest Marseille 2026",
       "start": "2026-11-12T15:00:00.000Z",
@@ -2832,6 +4074,92 @@
       "approximate": false
     },
     {
+      "id": "a6e585b636f2",
+      "title": "Phonurgia Nova Awards 2026",
+      "start": "2026-11-12T23:00:00.000Z",
+      "end": "2026-11-13T23:00:00.000Z",
+      "allDay": true,
+      "description": "Les Phonurgia Nova Awards sont un observatoire de la création émergente dans le domaine du sonore. Audaces, explorations, art sonore et innovation narrative : de la radio au podcast, toutes les formes sonores du XXIème siècle sont au rendez-vous ! Avec l’aide de nombreux partenaires européens, ils repèrent et distinguent des autrices et auteurs qui explorent le réel et l’imaginaire sonore. À la s…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/phonurgia-nova-awards-2026-marseille-3eme-fr-6822180/",
+      "venueName": null,
+      "address": "GMEM41 rue Jobin, 13003, Marseille 3ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/191/124/42826943.png",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "autre"
+      ],
+      "venueTags": [],
+      "score": 2,
+      "scoreReasons": [
+        "original"
+      ],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "fcdf5016c064",
+      "title": "Christophe Maé",
+      "start": "2026-11-12T23:00:00.000Z",
+      "end": "2026-11-12T23:00:00.000Z",
+      "allDay": true,
+      "description": "Après une dernière tournée triomphale, Christophe Maé sera de retour sur les plus grandes scènes de France, Suisse et Belgique en 2026.",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/christophe-mae-marseille-4eme-fr-6096111/",
+      "venueName": null,
+      "address": "Le Dôme48 avenue de Saint­-Just, 13004, Marseille 4ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/202/165/35890634.png",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "3ff8e5320cd9",
+      "title": "Dirtycute",
+      "start": "2026-11-12T23:00:00.000Z",
+      "end": "2026-11-12T23:00:00.000Z",
+      "allDay": true,
+      "description": "Mignons et coquins, toujours le cœur (et le bidon d’acide) à portée de main. Basé à Marseille, DirtyCute propose une pop alternative, à la fois brute et léchée. Derrière ce contraste assumé se cache une exigence artistique forte : livrer une musique sincère, sans artifice, portée par des textes lucides et des productions ciselées. DirtyCute construit un univers où la douceur côtoie l’âpreté, où l…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/dirtycute-marseille-1er-fr-6853974/",
+      "venueName": null,
+      "address": "La Mesón52 rue Consolat, 13001, Marseille 1er",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/250/16/43389178.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
       "id": "dcfa960ff07b",
       "title": "Phonurgia Nova Awards 2026 – Concours international de création radiophonique et sonore",
       "start": "2026-11-13T08:15:00.000Z",
@@ -3062,6 +4390,186 @@
         {
           "id": "molotov",
           "name": "Le Molotov / Le Dodu"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "8855eb01c827",
+      "title": "La Bibliothèque éphémère d’Élodie Royer",
+      "start": "2026-11-13T23:00:00.000Z",
+      "end": "2026-11-13T23:00:00.000Z",
+      "allDay": true,
+      "description": "Rencontre avec Elodie Royer, animée par Jean Pichinoty. En résonance avec L’Écologie des relations - La Forêt amante de la mer, cette Bibliothèque éphémère, accessible et consultable au Centre de documentation recherche du Frac Sud pendant toute la durée de l’exposition, prolonge les contextes, questionnements et pratiques artistiques explorés dans l’exposition. Elodie Royer, commissaire de l’exp…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/la-bibliotheque-ephemere-delodie-royer-marseille-2eme-fr-6880096/",
+      "venueName": null,
+      "address": "Frac Sud – Cité de l’art contemporain20 Boulevard De Dunkerque, 13002, Marseille 2ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/183/133/43550135.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "conference",
+        "expo"
+      ],
+      "venueTags": [],
+      "score": 4,
+      "scoreReasons": [
+        "débat"
+      ],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "14a9e2f3431b",
+      "title": "Les Procès du siècle – À notre humanité ! Saison 6",
+      "start": "2026-11-13T23:00:00.000Z",
+      "end": "2027-03-12T23:00:00.000Z",
+      "allDay": true,
+      "description": "Et si on questionnait ensemble les combats, enjeux et travers de nos sociétés contemporaines sous la forme d’un vrai-faux procès mêlant experts, témoins et pièces à conviction issues des collections du Mucem ? Cette saison des Procès du siècle interroge notre capacité à (re)faire humanité face aux périls climatiques, autoritaires, individualistes et technologiques qui se multiplient partout dans …",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/les-proces-du-siecle-a-notre-humanite-saison-6-marseille-2eme-fr-6880040/",
+      "venueName": null,
+      "address": "Mucem7 Promenade Robert Laffont, 13002, Marseille 2ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/148/136/43550868.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "theatre"
+      ],
+      "venueTags": [],
+      "score": 2,
+      "scoreReasons": [
+        "sciences"
+      ],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "193c77a23a48",
+      "title": "Nobodylikesbidie / Jaymee",
+      "start": "2026-11-13T23:00:00.000Z",
+      "end": "2026-11-13T23:00:00.000Z",
+      "allDay": true,
+      "description": "Les deux étoiles montantes du Rap Lillois réunies à l’Affranchi Les deux étoiles montantes du Rap Lillois réunies à l’Affranchi (Marseille) En provenance de Fives, Nobodylikesbirdie s’est rapidement imposé comme étoile montante de la scène Rap lilloise. Issu d’une famille de mélomanes, c’est en musique que le jeune nordiste a décidé d’illustrer ses maux en mêlant paroles brutes sur des instrument…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/nobodylikesbidie-jaymee-marseille-11eme-fr-6434967/",
+      "venueName": null,
+      "address": "L'Affranchi212 boulevard de Saint-Marcel, 13011, Marseille 11ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/241/114/41317105.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "nature",
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 4,
+      "scoreReasons": [
+        "nature"
+      ],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "6feaba6b7605",
+      "title": "Conférence & projection par Fabien Bartolotti « Un autre regard sur la Provence : l’essor d’une région industrielle (XIXe-XXe siècle) »",
+      "start": "2026-11-13T23:00:00.000Z",
+      "end": "2026-11-13T23:00:00.000Z",
+      "allDay": true,
+      "description": "À travers cette conférence, Fabien Bartolotti nous invite à dépasser l’image d’une Provence immuable pour découvrir une région en pleine mutation. Souvent associée à ses paysages ensoleillés, à ses villages pittoresques et à ses traditions rurales et maritimes, la Provence possède aussi une histoire industrielle riche, qui a profondément transformé ses territoires et ses habitants depuis le début…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/conference-projection-par-fabien-bartolotti-un-autre-regard-sur-la-provence-lessor-dune-region-industrielle-xixe-xxe-siecle-marseille-2eme-fr-6856583/",
+      "venueName": null,
+      "address": "Musée Regards de ProvenceAllées Regards de ProvenceAvenue Vaudoyer, 13002, Marseille 2ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/10/132/43418634.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "conference",
+        "cinema"
+      ],
+      "venueTags": [],
+      "score": 6,
+      "scoreReasons": [
+        "histoire",
+        "débat"
+      ],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "00c1c6c501d1",
+      "title": "Ces nains portent quoi ?",
+      "start": "2026-11-13T23:00:00.000Z",
+      "end": "2026-11-14T23:00:00.000Z",
+      "allDay": true,
+      "description": "Des croquis, des objets, des couleurs éclatantes donnent vie à un imagier foisonnant, délicate fenêtre ouverte sur le monde. Des croquis, des objets, des couleurs éclatantes donnent vie à un imagier foisonnant, délicate fenêtre ouverte sur le monde. Des nains portent une porte, une lampe, une grue et un canard géant. Ils portent une poutre, une loutre, un rayon de soleil, une lettre et bien d’aut…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/ces-nains-portent-quoi-marseille-3eme-fr-6557313/",
+      "venueName": null,
+      "address": "Friche Belle de Mai41 Rue Jobin, 13003, Marseille 3ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/206/99/41640910.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "autre"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "ed26906b747b",
+      "title": "Le Noël d'Hibou chouchou",
+      "start": "2026-11-13T23:00:00.000Z",
+      "end": "2027-03-04T23:00:00.000Z",
+      "allDay": true,
+      "description": "Conte musical pour enfants de ans Les animaux ont commandé pour Noël, des instruments de musique au son magique. Les animaux ont commandé pour Noël, des instruments de musique au son magique. Mais alors que la nuit de Noël arrive à grands pas, ces instruments de musique ont disparu au pied du sapin de la forêt enchantée. Est-ce une farce d'un lutin coquin, malin ? C'est la question à laquelle von…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/le-noel-dhibou-chouchou-marseille-8eme-fr-5993843/",
+      "venueName": null,
+      "address": "Archange Théâtre36 rue Negresko, 13008, Marseille 8ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/112/4/34538608.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
         }
       ],
       "approximate": false
@@ -3507,6 +5015,125 @@
       "approximate": false
     },
     {
+      "id": "fc3407e9771e",
+      "title": "L'orgue vivant - automne 2026",
+      "start": "2026-11-14T23:00:00.000Z",
+      "end": "2026-11-28T23:00:00.000Z",
+      "allDay": true,
+      "description": "\"L'orgue vivant\" - 2 concerts avec orgue en novembre à Sainte-Marguerite Autour de l'orgue Quoirin de l'église Sainte-Marguerite, construit en 2003 mais d'esthétique baroque : - le 5 novembre concert Trompette et Orgue avec Thierry Amiot et André Rossi, - le 29 novembre concert Soprano, Flûtes, et Orgue avec Gabrielle Varbetian, Marine Jambois, Alice Launet et Emmanuel Friot.",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/lorgue-vivant-automne-2026-marseille-9eme-fr-6856549/",
+      "venueName": null,
+      "address": "Eglise Sainte-MargueritePlace Antide Boyer, 13009, Marseille 9ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/194/154/43424450.png",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "22ac9459a25e",
+      "title": "La Voie est libre",
+      "start": "2026-11-14T23:00:00.000Z",
+      "end": "2026-11-14T23:00:00.000Z",
+      "allDay": true,
+      "description": "La voie est libre : profitez de la Corniche piétonnisée ! Le dispositif, qui fait la part belle aux mobilités douces, réunit plusieurs fois par an des milliers de promeneurs, afin de profiter d’un littoral apaisé et piétonnisé, depuis la rue Capitaine Dessemond jusqu’au parc Talabot. En libérant cet axe fréquenté du bord de mer, la Ville de Marseille renforce son action en faveur d'un cadre de vi…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/la-voie-est-libre-marseille-7eme-fr-4444491/",
+      "venueName": null,
+      "address": "La CornicheCorniche Président John Fitzgerald Kennedy, 13007, Marseille 7ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/241/205/23318001.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "autre"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "82c73a486c7f",
+      "title": "Mary Candies - un nouveau monde s'illumine",
+      "start": "2026-11-14T23:00:00.000Z",
+      "end": "2026-11-14T23:00:00.000Z",
+      "allDay": true,
+      "description": "Le nouveau Mary Candies est enfin là ! Le nouveau Mary Candies est enfin là ! Venez vivre une expérience magique entièrement réinventée Laissez-vous envelopper par cette nouvelle création immersive. Un voyage sensoriel où petits et grands redécouvrent la magie avec des yeux émerveillés. Préparez-vous à entrer dans un tourbillon de lumière, de de musique, de parfums et de sensations. Vous ne regar…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/mary-candies-un-nouveau-monde-sillumine-marseille-2eme-fr-6335149/",
+      "venueName": null,
+      "address": "Le Cepac Silo35 Quai du Lazaret, 13002, Marseille 2ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/204/122/39156428.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 2,
+      "scoreReasons": [
+        "original"
+      ],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "f93e45da3db4",
+      "title": "Louis Cattelat",
+      "start": "2026-11-14T23:00:00.000Z",
+      "end": "2026-11-14T23:00:00.000Z",
+      "allDay": true,
+      "description": "Envoyer un message aux extraterrestres, c’est possible : il suffit de mobiliser un programme scientifique entier, des antennes géantes et un soupçon d’audace collective. Mais dire à sa coiffeuse qu’on n’aime pas sa coupe, c'est un défi bien plus complexe… Avec Arecibo, Louis Cattelat transforme la scène en terrain d’écoute et d’autodérision, entre poésie cosmique et interrogations terriennes. Ins…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/louis-cattelat-marseille-6eme-fr-6096219/",
+      "venueName": null,
+      "address": "Espace Julien39 Cours Julien, 13006, Marseille 6ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/60/158/35888700.png",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "slam",
+        "sciences"
+      ],
+      "venueTags": [],
+      "score": 11,
+      "scoreReasons": [
+        "sciences",
+        "slam / poésie",
+        "nature"
+      ],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
       "id": "21ccc0b0674e",
       "title": "Terre ludique – Ludothèque itinérante",
       "start": "2026-11-15T13:30:00.000Z",
@@ -3592,6 +5219,65 @@
         {
           "id": "molotov",
           "name": "Le Molotov / Le Dodu"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "481a92afdc48",
+      "title": "Article 353 du code pénal",
+      "start": "2026-11-16T23:00:00.000Z",
+      "end": "2026-11-27T23:00:00.000Z",
+      "allDay": true,
+      "description": "Emmanuel Noblet s’empare du roman de Tanguy Viel pour nous livrer un face-à-face haletant entre justice et conscience. Un homme avoue avoir fait justice lui-même. Mais peut-on vraiment juger la vie d’un homme ? Dans le silence d’un bureau de juge d’instruction, Martial Kermeur retrace son histoire : son divorce, la garde de son fils, son licenciement et surtout, les miroitants projets d’un promot…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/article-353-du-code-penal-marseille-1er-fr-6647483/",
+      "venueName": null,
+      "address": "Théâtre Les Bernardines17 Boulevard Garibaldi, 13001, Marseille 1er",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/97/252/42007649.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "sciences"
+      ],
+      "venueTags": [],
+      "score": 6,
+      "scoreReasons": [
+        "sciences",
+        "histoire"
+      ],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "89655c056ccc",
+      "title": "Legendary Rock Voices",
+      "start": "2026-11-16T23:00:00.000Z",
+      "end": "2026-11-16T23:00:00.000Z",
+      "allDay": true,
+      "description": "Les plus grands classiques du rock résonnent avec une intensité nouvelle grâce à une fusion unique entre un orchestre symphonique, un chœur et un groupe de rock. Sous la direction d'un chef d'orchestre talentueux, les musiciens s'unissent pour interpréter les plus grands hymnes du rock, des chansons connues dans le monde entier qui restent intemporelles. Des chansons qui enflamment, inspirent, do…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/legendary-rock-voices-marseille-4eme-fr-6337142/",
+      "venueName": null,
+      "address": "Le Dôme48 avenue de Saint­-Just, 13004, Marseille 4ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/0/84/39212032.png",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
         }
       ],
       "approximate": false
@@ -3687,6 +5373,37 @@
       "approximate": false
     },
     {
+      "id": "6343b6782a8a",
+      "title": "Boat People",
+      "start": "2026-11-18T23:00:00.000Z",
+      "end": "2026-11-20T23:00:00.000Z",
+      "allDay": true,
+      "description": "Quand deux langues, deux mondes différents se rencontrent : que veut dire « accueillir, cohabiter et aider ? 1979, près de Niort, une famille française reçoit sous son toit une famille vietnamienne ayant fui les régimes autoritaires d’Asie du Sud-Est. Entre les motivations des hôtes et les douleurs tues des nouveaux arrivants, nous (re) découvrons ce grand mouvement de solidarité qui s’organisa e…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/boat-people-marseille-3eme-fr-6557284/",
+      "venueName": null,
+      "address": "Friche Belle de Mai41 Rue Jobin, 13003, Marseille 3ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/51/151/41654067.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "autre"
+      ],
+      "venueTags": [],
+      "score": 5,
+      "scoreReasons": [
+        "politique",
+        "débat"
+      ],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
       "id": "a3721656d36a",
       "title": "Romsii @ Espace Julien",
       "start": "2026-11-19T17:30:00.000Z",
@@ -3766,6 +5483,66 @@
         {
           "id": "molotov",
           "name": "Le Molotov / Le Dodu"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "25305c593f31",
+      "title": "Salon des Seniors",
+      "start": "2026-11-19T23:00:00.000Z",
+      "end": "2026-11-20T23:00:00.000Z",
+      "allDay": true,
+      "description": "Les visiteurs pourront découvrir les produits et services adaptés à leurs besoins et se divertir dans une ambiance conviviale avec de nombreuses animations ! Parce que nos seniors ont besoin d'un salon spécialement dédié pour eux afin qu'ils puissent trouver tout ce qu'ils cherchent et recherchent dans un seul et même lieu, j'ai le plaisir de vous communiquer les dates de la 8ème édition du « Sal…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/salon-des-seniors-marseille-8eme-fr-6350673/",
+      "venueName": null,
+      "address": "Jardin Amable ChanotRond-point du PradoAllées Ray-Grassi, 13008, Marseille 8ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/185/137/39356857.png",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "autre"
+      ],
+      "venueTags": [],
+      "score": 3,
+      "scoreReasons": [
+        "politique"
+      ],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "391c32bf02b8",
+      "title": "Mon Boomer",
+      "start": "2026-11-19T23:00:00.000Z",
+      "end": "2026-11-21T23:00:00.000Z",
+      "allDay": true,
+      "description": "Une exploration grinçante, à la fois tendre et amère, des héritages qu’une génération lègue à la suivante. Spectacle par la Cie Le Temps qui pique. Une exploration grinçante, à la fois tendre et amère, des héritages qu’une génération lègue à la suivante. À travers la vie de Daniel, c’est l’histoire d’une société qui va d’espoirs en abandons, le récit d’une époque, d’un homme e…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/mon-boomer-marseille-4eme-fr-6695047/",
+      "venueName": null,
+      "address": "Théâtre des Chartreux105 Avenue Des Chartreux, 13004, Marseille 4ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/235/63/42221547.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "spectacle"
+      ],
+      "venueTags": [],
+      "score": 2,
+      "scoreReasons": [
+        "histoire"
+      ],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
         }
       ],
       "approximate": false
@@ -3911,6 +5688,92 @@
       "approximate": false
     },
     {
+      "id": "9f24afe78670",
+      "title": "Basilic swing",
+      "start": "2026-11-20T23:00:00.000Z",
+      "end": "2026-11-20T23:00:00.000Z",
+      "allDay": true,
+      "description": "Un voyage aux origines du jazz manouche, où Basilic Swing revisite la chanson française avec élégance et swing. Fidèle à son ADN, Basilic Swing propose un véritable voyage aux origines du jazz manouche, en explorant l’essence même de ce style né sous l’impulsion de Django Reinhardt. ​À la croisée des cultures, le jazz manouche s’est nourri des traditions musicales des peuples itinérants d’Europe …",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/basilic-swing-marseille-8eme-fr-6842617/",
+      "venueName": null,
+      "address": "Théâtre des Calanques35 Traverse de Carthage, 13008, Marseille 8ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/1/206/43306497.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "693f5b0704b9",
+      "title": "Zinée",
+      "start": "2026-11-20T23:00:00.000Z",
+      "end": "2026-11-20T23:00:00.000Z",
+      "allDay": true,
+      "description": "Pour la première fois à l'Affranchi, Zinée en concert Après le succès de son album Osmin paru en 2024, la chanteuse et rappeuse Zinée déploie à nouveau sa force tranquille et artistique dans un nouvel EP intitulé Bil, symbole d’une renaissance et d’un changement de cap salutaires. En sept titres habités par l’humanité qui la caractérise, elle fait table rase, se déleste des poids qui ont parfois …",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/zinee-marseille-11eme-fr-6434817/",
+      "venueName": null,
+      "address": "L'Affranchi212 boulevard de Saint-Marcel, 13011, Marseille 11ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/128/126/42892928.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "e6601793f709",
+      "title": "Festival Jest - Jamais d'Eux sans Toi 2026",
+      "start": "2026-11-20T23:00:00.000Z",
+      "end": "2026-11-27T23:00:00.000Z",
+      "allDay": true,
+      "description": "JAMAIS D'EUX SANS TOI fête sa sixième édition JAMAIS D'EUX SANS TOI fête sa sixième édition, et notre conviction n'a pas bougé : la musique que nous défendons est celle qui ose surprendre, déranger et refuser de rentrer dans le rang. Ce sont des voix libres, portées par des artistes qui ont choisi la création plutôt que la formule. Chaque soirée confronte les regards d'artistes venus du monde ent…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/festival-jest-jamais-deux-sans-toi-2026-marseille-1er-fr-6858118/",
+      "venueName": null,
+      "address": "Plusieurs lieuxCité de la Musique de Marseille - 4 Rue Bernard du BoisFriche Belle de Mai (Cab, petit plateau), 13001, Marseille 1er",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/135/196/43435143.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "festival"
+      ],
+      "venueTags": [],
+      "score": 2,
+      "scoreReasons": [
+        "festival"
+      ],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
       "id": "32ea38f59422",
       "title": "SPIDER ZED",
       "start": "2026-11-21T18:00:00.000Z",
@@ -3996,6 +5859,62 @@
       "approximate": false
     },
     {
+      "id": "51896b44954d",
+      "title": "Beethoven 3 Concertos pour piano",
+      "start": "2026-11-21T23:00:00.000Z",
+      "end": "2026-11-21T23:00:00.000Z",
+      "allDay": true,
+      "description": "Ces trois merveilleux artistes joueront et dirigeront les trois œuvres avec l’Orchestre Philharmonique de Marseille. Venue du cœur, puisse cette musique y retourner ! François-Frédéric Guy, piano et direction Jean-Efflam Bavouzet, piano et direction Sélim Mazari, piano et direction Orchestre Philharmonique de Marseille Après Mozart joué et dirigé du clavier par trois jeunes pianistes-chefs l’anné…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/beethoven-3-concertos-pour-piano-marseille-7eme-fr-6591961/",
+      "venueName": null,
+      "address": "Palais du Pharo58 Boulevard Charles Livon, 13007, Marseille 7ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/89/110/41840217.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "1e8f8d2b6f9b",
+      "title": "Exposition photos de l'artiste Ouways",
+      "start": "2026-11-22T23:00:00.000Z",
+      "end": "2026-11-26T23:00:00.000Z",
+      "allDay": true,
+      "description": "Exposition photographique de l’artiste Ouways. Venez découvrir l’exposition photographique de l’artiste Ouways et explorer son univers à travers ses clichés Une invitation à découvrir le regard d’un artiste et à célébrer la photographie au cœur de notre territoire.",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/exposition-photos-de-lartiste-ouways-marseille-14eme-fr-6870941/",
+      "venueName": null,
+      "address": "Mairie des 13e et 14e arrondissementsBastide Saint-Joseph72 Rue Paul Coxe, 13014, Marseille 14ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/44/178/43495980.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "expo"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
       "id": "6a2682b5d515",
       "title": "Unwanted Noise @ L'Intermédiaire",
       "start": "2026-11-24T19:00:00.000Z",
@@ -4051,6 +5970,34 @@
         {
           "id": "molotov",
           "name": "Le Molotov / Le Dodu"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "ffd46652f034",
+      "title": "Lire c'est partir",
+      "start": "2026-11-24T23:00:00.000Z",
+      "end": "2026-11-24T23:00:00.000Z",
+      "allDay": true,
+      "description": "Depuis plus de vingt ans, la Mairie 15/16 accueille l'association Lire c'est partir pour une exposition-vente de livres jeunesse à prix coûtant. Destiné aux écoles, mais également ouvert au grand public, ce rendez-vous permet à chacun de découvrir et d'acheter des ouvrages pour les enfants à seulement 0,90 € l'exemplaire. Des livres accessibles à tous L'association Lire c'est partir défend une id…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/lire-cest-partir-marseille-15eme-fr-6875872/",
+      "venueName": null,
+      "address": "Mairie des 15e et 16e arrondissements246 Rue De Lyon, 13015, Marseille 15ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/151/227/43508631.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "expo"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
         }
       ],
       "approximate": false
@@ -4144,6 +6091,38 @@
       "approximate": false
     },
     {
+      "id": "c039c6fe7042",
+      "title": "Balades urbaines : La petite Naples. Visite du quartier Saint-Jean",
+      "start": "2026-11-27T23:00:00.000Z",
+      "end": "2026-11-27T23:00:00.000Z",
+      "allDay": true,
+      "description": "Balade urbaine, départ du Mémorial des Déportations . Figures iconiques des vieux quartiers du port, les Italiens et les Italiennes ont marqué l’histoire de Marseille dès leur arrivée au XIXe siècle. Le temps d’une balade au cœur du plus ancien quartier de la ville, partez à la découverte de l’histoire italienne, de sa culture et des multiples imaginaires que provoquent ces nouveaux marseillais, …",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/balades-urbaines-la-petite-naples-visite-du-quartier-saint-jean-marseille-2eme-fr-5818510/",
+      "venueName": null,
+      "address": "Mémorial des déportationsAvenue Vaudoyer, 13002, Marseille 2ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/95/160/39362655.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "nature",
+        "fete"
+      ],
+      "venueTags": [],
+      "score": 6,
+      "scoreReasons": [
+        "histoire",
+        "nature"
+      ],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
       "id": "338a024bfebd",
       "title": "DON JUAN – Philippe Car, Agence de Voyages Imaginaires",
       "start": "2026-11-30T23:00:00.000Z",
@@ -4169,6 +6148,65 @@
         {
           "id": "les-theatres",
           "name": "Les Théâtres (Bernardines, Gymnase…)"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "a719595edc65",
+      "title": "Les noëls du monde",
+      "start": "2026-12-01T23:00:00.000Z",
+      "end": "2026-12-15T23:00:00.000Z",
+      "allDay": true,
+      "description": "Spectacle musical C’est bientôt Noël… Naïa monte dans le grenier de son grand père pour chercher des décorations et trouve un magnifique livre sur Les Noëls du monde. Elle commence à le lire, et s’endort… Elle va alors voyager dans différents pays et rencontrer des personnages hauts en couleur qui vont lui transmettre un message, un cadeau, une philosophie… Un spectacle musical familial, très drô…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/les-noels-du-monde-marseille-5eme-fr-6827394/",
+      "venueName": null,
+      "address": "Divadlo Théâtre69 rue Sainte-Cécile, 13005, Marseille 5ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/221/168/42838237.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "spectacle"
+      ],
+      "venueTags": [],
+      "score": 2,
+      "scoreReasons": [
+        "débat"
+      ],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "174c39f40091",
+      "title": "Samuel Certenais : Garçon",
+      "start": "2026-12-02T23:00:00.000Z",
+      "end": "2026-12-04T23:00:00.000Z",
+      "allDay": true,
+      "description": "Samuel Certenais et TS Prod propose le spectacle Garçons sur la scène du théâtre l'Art Dû Comment devenir un homme quand on ne veut pas ressembler à son père ? Comme tous mes copains je voulais rendre fier mon père. Alors j’ai tout fait pour lui ressembler et il a aimé. J’ai joué au foot et il a aimé, j’ai ramené des coupes et il a aimé, puis je me suis retrouvé en fauteuil roulant et il a eu hon…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/samuel-certenais-garcon-marseille-6eme-fr-6420458/",
+      "venueName": null,
+      "address": "Théâtre L'Art Dû83 rue Marengo, 13006, Marseille 6ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/170/84/41178282.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "theatre",
+        "spectacle"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
         }
       ],
       "approximate": false
@@ -4232,6 +6270,128 @@
       "approximate": false
     },
     {
+      "id": "1f265398a323",
+      "title": "La vie de bohème",
+      "start": "2026-12-03T23:00:00.000Z",
+      "end": "2026-12-04T23:00:00.000Z",
+      "allDay": true,
+      "description": "La pièce réunit un groupe de jeunes étudiants artistes, peintres, poètes, philosophes qui vivent dans la précarité avec une certaine fatuité, nourris par les espoirs de réussite. LA VIE DE BOHÈME Théâtre musical GIACOMO PUCCINI | HENRI MURGER La pièce réunit un groupe de jeunes étudiants artistes, peintres, poètes, philosophes qui vivent dans la précarité avec une certaine fatuité, nourris par le…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/la-vie-de-boheme-marseille-1er-fr-6860822/",
+      "venueName": null,
+      "address": "Théâtre de l'Odéon162 La Canebière, 13001, Marseille 1er",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/99/231/43444067.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "theatre"
+      ],
+      "venueTags": [],
+      "score": 3,
+      "scoreReasons": [
+        "slam / poésie"
+      ],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "687c3bbba177",
+      "title": "Un peu d’amour s’il vous plaît !",
+      "start": "2026-12-03T23:00:00.000Z",
+      "end": "2026-12-03T23:00:00.000Z",
+      "allDay": true,
+      "description": "7 personnages écorchés vifs, se retrouvent dans un lieu étrange... 7 personnages écorchés vifs partagent leur aliénation, leurs souffrances, leurs traumatismes, leurs rencontres malchanceuses, leurs déchirures, leurs déceptions amoureuses, leur quête du bonheur, leurs tentatives de communiquer avec l'autre, dans une succession de tableaux, où se mêlent un nombre important d'êtres humains, à la fo…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/un-peu-damour-sil-vous-plait-marseille-5eme-fr-6860808/",
+      "venueName": null,
+      "address": "Théâtre du Têtard33 rue Ferrari, 13005, Marseille 5ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/113/228/43443313.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "autre"
+      ],
+      "venueTags": [],
+      "score": 5,
+      "scoreReasons": [
+        "politique",
+        "débat"
+      ],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "6a3198c59fc4",
+      "title": "Réussite critique en Orcadie",
+      "start": "2026-12-03T23:00:00.000Z",
+      "end": "2026-12-04T23:00:00.000Z",
+      "allDay": true,
+      "description": "Improvisation L’aventure sera-t-elle un échec ou une réussite… critique ? Réussite Critique en Orcadie est une comédie interactive où l’histoire se construit en temps réel. Guidés par un Maître du Jeu espiègle, les aventuriers de l’Ordre des Masques d’Or mènent une quête épique dans un monde légendaire. En plus de choisir les personnages et leur quête héroïque, venez lancer le dé géant qui déterm…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/reussite-critique-en-orcadie-marseille-5eme-fr-6827278/",
+      "venueName": null,
+      "address": "Divadlo Théâtre69 rue Sainte-Cécile, 13005, Marseille 5ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/184/166/42837688.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "theatre"
+      ],
+      "venueTags": [],
+      "score": 2,
+      "scoreReasons": [
+        "histoire"
+      ],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "abbcc58c7b91",
+      "title": "PLK",
+      "start": "2026-12-03T23:00:00.000Z",
+      "end": "2026-12-03T23:00:00.000Z",
+      "allDay": true,
+      "description": "Artiste français parmi les plus écoutés au monde et performance scénique unique lors de sa dernière tournée des zéniths à guichets fermés, PLK continue de repousser les limites. Après avoir sold-out deux Stade de France en un temps record, le rappeur sera sur les routes de France à l’automne 2026 pour une nouvelle tournée événement.",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/plk-marseille-4eme-fr-6096139/",
+      "venueName": null,
+      "address": "Le Dôme48 avenue de Saint­-Just, 13004, Marseille 4ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/4/167/35890948.png",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert",
+        "spectacle"
+      ],
+      "venueTags": [],
+      "score": 2,
+      "scoreReasons": [
+        "nature"
+      ],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
       "id": "9ca8b584e80b",
       "title": "KRAV BOCA + Wake the Dead",
       "start": "2026-12-04T18:00:00.000Z",
@@ -4255,6 +6415,90 @@
         {
           "id": "molotov",
           "name": "Le Molotov / Le Dodu"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "e0d65b563975",
+      "title": "Grand marché de Noël des créateurs",
+      "start": "2026-12-04T23:00:00.000Z",
+      "end": "2026-12-19T23:00:00.000Z",
+      "allDay": true,
+      "description": "Sur 3 sites iconiques marseillais, le \"Grand Marché de Noël des Créateurs\" rassemble créateurs, artistes, artisans et intermédiaires pour fêter la diversité des expressions originales et vous offrir un immense et merveilleux choix de cadeaux ! Pour la 28ème année consécutive, l’association Marquage avec le \"Grand Marché de Noël des Créateurs\" rassemblera de très nombreux Créateurs pour fêter la d…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/grand-marche-de-noel-des-createurs-marseille-5eme-fr-6853988/",
+      "venueName": null,
+      "address": "Place Jean Jaurès - La Plaine, 13005, Marseille 5ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/74/7/43386698.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "fete"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "6016bc24c29a",
+      "title": "Noël pour un loup",
+      "start": "2026-12-04T23:00:00.000Z",
+      "end": "2026-12-22T23:00:00.000Z",
+      "allDay": true,
+      "description": "Une nouvelle création à partir de 3 ans. Dans une cabane oubliée au cœur de la montagne, une famille de loups a trouvé refuge. La ville s’illumine au loin : c’est noël chez les humains! Une fête dont, depuis leur tanière, ils ne perçoivent que les éclats. Alors le loup s’élance dans une épopée folle. Il virevolte en auto-stop, tour à tour humain ou animal, voili voiloup il grimpe dans un bus, tra…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/noel-pour-un-loup-marseille-7eme-fr-6686145/",
+      "venueName": null,
+      "address": "Badaboum Théâtre16 Quai De Rive Neuve, 13007, Marseille 7ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/170/124/42171562.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "fete"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "96d0ff440309",
+      "title": "Match d’improvisation – La LIPHO",
+      "start": "2026-12-04T23:00:00.000Z",
+      "end": "2026-12-04T23:00:00.000Z",
+      "allDay": true,
+      "description": "Deux équipes s’affrontent sur des thèmes découverts au dernier moment dans un match d’improvisation théâtrale. Le public vote pour départager les équipes. Sous l’œil de l’arbitre et du maître de cérémonie, les comédien·nes relèvent les défis de l’improvisation. À la fin de chaque scène, les spectateurs choisissent l’équipe qu’ils ont préférée.",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/match-dimprovisation-la-lipho-marseille-5eme-fr-6840336/",
+      "venueName": null,
+      "address": "Théâtre du Têtard33 rue Ferrari, 13005, Marseille 5ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/124/118/43284092.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "theatre"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
         }
       ],
       "approximate": false
@@ -4315,6 +6559,124 @@
         {
           "id": "molotov",
           "name": "Le Molotov / Le Dodu"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "e20dc28be497",
+      "title": "Concert Paul Lecocq",
+      "start": "2026-12-05T23:00:00.000Z",
+      "end": "2026-12-05T23:00:00.000Z",
+      "allDay": true,
+      "description": "L’année dernière, son nom a fait le tour du monde lorsqu’il a remporté le Concours Clara-Haskil à Vevey (Suisse). Le prix du public a rendu sa victoire encore plus incontestable. Le magazine Diapason l'a qualifié de «flamboyant ».Pas étonnant, vu qu'il pratique la scène depuis son plus jeune âge. Son jeu jaillissant et coloré s’est affiné avec le temps, notamment à Aubagne, sous la férule de Bern…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/concert-paul-lecocq-marseille-1er-fr-6592019/",
+      "venueName": null,
+      "address": "Opéra de Marseille2 Place Ernest Reyer, 13001, Marseille 1er",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/242/113/41841138.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "10d0c0725afa",
+      "title": "Concert de l'Orchestre Philharmonique de Marseille - Clap de fin",
+      "start": "2026-12-05T23:00:00.000Z",
+      "end": "2026-12-05T23:00:00.000Z",
+      "allDay": true,
+      "description": "Concert symphonique de l'Orchestre Philharmonique de Marseille. CONCERT DE L'ORCHESTRE PHILHARMONIQUE DE MARSEILLE CLAP DE FIN Écrite pour la Royal Philharmonic Society de Londres qui lui avait commandé la Neuvième, la Symphonie n° 10 de Beethoven est inachevée. Le musicologue Barry Cooper l’a terminée. Une curiosité. Schönberg, lui aussi, n’a pas terminé sa Symphonie de chambre n° 2. Il l’a repr…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/concert-de-lorchestre-philharmonique-de-marseille-clap-de-fin-marseille-7eme-fr-6801182/",
+      "venueName": null,
+      "address": "Auditorium du Pharo56 Bd Charles Livon, 13007, Marseille 7ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/239/108/42757359.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "ed69ad30c6a6",
+      "title": "Un moment suspendu (la Criée)",
+      "start": "2026-12-07T23:00:00.000Z",
+      "end": "2026-12-10T23:00:00.000Z",
+      "allDay": true,
+      "description": "Une pièce écrite pour la Jeune Troupe de La Criée, avec Marseille comme point d’ancrage et la rencontre pour horizon ! Reine est une jeune femme au passé mystérieux qui s’est mis en tête d’implanter à Marseille une activité méconnue : le korfball. Inventé par un instituteur néerlandais au début du XXe siècle, ce sport collectif a la particularité d’être mixte et de faire jouer chacun·e aussi bien…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/un-moment-suspendu-la-criee-marseille-7eme-fr-6563770/",
+      "venueName": null,
+      "address": "La Criée - Théâtre National de Marseille30 quai de Rive Neuve, 13007, Marseille 7ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/195/26/41687747.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "theatre",
+        "fete"
+      ],
+      "venueTags": [],
+      "score": 2,
+      "scoreReasons": [
+        "débat"
+      ],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "27c3d1db9189",
+      "title": "Il était une fois les Vieux-Quartiers",
+      "start": "2026-12-07T23:00:00.000Z",
+      "end": "2026-12-07T23:00:00.000Z",
+      "allDay": true,
+      "description": "Rendez-vous au Musée d'Histoire de Marseille (MHM) pour la table ronde \"Il était une fois les Vieux-Quartiers\". Engagé depuis 2019, le Collectif Saint-Jean 1943, association regroupant survivants, descendants de victimes et militants de la mémoire, a mené en 2025 de rigoureuses recherches en archives sur la tragédie de janvier-février 1943. Restitué auprès des adhérents puis matérialisé par un li…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/il-etait-une-fois-les-vieux-quartiers-marseille-1er-fr-6865636/",
+      "venueName": null,
+      "address": "Musée d'Histoire de Marseille (MHM)Centre Bourse2 rue Henri Barbusse, 13001, Marseille 1er",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/135/22/43456135.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "conference"
+      ],
+      "venueTags": [],
+      "score": 6,
+      "scoreReasons": [
+        "histoire",
+        "débat"
+      ],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
         }
       ],
       "approximate": false
@@ -4406,6 +6768,36 @@
       "approximate": false
     },
     {
+      "id": "a7d7b9015b86",
+      "title": "La grande quête du Chatvalier",
+      "start": "2026-12-10T23:00:00.000Z",
+      "end": "2026-12-11T23:00:00.000Z",
+      "allDay": true,
+      "description": "Le Comptoir des Arts présente La grande quête du Chatvalier, spectacle de clown tout public (accessible aux enfants à partir de 7 ans). Torine a très envie de vous raconter La grande quête du Chatvalier, une histoire médiévalesque encore jamais entendue ! Alors que tout se passe comme prévu, son partenaire de toujours, Vendetta, censé jouer le chatvalier, décide aujourd'hui de faire des siennes. …",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/la-grande-quete-du-chatvalier-marseille-6eme-fr-6742307/",
+      "venueName": null,
+      "address": "Théâtre Marie-Jeanne56 rue Berlioz, 13006, Marseille 6ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/188/228/42460348.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "spectacle"
+      ],
+      "venueTags": [],
+      "score": 2,
+      "scoreReasons": [
+        "histoire"
+      ],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
       "id": "43bb42ebbe4e",
       "title": "TÄRA",
       "start": "2026-12-11T19:00:00.000Z",
@@ -4429,6 +6821,34 @@
         {
           "id": "molotov",
           "name": "Le Molotov / Le Dodu"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "d6d1e88e1021",
+      "title": "Récital du midi - Éléonore Pancrazi",
+      "start": "2026-12-11T23:00:00.000Z",
+      "end": "2026-12-11T23:00:00.000Z",
+      "allDay": true,
+      "description": "Rendez-vous musicaux, à midi au Foyer Ernest Reyer, sous forme de récitals, à petits prix ! RÉCITAL DU MIDI Éléonore PANCRAZI Pour les amoureux des voix, de nouveaux rendez-vous musicaux, à midi au Foyer Ernest Reyer, sous forme de récitals, à petits prix ! La jeune mezzo corse, Éléonore Pancrazi, sacrée Révélation Lyrique aux Victoires de la Musique Classique 2019, vous invite à découvrir des oe…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/recital-du-midi-eleonore-pancrazi-marseille-1er-fr-6858111/",
+      "venueName": null,
+      "address": "Foyer de l'Opéra de Marseille2 Place Ernest Reyer, 13001, Marseille 1er",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/28/196/43435036.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
         }
       ],
       "approximate": false
@@ -4492,6 +6912,123 @@
         }
       ],
       "approximate": false
+    },
+    {
+      "id": "963a8ede899f",
+      "title": "Les Fesses-tivités de Noël",
+      "start": "2026-12-17T23:00:00.000Z",
+      "end": "2026-12-17T23:00:00.000Z",
+      "allDay": true,
+      "description": "Les artistes vont vous régaler avec une série de numéros qui mettent à l’honneur Noël et les fesses : effeuillage burlesque, danse, cirque, mime… Il y en aura pour tous les goûts. Spectacle du Collectif Energétique Pour se réchauffer cet hiver et célébrer ensemble les fêtes de Noël, le Massilia Burlesque Show remue les grelots et les popotins ! Préparez-vous à vivre une expérience haute en couleu…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/les-fesses-tivites-de-noel-marseille-4eme-fr-6698702/",
+      "venueName": null,
+      "address": "Théâtre des Chartreux105 Avenue Des Chartreux, 13004, Marseille 4ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/55/64/42221623.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "spectacle",
+        "fete"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "44fb175d4f8d",
+      "title": "Anne Depetrini en rodage",
+      "start": "2026-12-17T23:00:00.000Z",
+      "end": "2026-12-18T23:00:00.000Z",
+      "allDay": true,
+      "description": "Nouveau spectacle d'Anne Depetrini au théâtre l'Art Dû Trop grande, trop de cheveux, trop timide, trop spontanée… Moi je voulais juste être à la bonne place, et je n’y arrivais jamais. J’ai tout essayé. Non mais vraiment tout, depuis la psy, jusqu’à l’exorciste, en passant par le marabout. Et non. J’étais toujours à côté. Mais finalement je me suis aperçue d’un truc,incroyable : être à…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/anne-depetrini-en-rodage-marseille-6eme-fr-6420314/",
+      "venueName": null,
+      "address": "Théâtre L'Art Dû83 rue Marengo, 13006, Marseille 6ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/140/85/41178508.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "theatre",
+        "spectacle"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "14b117cd5c56",
+      "title": "Concours de crèches de Noël",
+      "start": "2026-12-17T23:00:00.000Z",
+      "end": "2027-01-07T23:00:00.000Z",
+      "allDay": true,
+      "description": "Le Roudelet fête cette année les 35 ans de son concours exposition de crèches. 35 ans quelle belle longévité ! Le concours attire un public de nombreux marseillais et de plus loin, au de là de notre département. Nos crèchistes répondent toujours présents pour maintenir cette belle tradition en cette période calendale. Lors de sa création il avait de nombreuses communes ou comités qui organisaient…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/concours-de-creches-de-noel-marseille-13eme-fr-3907075/",
+      "venueName": null,
+      "address": "Centre de culture provençale de Château-Gombert : Roudelet Felibren45 Boulevard Barra, 13013, Marseille 13ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/155/189/43564443.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "expo",
+        "fete"
+      ],
+      "venueTags": [],
+      "score": 3,
+      "scoreReasons": [
+        "politique"
+      ],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "33a6f00cdf51",
+      "title": "Felix Junier : ça marche",
+      "start": "2026-12-17T23:00:00.000Z",
+      "end": "2026-12-17T23:00:00.000Z",
+      "allDay": true,
+      "description": "Un spectacle good vibes avec un message d’espoir ... Après 5 ans de stand up dans les comedy clubs parisiens, Félix vous présente son premier spectacle. Pourvu que « ça marche » ! Pendant 1h Félix Junier (oui je parle de moi à la 3e personne) vous parle de son parcours qui l’a mené à la scène. C’est donc à l’aide d’autodérision et de raisonnements absurdes que ce jeune homme discret, timide, peur…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/felix-junier-ca-marche-marseille-6eme-fr-5822226/",
+      "venueName": null,
+      "address": "Théâtre L'Art Dû83 rue Marengo, 13006, Marseille 6ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/75/11/32443211.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "spectacle"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ],
+      "approximate": false
     }
   ],
   "watch": [],
@@ -4507,8 +7044,8 @@
       "name": "Office de tourisme de Marseille",
       "kind": "auto",
       "ok": true,
-      "eventCount": 9,
-      "keptCount": 6,
+      "eventCount": 144,
+      "keptCount": 92,
       "error": null,
       "usedFallback": false
     },
@@ -4540,16 +7077,6 @@
       "eventCount": 0,
       "keptCount": 0,
       "error": "HTTP 403 on https://13.agendaculturel.fr/marseille/",
-      "usedFallback": false
-    },
-    {
-      "id": "le-talus",
-      "name": "Le Talus",
-      "kind": "auto",
-      "ok": true,
-      "eventCount": 1,
-      "keptCount": 0,
-      "error": null,
       "usedFallback": false
     },
     {
@@ -4796,10 +7323,10 @@
       "id": "fete-science",
       "name": "Fête de la science – Marseille",
       "kind": "auto",
-      "ok": false,
+      "ok": true,
       "eventCount": 0,
       "keptCount": 0,
-      "error": "Réseau injoignable (Connect Timeout Error (attempted address: www.fetedelascience.fr:443, timeout: 10000ms)) sur https://www.fetedelascience.fr/festival-des-sciences-de-marseille-2026",
+      "error": null,
       "usedFallback": false
     },
     {
@@ -4899,7 +7426,7 @@
       "ok": false,
       "eventCount": 0,
       "keptCount": 0,
-      "error": "Réseau injoignable (Connect Timeout Error (attempted addresses: 185.128.239.11:443, 185.128.239.10:443, timeout: 10000ms)) sur https://andromede.id.st/",
+      "error": "Réseau injoignable (Connect Timeout Error (attempted addresses: 185.128.239.10:443, 185.128.239.11:443, timeout: 10000ms)) sur https://andromede.id.st/",
       "usedFallback": false
     },
     {
