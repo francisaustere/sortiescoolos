@@ -56,6 +56,7 @@ async function runSource(source: SourceConfig, window: Window, previous: EventsF
     const events = result.events.map((raw) => normalize(raw, source, window)).filter((e): e is SortieEvent => e !== null);
     report.eventCount = result.events.length;
     report.keptCount = events.length;
+    if (result.snapshotText) await saveText(`${source.id}.txt`, result.snapshotText);
     return { events, watch: result.watch ?? [], report };
   } catch (error) {
     report.ok = false;
@@ -68,6 +69,11 @@ async function runSource(source: SourceConfig, window: Window, previous: EventsF
     report.keptCount = fallback.length;
     return { events: fallback, watch: [], report };
   }
+}
+
+async function saveText(name: string, text: string): Promise<void> {
+  await mkdir(SNAPSHOT_DIR, { recursive: true });
+  await writeFile(`${SNAPSHOT_DIR}/${name}`, text.slice(0, SNAPSHOT_MAX_CHARS));
 }
 
 async function saveSnapshot(source: SourceConfig): Promise<void> {

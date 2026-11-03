@@ -27,10 +27,13 @@ export interface SourceConfig {
 export interface AdapterResult {
   events: RawEvent[];
   watch?: WatchPost[];
+  /** Extracted text worth saving for writing/refining a reader (e.g. PDF agenda). */
+  snapshotText?: string;
 }
 
 export type Adapter = (source: SourceConfig, http: HttpClient) => Promise<AdapterResult>;
 
 export interface HttpClient {
   getText(url: string): Promise<string>;
+  getBytes(url: string): Promise<Uint8Array>;
 }

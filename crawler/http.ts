@@ -7,6 +7,14 @@ const USER_AGENT = "SortiesCoolBot/0.1 (agenda perso, 1 passage par semaine; +ht
 export default class FetchHttpClient implements HttpClient {
 
   public async getText(url: string): Promise<string> {
+    return (await this.fetchOk(url)).text();
+  }
+
+  public async getBytes(url: string): Promise<Uint8Array> {
+    return new Uint8Array(await (await this.fetchOk(url)).arrayBuffer());
+  }
+
+  private async fetchOk(url: string): Promise<Response> {
     let response: Response;
     try {
       response = await fetch(url, {
@@ -20,6 +28,6 @@ export default class FetchHttpClient implements HttpClient {
       throw new Error(`Réseau injoignable (${cause ?? (error instanceof Error ? error.message : String(error))}) sur ${url}`);
     }
     if (!response.ok) throw new Error(`HTTP ${response.status} on ${url}`);
-    return response.text();
+    return response;
   }
 }

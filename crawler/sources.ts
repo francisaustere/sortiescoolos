@@ -206,9 +206,9 @@ export const SOURCES: SourceConfig[] = [
 
   // ---- Découvertes via les pages Facebook likées (vérifiées actives 2026)
   {
-    id: "vortex", name: "Le Vortex (agenda concerts souterrains)", kind: "auto", url: "https://vortexfrommars.org/",
+    id: "vortex", name: "Le Vortex (agenda concerts souterrains)", kind: "custom", url: "https://vortexfrommars.org/",
     venueTags: ["planque"], defaultCategories: ["concert"], requireLocalMatch: false, enabled: true,
-    note: "Agenda mensuel DIY 0-10 €. Site probablement SPIP : lecteur sur mesure à écrire d'après la capture.",
+    note: "Agenda mensuel DIY 0-10 € publié en PDF. Lecteur texte approximatif, à affiner d'après snapshots/vortex.txt.",
   },
   {
     id: "tarpin-bien", name: "Le Tarpin Bien", kind: "auto", url: "https://tarpin-bien.com/categorie/video/lagenda/",

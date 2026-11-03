@@ -1,6 +1,8 @@
 import { readFileSync } from "node:fs";
 import { describe, expect, it } from "vitest";
 import { CUSTOM_PARSERS } from "../adapters/custom";
+import { parseVortexVenues } from "../adapters/custom/vortex";
+import { parseAgendaText } from "../pipeline/agendaText";
 import { normalize } from "../pipeline/normalize";
 import type { SourceConfig } from "../types";
 
@@ -40,5 +42,22 @@ describe("custom parsers on real pages", () => {
     const { raw } = run("videodrome2");
     expect(raw.length).toBeGreaterThan(3);
     expect(raw[0]?.start).toMatch(/^2026-11/);
+  });
+});
+
+describe("Vortex", () => {
+  const venues = parseVortexVenues(fixture("vortex"));
+  it("reads the venue directory", () => {
+    const data = venues.find((v) => v.name === "Data");
+    expect(data?.address).toContain("13006 Marseille");
+    expect(venues.length).toBeGreaterThan(15);
+  });
+  it("reads a text agenda with day headers", () => {
+    const text = "NOVEMBRE\nMercredi 5\nLeda Atomica Musique : Bruits Confus + Noise trio 20h prix libre\nJeudi 6 novembre\nL’Embobineuse – Punk night – 21h – 8€";
+    const events = parseAgendaText(text, venues, new Date("2026-11-01T00:00:00Z"));
+    expect(events).toHaveLength(2);
+    expect(events[0]?.start).toBe("2026-11-05T19:00:00.000Z");
+    expect(events[0]?.venueName).toBe("Leda Atomica Musique (LAM)");
+    expect(events[1]?.priceText).toBe("8€");
   });
 });
