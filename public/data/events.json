@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T19:57:05.580Z",
+  "generatedAt": "2026-11-03T20:02:14.447Z",
   "windowDays": 45,
   "events": [
     {
@@ -2270,7 +2270,7 @@
       "ok": false,
       "eventCount": 0,
       "keptCount": 0,
-      "error": "Réseau injoignable (Connect Timeout Error (attempted addresses: 185.128.239.10:443, 185.128.239.11:443, timeout: 10000ms)) sur https://andromede.id.st/",
+      "error": "Réseau injoignable (Connect Timeout Error (attempted addresses: 185.128.239.11:443, 185.128.239.10:443, timeout: 10000ms)) sur https://andromede.id.st/",
       "usedFallback": false
     },
     {
@@ -2286,7 +2286,7 @@
     {
       "id": "vortex",
       "name": "Le Vortex (agenda concerts souterrains)",
-      "kind": "auto",
+      "kind": "custom",
       "ok": true,
       "eventCount": 0,
       "keptCount": 0,
@@ -2320,7 +2320,7 @@
       "ok": false,
       "eventCount": 0,
       "keptCount": 0,
-      "error": "Réseau injoignable (Connect Timeout Error (attempted address: musees.marseille.fr:443, timeout: 10000ms)) sur https://musees.marseille.fr/museum-dhistoire-naturelle-de-marseille-mhnm",
+      "error": "HTTP 500 on https://musees.marseille.fr/museum-dhistoire-naturelle-de-marseille-mhnm",
       "usedFallback": false
     },
     {
