@@ -99,7 +99,7 @@ export function extractLinks(html: string, selector: string, baseUrl: string, li
       // Ignore unparsable hrefs
     }
   });
-  return [...links].slice(0, Math.max(MAX_FOLLOWED_PAGES, limit));
+  return [...links].slice(0, Math.max(MAX_FOLLOWED_PAGES, limit ?? 0));
 }
 
 /** Reads JSON-LD on the listing page; if a selector is given, also reads each linked event page. */

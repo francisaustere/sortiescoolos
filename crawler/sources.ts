@@ -13,7 +13,9 @@ export const SOURCES: SourceConfig[] = [
   {
     id: "marseille-tourisme", name: "Office de tourisme de Marseille", kind: "auto",
     url: "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/",
-    venueTags: [], requireLocalMatch: true, enabled: true, maxFollow: 120, snapshot: true,
+    venueTags: [], requireLocalMatch: true, enabled: true, maxFollow: 200,
+    paginate: { param: "listpage", pages: 15 },
+    followLinks: "a[href*='/vivez-marseille-blog/agenda/'][href*='-fr-']",
     note: "Couvre presque tous les lieux (base Apidae). Source pivot.",
   },
   {
@@ -37,8 +39,8 @@ export const SOURCES: SourceConfig[] = [
   {
     id: "le-talus", name: "Le Talus", kind: "auto", url: "https://www.letalus.com/event-details/programmation",
     venueTags: ["tiers_lieu", "planque", "nature"], defaultCategories: ["fete"],
-    defaultVenue: { name: "Le Talus", address: "Marseille 12e", commune: MARSEILLE }, enabled: true, snapshot: true,
-    note: "Site Wix. Le lieu rétrécit (travaux LNPCA), projet « Talus 2027 » à suivre.",
+    defaultVenue: { name: "Le Talus", address: "Marseille 12e", commune: MARSEILLE }, enabled: false,
+    note: "Le site renvoie vers un arbre de liens, sans programme. Ses dates passent par l'office de tourisme. Le lieu rétrécit (travaux LNPCA), projet « Talus 2027 ».",
   },
   {
     id: "la-dar", name: "La Dar (centre social autogéré)", kind: "auto", url: "https://la-dar.org/",

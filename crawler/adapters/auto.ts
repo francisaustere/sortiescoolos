@@ -30,11 +30,22 @@ const autoAdapter: Adapter = async (source, http) => {
 
   const html = await http.getText(source.url);
   const events = extractJsonLdEvents(html, source.url);
-  if (events.length > 0 && !source.followLinks) return { events };
+  if (events.length > 0 && !source.followLinks && !source.paginate) return { events };
 
   const host = new URL(source.url).host;
-  const links = extractLinks(html, source.followLinks ?? EVENT_LINK_SELECTOR, source.url, source.maxFollow)
-    .filter((link) => new URL(link).host === host && link !== source.url)
+  const listingHtml = [html];
+  for (let page = 2; source.paginate && page <= source.paginate.pages; page++) {
+    const pageUrl = new URL(source.url);
+    pageUrl.searchParams.set(source.paginate.param, String(page));
+    try {
+      listingHtml.push(await http.getText(pageUrl.toString()));
+    } catch {
+      break; // Past the last page
+    }
+  }
+  const isListingPage = (link: string): boolean => source.paginate !== undefined && new URL(link).searchParams.has(source.paginate.param);
+  const links = [...new Set(listingHtml.flatMap((page) => extractLinks(page, source.followLinks ?? EVENT_LINK_SELECTOR, source.url, source.maxFollow)))]
+    .filter((link) => new URL(link).host === host && link !== source.url && !isListingPage(link))
     .slice(0, source.maxFollow ?? MAX_AUTO_FOLLOW);
   for (const link of links) {
     try {
