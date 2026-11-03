@@ -20,7 +20,7 @@
   },
   "categories": {
     "concert": "Concert", "theatre": "Théâtre", "slam": "Slam & poésie", "spectacle": "Spectacle",
-    "conference": "Conférence & débat", "sciences": "Sciences", "festival": "Festival", "nature": "Nature & insolite", "makers": "Makers & ateliers",
+    "conference": "Conférence & débat", "sciences": "Sciences", "festival": "Festival", "nature": "Nature & insolite", "makers": "Makers, geek & jeux",
     "expo": "Expo", "cinema": "Ciné", "fete": "Soirée", "autre": "Autre"
   },
   "event": {

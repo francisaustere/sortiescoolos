@@ -70,6 +70,15 @@ describe("wp-tribe adapter", () => {
   });
 });
 
+describe("couple tastes", () => {
+  it("rewards indie games, plants and poetry", () => {
+    const at = (title: string) => normalize({ title, start: "2026-11-20T19:00:00", address: "13006 Marseille" }, { ...SOURCE, venueTags: [] }, WINDOW)!;
+    expect(at("Soirée jeux vidéo indépendants et contrôleurs alternatifs").scoreReasons).toContain("jeu vidéo indé / geek");
+    expect(at("Troc de plantes et balade botanique").categories).toContain("nature");
+    expect(at("Lecture de poésie au jardin").scoreReasons).toEqual(expect.arrayContaining(["slam / poésie"]));
+  });
+});
+
 describe("not a sortie", () => {
   it("drops permanences and general assemblies", () => {
     expect(normalize({ title: "Permanence juridique CNT", start: "2026-11-20T18:00:00", address: "13001 Marseille" }, SOURCE, WINDOW)).toBeNull();
