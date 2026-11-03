@@ -76,6 +76,9 @@ describe("couple tastes", () => {
     expect(at("Soirée jeux vidéo indépendants et contrôleurs alternatifs").scoreReasons).toContain("jeu vidéo indé / geek");
     expect(at("Troc de plantes et balade botanique").categories).toContain("nature");
     expect(at("Lecture de poésie au jardin").scoreReasons).toEqual(expect.arrayContaining(["slam / poésie"]));
+    expect(at("Atelier Arduino : capteurs et soudure").scoreReasons).toEqual(expect.arrayContaining(["électronique", "makers"]));
+    expect(at("Vibe coding avec une IA : initiation").scoreReasons).toContain("IA / code");
+    expect(at("Repair Café du quartier").categories).toContain("makers");
   });
 });
 

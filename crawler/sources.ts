@@ -185,6 +185,22 @@ export const SOURCES: SourceConfig[] = [
     venueTags: ["makers"], defaultCategories: ["makers"], defaultVenue: { name: "Make it Marseille", commune: MARSEILLE }, enabled: true,
   },
 
+  {
+    id: "ia-aixmarseille", name: "IA Aix Marseille (meetups)", kind: "auto", url: "https://ia-aixmarseille.org/",
+    venueTags: ["makers"], defaultCategories: ["makers"], requireLocalMatch: true, enabled: true,
+  },
+  {
+    id: "dev-events", name: "dev.events – Marseille", kind: "auto", url: "https://dev.events/EU/FR/Marseille",
+    venueTags: [], defaultCategories: ["makers"], requireLocalMatch: true, enabled: true,
+    note: "Conférences et meetups développeurs (DevFest, IA…).",
+  },
+  {
+    id: "meetup-marseille", name: "Meetup – Marseille tech", kind: "auto",
+    url: "https://www.meetup.com/fr-FR/find/?location=fr--Marseille&source=EVENTS&categoryId=546",
+    venueTags: [], defaultCategories: ["makers"], requireLocalMatch: true, enabled: true,
+    note: "Catégorie Technologie. Meetup bloque parfois les robots.",
+  },
+
   // ---- Nature & sorties originales
   {
     id: "lpo-paca", name: "LPO PACA – sorties nature", kind: "auto",

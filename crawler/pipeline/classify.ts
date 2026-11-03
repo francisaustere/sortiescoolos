@@ -7,7 +7,7 @@ const CATEGORY_PATTERNS: [Category, string[]][] = [
   ["conference", ["conference", "debat", "table ronde", "rencontre avec", "causerie", "seminaire", "colloque", "universite populaire", "presentation du livre", "dedicace"]],
   ["sciences", ["science", "scientifique", "astrophysique", "neuroscience", "pint of science", "chercheur", "chercheuse", "sciences sociales", "biodiversite", "mathematique"]],
   ["nature", ["balade", "randonnee", "sortie nature", "oiseaux", "ornitho", "etoiles", "astronom", "observation du ciel", "chauves souris", "nuit de la chouette", "jardin", "plantes", "botanique", "cueillette", "permaculture", "troc de plantes"]],
-  ["makers", ["fablab", "atelier", "repair cafe", "maker", "bricolage", "impression 3d", "electronique", "game jam", "hackathon", "jeu video", "jeux video", "arcade", "art numerique", "arts numeriques"]],
+  ["makers", ["fablab", "atelier", "repair cafe", "maker", "bricolage", "impression 3d", "electronique", "game jam", "hackathon", "jeu video", "jeux video", "arcade", "art numerique", "arts numeriques", "arduino", "raspberry", "soudure", "reparation", "low tech", "meetup", "devfest", "vibe coding", "intelligence artificielle"]],
   ["festival", ["festival", "biennale", "fiesta", "rencontres d"]],
   ["concert", ["concert", "live", "dj set", "jazz", "rock", "rap", "punk", "electro", "musique", "chanson", "orchestre", "trio", "quartet"]],
   ["theatre", ["theatre", "piece", "comedie", "mise en scene", "seul en scene"]],
