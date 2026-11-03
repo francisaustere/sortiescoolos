@@ -1,0 +1,2939 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+
+  <!-- Google tag (gtag.js) — DANCETERIA.FR -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-4NT4JHW9YG"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-4NT4JHW9YG');
+  </script>
+
+  <meta charset="UTF-8">
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  >
+
+  <title>Danceteria Marseille | Club de musique électronique</title>
+
+  <meta
+    name="description"
+    content="Danceteria est un club de musique électronique indépendant à Marseille. DJs locaux et internationaux, du jeudi au samedi de 00h à 06h."
+  >
+
+  <meta
+    name="robots"
+    content="index, follow, max-image-preview:large"
+  >
+
+  <meta
+    name="theme-color"
+    content="#070707"
+  >
+
+  <link rel="canonical" href="https://danceteria.fr/">
+  <link rel="alternate" hreflang="fr" href="https://danceteria.fr/">
+  <link rel="alternate" hreflang="x-default" href="https://danceteria.fr/">
+
+  <link
+    rel="icon"
+    type="image/png"
+    href="logo-danceteria-transparent.png"
+  >
+
+  <link
+    rel="apple-touch-icon"
+    href="logo-danceteria.png"
+  >
+
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="fr_FR">
+  <meta property="og:site_name" content="Danceteria">
+  <meta property="og:title" content="Danceteria Marseille — Club de musique électronique">
+  <meta property="og:description" content="Club électronique indépendant à Marseille. DJs locaux et internationaux, du jeudi au samedi de 00h à 06h.">
+  <meta property="og:url" content="https://danceteria.fr/">
+  <meta property="og:image" content="https://danceteria.fr/logo-danceteria.png">
+  <meta property="og:image:alt" content="Logo du club Danceteria à Marseille">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Danceteria Marseille — Club électronique">
+  <meta name="twitter:description" content="Programmation, informations pratiques et radio du club Danceteria à Marseille.">
+  <meta name="twitter:image" content="https://danceteria.fr/logo-danceteria.png">
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "NightClub",
+    "@id": "https://danceteria.fr/#club",
+    "name": "Danceteria",
+    "alternateName": "Danceteria Marseille",
+    "url": "https://danceteria.fr/",
+    "logo": "https://danceteria.fr/logo-danceteria.png",
+    "image": "https://danceteria.fr/logo-danceteria.png",
+    "description": "Club de musique électronique indépendant au cœur de Marseille, accueillant des DJs locaux et internationaux.",
+    "email": "info@danceteria.fr",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "18 rue Saint-Saëns",
+      "postalCode": "13001",
+      "addressLocality": "Marseille",
+      "addressRegion": "Provence-Alpes-Côte d’Azur",
+      "addressCountry": "FR"
+    },
+    "hasMap": "https://www.google.com/maps/search/?api=1&query=Danceteria%2C%2018%20rue%20Saint-Sa%C3%ABns%2C%2013001%20Marseille",
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": "https://schema.org/Thursday",
+        "opens": "00:00",
+        "closes": "06:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": "https://schema.org/Friday",
+        "opens": "00:00",
+        "closes": "06:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": "https://schema.org/Saturday",
+        "opens": "00:00",
+        "closes": "06:00"
+      }
+    ],
+    "sameAs": [
+      "https://www.instagram.com/danceteria_marseille/",
+      "https://www.facebook.com/danceteria.marseille/",
+      "https://shotgun.live/fr/venues/danceteria",
+      "https://ra.co/clubs/163969"
+    ]
+  }
+  </script>
+
+
+  <style>
+
+    :root {
+      --bg: #070707;
+      --surface: #101010;
+      --text: #f4f2ed;
+      --muted: #96938d;
+      --line: rgba(255,255,255,.14);
+      --red: #c82019;
+      --orange: #ef851d;
+      --max: 1280px;
+      color-scheme: dark;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html {
+      scroll-behavior: smooth;
+      background: var(--bg);
+    }
+
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    body.menu-open {
+      overflow: hidden;
+    }
+
+    a {
+      color: inherit;
+    }
+
+    img,
+    video {
+      display: block;
+    }
+
+    .sr-only {
+      position: absolute;
+      width: 1px;
+      height: 1px;
+      padding: 0;
+      margin: -1px;
+      overflow: hidden;
+      clip: rect(0,0,0,0);
+      white-space: nowrap;
+      border: 0;
+    }
+
+
+    /* HEADER */
+
+    .site-header {
+      position: fixed;
+      z-index: 100;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 66px;
+      padding: 0 20px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      background: rgba(0,0,0,.94);
+      border-bottom: 1px solid rgba(255,255,255,.12);
+      backdrop-filter: blur(8px);
+      -webkit-backdrop-filter: blur(8px);
+    }
+
+    .brand {
+      width: 138px;
+      height: 42px;
+      display: flex;
+      align-items: center;
+      text-decoration: none;
+    }
+
+    .brand img {
+      width: 132px;
+      height: auto;
+    }
+
+    .main-nav {
+      display: flex;
+      align-items: center;
+      gap: 22px;
+    }
+
+    .main-nav a {
+      text-decoration: none;
+      text-transform: uppercase;
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: .15em;
+    }
+
+    .main-nav a:hover {
+      opacity: .55;
+    }
+
+    .apply-link {
+      border: 1px solid rgba(255,255,255,.5);
+      padding: 9px 12px;
+    }
+
+    .menu-toggle {
+      display: none;
+      padding: 0;
+      border: 0;
+      background: transparent;
+      color: white;
+      font-size: 10px;
+      font-weight: 800;
+      letter-spacing: .15em;
+    }
+
+
+    /* HERO */
+
+    .hero {
+      position: relative;
+      min-height: 100svh;
+      overflow: hidden;
+      display: flex;
+      align-items: flex-end;
+      padding: 145px 22px 58px;
+    }
+
+    .hero-video {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    .hero-overlay {
+      position: absolute;
+      inset: 0;
+      background:
+        linear-gradient(
+          to bottom,
+          rgba(0,0,0,.02),
+          rgba(0,0,0,.08) 40%,
+          rgba(0,0,0,.88)
+        );
+    }
+
+    .hero-content {
+      position: relative;
+      width: min(var(--max),100%);
+      margin: 0 auto;
+    }
+
+    .eyebrow {
+      margin: 0 0 14px;
+      font-size: 10px;
+      font-weight: 800;
+      letter-spacing: .19em;
+      text-transform: uppercase;
+    }
+
+    .hero h1 {
+      margin: 0;
+      max-width: 690px;
+      font-size: clamp(48px,6.1vw,90px);
+      line-height: .86;
+      font-weight: 900;
+      letter-spacing: -.065em;
+    }
+
+    .hero-copy {
+      margin: 22px 0 0;
+      font-size: clamp(17px,1.55vw,23px);
+    }
+
+    .hero-actions {
+      margin-top: 28px;
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+
+
+    /* HERO RADIO */
+
+    .hero-radio-wrap {
+      position: absolute;
+      right: 0;
+      bottom: 0;
+      z-index: 3;
+      width: min(370px, 36vw);
+    }
+
+    .hero-radio-label {
+      margin: 0 0 8px;
+      color: rgba(255,255,255,.72);
+      font-size: 9px;
+      font-weight: 800;
+      letter-spacing: .17em;
+      text-transform: uppercase;
+    }
+
+    .hero-radio-frame {
+      display: block;
+      width: 100%;
+      height: 154px;
+      border: 0;
+      background: transparent;
+    }
+
+    @media(max-width:1100px) {
+      .hero-radio-wrap {
+        position: relative;
+        right: auto;
+        bottom: auto;
+        width: min(430px,100%);
+        margin-top: 24px;
+      }
+    }
+
+
+    /* BUTTONS */
+
+    .button {
+      min-height: 48px;
+      padding: 0 18px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      border: 1px solid white;
+      text-decoration: none;
+      text-transform: uppercase;
+      font-size: 10px;
+      font-weight: 800;
+      letter-spacing: .13em;
+    }
+
+    .button-primary {
+      background: white;
+      color: black;
+    }
+
+    .button-secondary {
+      background: transparent;
+      color: white;
+    }
+
+
+    /* SECTIONS */
+
+    .section {
+      width: min(var(--max),calc(100% - 44px));
+      margin: 0 auto;
+      padding: 115px 0;
+    }
+
+    .section-head {
+      display: grid;
+      grid-template-columns: .37fr 1fr;
+      gap: 50px;
+      margin-bottom: 50px;
+    }
+
+    .kicker {
+      margin: 5px 0 0;
+      font-size: 10px;
+      font-weight: 800;
+      letter-spacing: .18em;
+      text-transform: uppercase;
+    }
+
+    .section h2 {
+      margin: 0;
+      font-size: clamp(44px,6vw,86px);
+      line-height: .93;
+      letter-spacing: -.06em;
+    }
+
+
+    /* IDENTITIES */
+
+    .identity-grid {
+      display: grid;
+      grid-template-columns: repeat(3,1fr);
+      gap: 16px;
+    }
+
+    .identity-card {
+      background: #111;
+      border: 1px solid var(--line);
+      overflow: hidden;
+    }
+
+    .identity-card img {
+      width: 100%;
+      aspect-ratio: 4 / 5;
+      object-fit: cover;
+    }
+
+    .identity-caption {
+      padding: 20px 20px 24px;
+    }
+
+    .identity-caption-head {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      padding-bottom: 16px;
+      margin-bottom: 16px;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .identity-caption strong {
+      font-size: 12px;
+      letter-spacing: .14em;
+    }
+
+    .identity-caption span {
+      color: var(--muted);
+      font-size: 9px;
+      letter-spacing: .13em;
+      text-transform: uppercase;
+    }
+
+    .identity-caption h3 {
+      margin: 0 0 10px;
+      font-size: 20px;
+      line-height: 1.05;
+      letter-spacing: -.03em;
+    }
+
+    .identity-caption p {
+      margin: 0;
+      color: var(--muted);
+      font-size: 13px;
+      line-height: 1.55;
+    }
+
+
+    /* PROGRAM */
+
+    .week-program {
+      border-top: 1px solid var(--line);
+    }
+
+    .week-head {
+      margin-bottom: 48px;
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+      gap: 40px;
+    }
+
+    .week-head h2 {
+      margin: 0;
+      font-size: clamp(48px,6vw,86px);
+      line-height: .88;
+      letter-spacing: -.06em;
+    }
+
+    .week-intro {
+      max-width: 390px;
+      color: var(--muted);
+      font-size: 14px;
+      line-height: 1.55;
+    }
+
+    .event-grid {
+      display: grid;
+      grid-template-columns: repeat(3,1fr);
+      gap: 18px;
+    }
+
+    .event-card {
+      overflow: hidden;
+      background: var(--surface);
+      border: 1px solid var(--line);
+    }
+
+    .event-image {
+      position: relative;
+      aspect-ratio: 4 / 5;
+      overflow: hidden;
+      background: #111;
+    }
+
+    .event-image img {
+      position: relative;
+      z-index: 2;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    .flyer-placeholder {
+      position: absolute;
+      inset: 0;
+      z-index: 1;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 30px;
+      text-align: center;
+    }
+
+    .flyer-placeholder span {
+      color: #777;
+      font-size: 9px;
+      letter-spacing: .16em;
+      text-transform: uppercase;
+    }
+
+    .flyer-placeholder strong {
+      margin-top: 15px;
+      font-size: clamp(28px,3vw,44px);
+      line-height: .92;
+      text-transform: uppercase;
+    }
+
+    .event-info {
+      padding: 20px;
+    }
+
+    .event-meta {
+      display: flex;
+      justify-content: space-between;
+    }
+
+    .event-day,
+    .event-date {
+      font-size: 10px;
+      font-weight: 800;
+      letter-spacing: .14em;
+    }
+
+    .event-date {
+      color: var(--muted);
+    }
+
+    .event-title {
+      margin: 24px 0 5px;
+      font-size: clamp(27px,3vw,44px);
+      line-height: .91;
+      letter-spacing: -.05em;
+      text-transform: uppercase;
+    }
+
+    .event-type {
+      margin: 0 0 25px;
+      color: var(--muted);
+      font-size: 10px;
+      line-height: 1.5;
+      text-transform: uppercase;
+    }
+
+
+    /* LINEUP */
+
+    .lineup {
+      margin: 0 0 26px;
+      border-top: 1px solid var(--line);
+    }
+
+    .lineup-row {
+      padding: 13px 0;
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 12px;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .lineup-name {
+      font-size: 12px;
+      font-weight: 750;
+    }
+
+    .artist-links {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+      gap: 8px;
+    }
+
+    .artist-links a {
+      color: #c7c4be;
+      text-decoration: none;
+      text-transform: uppercase;
+      font-size: 8px;
+      font-weight: 800;
+      letter-spacing: .1em;
+    }
+
+
+    /* SHOTGUN */
+
+    .shotgun-button {
+      min-height: 42px;
+      padding: 0 17px;
+      display: inline-flex;
+      align-items: center;
+      background: white;
+      color: black;
+      text-decoration: none;
+      font-size: 9px;
+      font-weight: 850;
+      letter-spacing: .14em;
+    }
+
+    .event-thursday {
+      border-bottom: 3px solid #e8e2d7;
+    }
+
+    .event-friday {
+      border-bottom: 3px solid var(--red);
+    }
+
+    .event-saturday {
+      border-bottom: 3px solid var(--orange);
+    }
+
+
+    /* CLUB */
+
+    .club {
+      display: grid;
+      grid-template-columns: 1.04fr .96fr;
+      gap: 10vw;
+      align-items: end;
+    }
+
+    .lead {
+      max-width: 34ch;
+      margin: 32px 0 0;
+      color: #c8c5bf;
+      font-size: clamp(18px,1.9vw,27px);
+      line-height: 1.32;
+    }
+
+    .club-points {
+      border-top: 1px solid var(--line);
+    }
+
+    .club-points > div {
+      padding: 20px 0;
+      display: grid;
+      grid-template-columns: 60px 1fr;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .club-points span {
+      color: var(--muted);
+      font-size: 10px;
+    }
+
+    .club-points strong {
+      font-size: clamp(24px,3vw,42px);
+    }
+
+
+    /* INFOS */
+
+    .info-grid {
+      display: grid;
+      grid-template-columns: repeat(4,1fr);
+      border-top: 1px solid var(--line);
+    }
+
+    .info-block {
+      padding: 25px;
+      min-height: 220px;
+      border-right: 1px solid var(--line);
+    }
+
+    .info-block:first-child {
+      padding-left: 0;
+    }
+
+    .info-block:last-child {
+      border: 0;
+    }
+
+    .info-label {
+      color: var(--muted);
+      font-size: 10px;
+      letter-spacing: .16em;
+      text-transform: uppercase;
+    }
+
+    .info-block p {
+      margin: 38px 0;
+      line-height: 1.5;
+    }
+
+    .info-block a {
+      text-decoration: none;
+      border-bottom: 1px solid white;
+      font-size: 10px;
+      font-weight: 800;
+      letter-spacing: .12em;
+      text-transform: uppercase;
+    }
+
+
+    /* CONTACT */
+
+    .contact {
+      border-top: 1px solid var(--line);
+      text-align: center;
+    }
+
+    .contact h2 {
+      max-width: 920px;
+      margin: 0 auto;
+    }
+
+    .contact-text {
+      color: var(--muted);
+      margin: 27px 0;
+    }
+
+    .contact-actions {
+      display: flex;
+      justify-content: center;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+
+
+    /* NEWSLETTER */
+
+    .newsletter {
+      position: relative;
+      overflow: hidden;
+      border-top: 1px solid var(--line);
+      border-bottom: 1px solid var(--line);
+      background:
+        radial-gradient(circle at 88% 20%, rgba(239,133,29,.28), transparent 28%),
+        linear-gradient(135deg, rgba(200,32,25,.2), transparent 52%);
+    }
+
+    .newsletter::after {
+      content: "NEWSLETTER";
+      position: absolute;
+      right: -18px;
+      bottom: -30px;
+      color: rgba(255,255,255,.035);
+      font-size: clamp(70px,14vw,210px);
+      font-weight: 900;
+      letter-spacing: -.08em;
+      line-height: .8;
+      pointer-events: none;
+    }
+
+    .newsletter-inner {
+      position: relative;
+      z-index: 1;
+      display: grid;
+      grid-template-columns: 1fr minmax(320px,520px);
+      gap: 8vw;
+      align-items: end;
+    }
+
+    .newsletter h2 { max-width: 760px; }
+
+    .newsletter-copy {
+      max-width: 38ch;
+      margin: 25px 0 0;
+      color: #c8c5bf;
+      font-size: clamp(17px,1.6vw,23px);
+      line-height: 1.4;
+    }
+
+    .newsletter-form { width: 100%; }
+
+    .newsletter-fields {
+      display: grid;
+      grid-template-columns: 1fr auto;
+      border-bottom: 1px solid var(--text);
+    }
+
+    .newsletter-fields input {
+      min-width: 0;
+      min-height: 58px;
+      padding: 0 18px 0 0;
+      border: 0;
+      border-radius: 0;
+      outline: 0;
+      background: transparent;
+      color: var(--text);
+      font: inherit;
+      font-size: 16px;
+    }
+
+    .newsletter-fields input::placeholder { color: var(--muted); }
+    .newsletter-fields input:focus { box-shadow: inset 0 -2px 0 var(--orange); }
+
+    .newsletter-submit {
+      min-height: 58px;
+      padding: 0 20px;
+      border: 0;
+      background: var(--text);
+      color: #080808;
+      cursor: pointer;
+      font-size: 10px;
+      font-weight: 850;
+      letter-spacing: .13em;
+      text-transform: uppercase;
+    }
+
+    .newsletter-submit:hover { background: var(--orange); }
+    .newsletter-submit.loading { display: none; }
+
+    .newsletter-legal {
+      margin: 14px 0 0;
+      color: var(--muted);
+      font-size: 10px;
+      line-height: 1.5;
+    }
+
+    .newsletter-success {
+      padding: 28px 0 0;
+      border-top: 1px solid var(--orange);
+    }
+
+    .newsletter-success h3 {
+      margin: 0 0 10px;
+      font-size: clamp(30px,3.5vw,54px);
+      letter-spacing: -.05em;
+    }
+
+    .newsletter-success p { margin: 0; color: #c8c5bf; }
+
+    .ml-form-embedSubmitLoad {
+      width: 18px;
+      height: 18px;
+      margin: auto;
+      border: 3px solid #080808;
+      border-right-color: transparent;
+      border-radius: 50%;
+      animation: newsletter-spin .8s linear infinite;
+    }
+
+    @keyframes newsletter-spin { to { transform: rotate(360deg); } }
+
+
+    /* FOOTER */
+
+    .site-footer {
+      width: min(var(--max),calc(100% - 44px));
+      margin: 0 auto;
+      padding: 24px 0 36px;
+      display: grid;
+      grid-template-columns: 1fr 1fr auto;
+      gap: 20px;
+      border-top: 1px solid var(--line);
+      color: var(--muted);
+      font-size: 10px;
+      letter-spacing: .1em;
+    }
+
+    .site-footer a {
+      text-decoration: none;
+    }
+
+
+    /* MOBILE */
+
+    @media(max-width:900px) {
+
+      .menu-toggle {
+        display: block;
+      }
+
+      .main-nav {
+        position: fixed;
+        top: 66px;
+        left: 0;
+        right: 0;
+        display: none;
+        flex-direction: column;
+        align-items: flex-start;
+        background: #000;
+        padding: 30px 20px;
+      }
+
+      .main-nav.is-open {
+        display: flex;
+      }
+
+      .main-nav a {
+        font-size: 17px;
+      }
+
+      .section-head,
+      .club,
+      .newsletter-inner {
+        grid-template-columns: 1fr;
+      }
+
+      .newsletter-inner { gap: 50px; }
+
+      .event-grid,
+      .identity-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .info-grid {
+        grid-template-columns: 1fr 1fr;
+      }
+
+    }
+
+
+    @media(max-width:600px) {
+
+      .section {
+        width: calc(100% - 32px);
+      }
+
+      .hero {
+        padding: 115px 16px 38px;
+      }
+
+      .event-grid,
+      .identity-grid,
+      .info-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .info-block {
+        border-right: 0;
+        border-bottom: 1px solid var(--line);
+        padding-left: 0;
+      }
+
+      .lineup-row {
+        grid-template-columns: 1fr;
+      }
+
+      .newsletter-fields {
+        grid-template-columns: 1fr;
+        gap: 10px;
+        border-bottom: 0;
+      }
+
+      .newsletter-fields input {
+        padding: 0 14px;
+        border: 1px solid var(--line);
+      }
+
+      .newsletter-submit { width: 100%; }
+
+      .artist-links {
+        justify-content: flex-start;
+      }
+
+    }
+
+  </style>
+
+</head>
+
+
+<body>
+
+
+<header class="site-header">
+
+  <a class="brand" href="#top">
+
+    <img
+      src="logo-danceteria-transparent.png"
+      alt="Danceteria"
+    >
+
+  </a>
+
+
+  <button
+    class="menu-toggle"
+    type="button"
+  >
+    MENU
+  </button>
+
+
+  <nav class="main-nav">
+
+    <a href="#agenda">
+      Agenda
+    </a>
+
+    <a href="#club">
+      Le club
+    </a>
+
+    <a href="radio.html">
+      Radio
+    </a>
+
+    <a href="#infos">
+      Infos
+    </a>
+
+    <a href="#newsletter">
+      Newsletter
+    </a>
+
+    <a
+      class="apply-link"
+      href="candidature.html"
+    >
+      Candidater
+    </a>
+
+    <a href="#contact">
+      Contact
+    </a>
+
+  </nav>
+
+</header>
+
+
+
+<main>
+
+
+<section
+  class="hero"
+  id="top"
+>
+
+  <video
+    class="hero-video"
+    autoplay
+    muted
+    loop
+    playsinline
+  >
+
+    <source src="hero.mp4.mov">
+
+  </video>
+
+  <div class="hero-overlay"></div>
+
+
+  <div class="hero-content">
+
+    <p class="eyebrow">
+      Danceteria — Club électronique · Marseille
+    </p>
+
+    <h1>
+      More than<br>
+      a Club.
+    </h1>
+
+    <p class="hero-copy">
+      Dancing. Speaking. Chilling. Drinking.
+    </p>
+
+    <div class="hero-actions">
+
+      <a
+        class="button button-primary"
+        href="#agenda"
+      >
+        Voir la programmation
+      </a>
+
+      <a
+        class="button button-secondary"
+        href="#infos"
+      >
+        Infos pratiques
+      </a>
+
+    </div>
+
+    <div class="hero-radio-wrap">
+
+      <p class="hero-radio-label">
+        Danceteria Radio — Live
+      </p>
+
+      <iframe
+        class="hero-radio-frame"
+        src="radio.html?embed=1&autoplay=1&v=20260904-2"
+        title="Danceteria Radio"
+        allow="autoplay"
+        loading="eager"
+      ></iframe>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+
+<section
+  class="section"
+  id="agenda"
+>
+
+  <div class="section-head">
+
+    <p class="kicker">
+      Danceteria
+    </p>
+
+    <h2>
+      Three nights.<br>
+      Three identities.
+    </h2>
+
+  </div>
+
+
+  <div class="identity-grid">
+
+    <article class="identity-card">
+
+      <img
+        src="jeudi.png"
+        alt="Jeudi Danceteria"
+      >
+
+      <div class="identity-caption">
+        <div class="identity-caption-head">
+          <strong>JEUDI</strong>
+          <span>Thursday</span>
+        </div>
+        <h3>Le Lab.</h3>
+        <p>
+          Le terrain d'expression des nouveaux collectifs et des formats qui
+          sortent du cadre. Tremplins, concerts et soirées spéciales — de
+          Danceteria Classics à Technoteria — font du jeudi la nuit de toutes
+          les expérimentations.
+        </p>
+      </div>
+
+    </article>
+
+
+    <article class="identity-card">
+
+      <img
+        src="vendredi.png"
+        alt="Vendredi Danceteria"
+      >
+
+      <div class="identity-caption">
+        <div class="identity-caption-head">
+          <strong>VENDREDI</strong>
+          <span>Friday</span>
+        </div>
+        <h3>Indieteria.</h3>
+        <p>
+          Une identité nocturne et magnétique, portée par l'indie dance, la
+          dark disco et leurs territoires voisins. Des rythmes hypnotiques,
+          des lignes de basse profondes et une tension qui monte jusqu'au petit
+          matin.
+        </p>
+      </div>
+
+    </article>
+
+
+    <article class="identity-card">
+
+      <img
+        src="samedi.png"
+        alt="Samedi Danceteria"
+      >
+
+      <div class="identity-caption">
+        <div class="identity-caption-head">
+          <strong>SAMEDI</strong>
+          <span>Saturday</span>
+        </div>
+        <p>
+          L'électronique sous toutes ses formes. House, techno et courants
+          hybrides se rencontrent dans une programmation ouverte, généreuse et
+          sans frontières, menée par des artistes locaux, nationaux et
+          internationaux.
+        </p>
+      </div>
+
+    </article>
+
+  </div>
+
+</section>
+
+
+
+<section class="section week-program">
+
+  <div class="week-head">
+
+    <div>
+
+      <p class="kicker">
+        Prochains événements
+      </p>
+
+      <h2>
+        This<br>
+        week.
+      </h2>
+
+    </div>
+
+  </div>
+
+
+  <div class="event-grid">
+
+
+    <article
+      class="event-card event-thursday"
+      id="card-thursday"
+    >
+
+      <div class="event-image">
+
+        <div class="flyer-placeholder">
+
+          <span class="placeholder-date">
+            JEUDI
+          </span>
+
+          <strong class="placeholder-title">
+            LOADING
+          </strong>
+
+        </div>
+
+        <img
+          class="event-flyer"
+          alt=""
+          hidden
+        >
+
+      </div>
+
+
+      <div class="event-info">
+
+        <div class="event-meta">
+
+          <span class="event-day">
+            JEUDI
+          </span>
+
+          <span class="event-date">
+            —
+          </span>
+
+        </div>
+
+        <h3 class="event-title">
+          Loading
+        </h3>
+
+        <p class="event-type">
+          —
+        </p>
+
+        <div class="lineup"></div>
+
+        <a
+          class="shotgun-button"
+          href="#"
+          target="_blank"
+          rel="noopener"
+          hidden
+        >
+          SHOTGUN ↗
+        </a>
+
+      </div>
+
+    </article>
+
+
+
+    <article
+      class="event-card event-friday"
+      id="card-friday"
+    >
+
+      <div class="event-image">
+
+        <div class="flyer-placeholder">
+
+          <span class="placeholder-date">
+            VENDREDI
+          </span>
+
+          <strong class="placeholder-title">
+            LOADING
+          </strong>
+
+        </div>
+
+        <img
+          class="event-flyer"
+          alt=""
+          hidden
+        >
+
+      </div>
+
+
+      <div class="event-info">
+
+        <div class="event-meta">
+
+          <span class="event-day">
+            VENDREDI
+          </span>
+
+          <span class="event-date">
+            —
+          </span>
+
+        </div>
+
+        <h3 class="event-title">
+          Loading
+        </h3>
+
+        <p class="event-type">
+          —
+        </p>
+
+        <div class="lineup"></div>
+
+        <a
+          class="shotgun-button"
+          href="#"
+          target="_blank"
+          rel="noopener"
+          hidden
+        >
+          SHOTGUN ↗
+        </a>
+
+      </div>
+
+    </article>
+
+
+
+    <article
+      class="event-card event-saturday"
+      id="card-saturday"
+    >
+
+      <div class="event-image">
+
+        <div class="flyer-placeholder">
+
+          <span class="placeholder-date">
+            SAMEDI
+          </span>
+
+          <strong class="placeholder-title">
+            LOADING
+          </strong>
+
+        </div>
+
+        <img
+          class="event-flyer"
+          alt=""
+          hidden
+        >
+
+      </div>
+
+
+      <div class="event-info">
+
+        <div class="event-meta">
+
+          <span class="event-day">
+            SAMEDI
+          </span>
+
+          <span class="event-date">
+            —
+          </span>
+
+        </div>
+
+        <h3 class="event-title">
+          Loading
+        </h3>
+
+        <p class="event-type">
+          —
+        </p>
+
+        <div class="lineup"></div>
+
+        <a
+          class="shotgun-button"
+          href="#"
+          target="_blank"
+          rel="noopener"
+          hidden
+        >
+          SHOTGUN ↗
+        </a>
+
+      </div>
+
+    </article>
+
+
+  </div>
+
+</section>
+
+
+
+<section
+  class="section club"
+  id="club"
+>
+
+  <div>
+
+    <p class="kicker">
+      Danceteria
+    </p>
+
+    <h2>
+      Un lieu de nuit<br>
+      au cœur de<br>
+      Marseille.
+    </h2>
+
+    <p class="lead">
+      Club, bar et lieu de rencontres.
+      Danceteria défend une culture de la nuit
+      ouverte, indépendante et musicale.
+    </p>
+
+  </div>
+
+
+  <div class="club-points">
+
+    <div>
+      <span>01</span>
+      <strong>DANCING</strong>
+    </div>
+
+    <div>
+      <span>02</span>
+      <strong>SPEAKING</strong>
+    </div>
+
+    <div>
+      <span>03</span>
+      <strong>CHILLING</strong>
+    </div>
+
+    <div>
+      <span>04</span>
+      <strong>DRINKING</strong>
+    </div>
+
+  </div>
+
+</section>
+
+
+
+<section
+  class="section"
+  id="infos"
+>
+
+  <div class="section-head">
+
+    <p class="kicker">
+      Infos pratiques
+    </p>
+
+    <h2>
+      See you<br>
+      tonight.
+    </h2>
+
+  </div>
+
+
+  <div class="info-grid">
+
+    <div class="info-block">
+
+      <span class="info-label">
+        Adresse / Address
+      </span>
+
+      <p>
+        18 rue Saint-Saëns<br>
+        13001 Marseille
+      </p>
+
+    </div>
+
+
+    <div class="info-block">
+
+      <span class="info-label">
+        Horaires
+      </span>
+
+      <p>
+        Jeudi 00:00—06:00<br>
+        Vendredi 00:00—06:00<br>
+        Samedi 00:00—06:00
+      </p>
+
+    </div>
+
+
+    <div class="info-block">
+
+      <span class="info-label">
+        Tickets
+      </span>
+
+      <p>
+        Programmation<br>
+        & tickets
+      </p>
+
+      <a
+        href="https://shotgun.live/fr/venues/danceteria"
+        target="_blank"
+        rel="noopener"
+      >
+        Shotgun ↗
+      </a>
+
+    </div>
+
+
+    <div class="info-block">
+
+      <span class="info-label">
+        Social
+      </span>
+
+      <p>
+        Suivre<br>
+        Danceteria
+      </p>
+
+      <a
+        href="https://www.instagram.com/danceteria_marseille/"
+        target="_blank"
+        rel="noopener"
+      >
+        Instagram ↗
+      </a>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+
+<section
+  class="section newsletter"
+  id="newsletter"
+>
+
+  <div class="newsletter-inner ml-form-embedContainer ml-subscribe-form ml-subscribe-form-46212673" id="mlb2-46212673">
+
+    <div class="newsletter-heading">
+
+      <p class="kicker">Danceteria — Direct</p>
+
+      <h2>
+        Rejoins la<br>
+        newsletter.
+      </h2>
+
+      <p class="newsletter-copy">
+        Programmation, invitations et nouveautés du club directement dans ta boîte mail.
+      </p>
+
+    </div>
+
+    <div class="ml-form-embedWrapper embedForm">
+
+      <div class="ml-form-embedBody row-form">
+
+        <form
+          class="ml-block-form newsletter-form"
+          action="https://assets.mailerlite.com/jsonp/114943/forms/199307693974881984/subscribe"
+          method="post"
+          target="_blank"
+        >
+
+          <div class="newsletter-fields">
+
+            <label class="sr-only" for="newsletter-email">Adresse e-mail</label>
+
+            <input
+              id="newsletter-email"
+              aria-label="Adresse e-mail"
+              aria-required="true"
+              type="email"
+              name="fields[email]"
+              placeholder="TON ADRESSE E-MAIL"
+              autocomplete="email"
+              required
+            >
+
+            <button class="newsletter-submit primary" type="submit">
+              Je m’inscris
+            </button>
+
+            <button class="newsletter-submit loading" disabled type="button" aria-hidden="true">
+              <span class="ml-form-embedSubmitLoad"></span>
+              <span class="sr-only">Inscription en cours</span>
+            </button>
+
+          </div>
+
+          <p class="newsletter-legal">
+            En t’inscrivant, tu acceptes de recevoir les actualités de Danceteria. Désinscription possible à tout moment.
+          </p>
+
+          <input type="hidden" name="ml-submit" value="1">
+          <input type="hidden" name="anticsrf" value="true">
+
+        </form>
+
+      </div>
+
+      <div class="newsletter-success ml-form-successBody row-success" style="display:none">
+        <h3>Bienvenue.</h3>
+        <p>Ton inscription est confirmée. Surveille ta boîte mail.</p>
+      </div>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+
+<section
+  class="section contact"
+  id="contact"
+>
+
+  <p class="kicker">
+    Contact
+  </p>
+
+  <h2>
+    Booking.<br>
+    Collaborations.<br>
+    Privatisation.
+  </h2>
+
+  <p class="contact-text">
+    Pour toute demande professionnelle,
+    artistique ou événementielle.
+  </p>
+
+  <div class="contact-actions">
+
+    <a
+      class="button button-primary"
+      href="mailto:info@danceteria.fr"
+    >
+      info@danceteria.fr
+    </a>
+
+    <a
+      class="button button-secondary"
+      href="candidature.html"
+    >
+      Candidater / Apply
+    </a>
+
+  </div>
+
+</section>
+
+
+</main>
+
+
+
+<footer class="site-footer">
+
+  <span>
+    © 2026 DANCETERIA
+  </span>
+
+  <span>
+    18 RUE SAINT-SAËNS — MARSEILLE
+  </span>
+
+  <a href="#top">
+    ↑ TOP
+  </a>
+
+</footer>
+
+
+
+<script>
+
+function ml_webform_success_46212673() {
+  const form = document.querySelector('.ml-subscribe-form-46212673 .row-form');
+  const success = document.querySelector('.ml-subscribe-form-46212673 .row-success');
+
+  if (form) form.style.display = 'none';
+  if (success) success.style.display = 'block';
+}
+
+
+const SITE_CSV_URL =
+  'https://docs.google.com/spreadsheets/d/e/2PACX-1vSWtN0q_uI69iuWSoDrEJ3auxocK5C5i7HBgr1fVwOtBso3gPv4ZsrMpWm-bLwfp2cxailFKvxFSRBt/pub?gid=289963765&single=true&output=csv';
+
+
+const SITE_PUB_ID =
+  '2PACX-1vSWtN0q_uI69iuWSoDrEJ3auxocK5C5i7HBgr1fVwOtBso3gPv4ZsrMpWm-bLwfp2cxailFKvxFSRBt';
+
+
+const SITE_GID =
+  '289963765';
+
+
+const SHOTGUN_VENUE_URL =
+  'https://shotgun.live/fr/venues/danceteria';
+
+
+
+/*
+============================================================
+CSV
+============================================================
+*/
+
+
+function parseCSV(text) {
+
+  const rows = [];
+
+  let row = [];
+  let value = '';
+  let quoted = false;
+
+
+  for (
+    let i = 0;
+    i < text.length;
+    i++
+  ) {
+
+    const char = text[i];
+
+
+    if (char === '"') {
+
+      if (
+        quoted
+        &&
+        text[i + 1] === '"'
+      ) {
+
+        value += '"';
+        i++;
+
+      }
+
+      else {
+
+        quoted = !quoted;
+
+      }
+
+    }
+
+    else if (
+      char === ','
+      &&
+      !quoted
+    ) {
+
+      row.push(value);
+      value = '';
+
+    }
+
+    else if (
+      (
+        char === '\n'
+        ||
+        char === '\r'
+      )
+      &&
+      !quoted
+    ) {
+
+      if (
+        char === '\r'
+        &&
+        text[i + 1] === '\n'
+      ) {
+        i++;
+      }
+
+      row.push(value);
+
+      if (
+        row.some(
+          cell =>
+            String(cell).trim() !== ''
+        )
+      ) {
+        rows.push(row);
+      }
+
+      row = [];
+      value = '';
+
+    }
+
+    else {
+
+      value += char;
+
+    }
+
+  }
+
+
+  if (
+    value.length
+    ||
+    row.length
+  ) {
+
+    row.push(value);
+    rows.push(row);
+
+  }
+
+
+  return rows;
+
+}
+
+
+
+function rowsToObjects(rows) {
+
+  if (!rows.length) {
+    return [];
+  }
+
+
+  const headers =
+    rows[0].map(
+      item =>
+        String(item).trim()
+    );
+
+
+  return rows
+    .slice(1)
+    .map(
+      row => {
+
+        const object = {};
+
+        headers.forEach(
+          (header,index) => {
+
+            object[header] =
+              String(
+                row[index] ?? ''
+              ).trim();
+
+          }
+        );
+
+        return object;
+
+      }
+    );
+
+}
+
+
+
+/*
+============================================================
+GOOGLE FALLBACK
+============================================================
+*/
+
+
+function loadViaGoogleVisualization() {
+
+  return new Promise(
+    (resolve,reject) => {
+
+      window.google =
+        window.google || {};
+
+      google.visualization =
+        google.visualization || {};
+
+      google.visualization.Query =
+        google.visualization.Query || {};
+
+
+      const oldCallback =
+        google.visualization.Query.setResponse;
+
+
+      google.visualization.Query.setResponse =
+        function (response) {
+
+          try {
+
+            if (
+              response.status !== 'ok'
+            ) {
+
+              throw new Error(
+                'Google Visualization error'
+              );
+
+            }
+
+
+            const headers =
+              response.table.cols.map(
+                column =>
+                  String(
+                    column.label || ''
+                  ).trim()
+              );
+
+
+            const objects =
+              response.table.rows.map(
+                row => {
+
+                  const object = {};
+
+
+                  headers.forEach(
+                    (header,index) => {
+
+                      const cell =
+                        row.c[index];
+
+
+                      object[header] =
+                        cell
+                          ?
+                          String(
+                            cell.f ??
+                            cell.v ??
+                            ''
+                          ).trim()
+                          :
+                          '';
+
+                    }
+                  );
+
+
+                  return object;
+
+                }
+              );
+
+
+            resolve(objects);
+
+          }
+
+          catch(error) {
+
+            reject(error);
+
+          }
+
+          finally {
+
+            if (oldCallback) {
+
+              google.visualization.Query.setResponse =
+                oldCallback;
+
+            }
+
+            script.remove();
+
+          }
+
+        };
+
+
+      const script =
+        document.createElement(
+          'script'
+        );
+
+
+      script.onerror =
+        () => reject(
+          new Error(
+            'Google Sheets unavailable'
+          )
+        );
+
+
+      script.src =
+        `https://docs.google.com/spreadsheets/d/e/${SITE_PUB_ID}/gviz/tq?tqx=out:json&gid=${SITE_GID}&t=${Date.now()}`;
+
+
+      document.head.appendChild(
+        script
+      );
+
+    }
+  );
+
+}
+
+
+
+/*
+============================================================
+LOAD SITE DATA
+============================================================
+*/
+
+
+async function loadSiteData() {
+
+  try {
+
+    const response =
+      await fetch(
+        SITE_CSV_URL,
+        {
+          cache: 'no-store'
+        }
+      );
+
+
+    if (!response.ok) {
+
+      throw new Error(
+        'CSV unavailable'
+      );
+
+    }
+
+
+    const text =
+      await response.text();
+
+
+    return rowsToObjects(
+      parseCSV(text)
+    );
+
+  }
+
+  catch(error) {
+
+    console.warn(
+      'CSV direct impossible, utilisation du fallback Google.',
+      error
+    );
+
+
+    return await loadViaGoogleVisualization();
+
+  }
+
+}
+
+
+
+/*
+============================================================
+DATES
+============================================================
+*/
+
+
+function parseFrenchDate(value) {
+
+  const parts =
+    String(value)
+      .split('/');
+
+
+  if (
+    parts.length !== 3
+  ) {
+    return null;
+  }
+
+
+  const day =
+    Number(parts[0]);
+
+  const month =
+    Number(parts[1]);
+
+  const year =
+    Number(parts[2]);
+
+
+  return new Date(
+    year,
+    month - 1,
+    day,
+    12,
+    0,
+    0
+  );
+
+}
+
+
+
+function sameDate(
+  first,
+  second
+) {
+
+  return (
+    first
+    &&
+    second
+    &&
+    first.getFullYear() === second.getFullYear()
+    &&
+    first.getMonth() === second.getMonth()
+    &&
+    first.getDate() === second.getDate()
+  );
+
+}
+
+
+
+function formatShortDate(date) {
+
+  return (
+    String(
+      date.getDate()
+    ).padStart(2,'0')
+    +
+    '.'
+    +
+    String(
+      date.getMonth() + 1
+    ).padStart(2,'0')
+    +
+    '.'
+    +
+    String(
+      date.getFullYear()
+    ).slice(-2)
+  );
+
+}
+
+
+
+/*
+============================================================
+UPCOMING EVENTS
+============================================================
+*/
+
+
+function getUpcomingEntries(
+  rows,
+  dayName
+) {
+
+  const today =
+    new Date();
+
+
+  today.setHours(
+    0,
+    0,
+    0,
+    0
+  );
+
+
+  const candidates =
+    rows
+      .filter(
+        row => {
+
+          const date =
+            parseFrenchDate(
+              row.DATE
+            );
+
+
+          return (
+            String(
+              row.STATUT
+            ).toUpperCase()
+              ===
+              'CONFIRMÉ'
+            &&
+            String(
+              row.JOUR
+            ).toUpperCase()
+              ===
+              dayName
+            &&
+            date
+            &&
+            date >= today
+          );
+
+        }
+      )
+      .sort(
+        (a,b) =>
+          parseFrenchDate(a.DATE)
+          -
+          parseFrenchDate(b.DATE)
+      );
+
+
+  if (!candidates.length) {
+
+    return [];
+
+  }
+
+
+  const nextDate =
+    parseFrenchDate(
+      candidates[0].DATE
+    );
+
+
+  return candidates.filter(
+    row =>
+      sameDate(
+        parseFrenchDate(
+          row.DATE
+        ),
+        nextDate
+      )
+  );
+
+}
+
+
+
+/*
+============================================================
+DRIVE IMAGE
+============================================================
+*/
+
+
+function driveImageURL(url) {
+
+  if (!url) {
+    return '';
+  }
+
+
+  const match =
+    url.match(
+      /\/d\/([^/]+)/
+    )
+    ||
+    url.match(
+      /[?&]id=([^&]+)/
+    );
+
+
+  if (!match) {
+    return url;
+  }
+
+
+  return (
+    'https://drive.google.com/thumbnail?id='
+    +
+    match[1]
+    +
+    '&sz=w1600'
+  );
+
+}
+
+
+
+/*
+============================================================
+STYLE
+============================================================
+*/
+
+
+function cleanStyle(value) {
+
+  if (!value) {
+    return 'DJ SET';
+  }
+
+
+  const firstPart =
+    value.split(';')[0];
+
+
+  return firstPart
+    .replaceAll(
+      ' / ',
+      ' · '
+    )
+    .trim();
+
+}
+
+
+
+/*
+============================================================
+ARTIST LINKS
+============================================================
+*/
+
+
+function artistLinks(row) {
+
+  const links = [];
+
+
+  if (row.INSTAGRAM) {
+
+    links.push(
+      `<a href="${row.INSTAGRAM}" target="_blank" rel="noopener">Instagram ↗</a>`
+    );
+
+  }
+
+
+  if (row.SOUNDCLOUD) {
+
+    links.push(
+      `<a href="${row.SOUNDCLOUD}" target="_blank" rel="noopener">SoundCloud ↗</a>`
+    );
+
+  }
+
+
+  if (row.SPOTIFY) {
+
+    links.push(
+      `<a href="${row.SPOTIFY}" target="_blank" rel="noopener">Spotify ↗</a>`
+    );
+
+  }
+
+
+  return links.join('');
+
+}
+
+
+
+/*
+============================================================
+RENDER EVENT
+============================================================
+*/
+
+
+function renderCard(
+  card,
+  entries,
+  dayName
+) {
+
+  const dateElement =
+    card.querySelector(
+      '.event-date'
+    );
+
+  const titleElement =
+    card.querySelector(
+      '.event-title'
+    );
+
+  const typeElement =
+    card.querySelector(
+      '.event-type'
+    );
+
+  const lineup =
+    card.querySelector(
+      '.lineup'
+    );
+
+  const placeholderDate =
+    card.querySelector(
+      '.placeholder-date'
+    );
+
+  const placeholderTitle =
+    card.querySelector(
+      '.placeholder-title'
+    );
+
+  const flyer =
+    card.querySelector(
+      '.event-flyer'
+    );
+
+  const shotgunButton =
+    card.querySelector(
+      '.shotgun-button'
+    );
+
+
+
+  /*
+  NO EVENT
+  */
+
+
+  if (!entries.length) {
+
+    dateElement.textContent =
+      '—';
+
+    titleElement.textContent =
+      'Programme à venir';
+
+    typeElement.textContent =
+      'À annoncer';
+
+    placeholderTitle.textContent =
+      'PROGRAMME À VENIR';
+
+    lineup.innerHTML =
+      '';
+
+    flyer.hidden =
+      true;
+
+    shotgunButton.hidden =
+      true;
+
+    shotgunButton.removeAttribute(
+      'href'
+    );
+
+    return;
+
+  }
+
+
+
+  /*
+  EVENT DATA
+  */
+
+
+  const first =
+    entries[0];
+
+
+  const date =
+    parseFrenchDate(
+      first.DATE
+    );
+
+
+  const artists =
+    entries.map(
+      item =>
+        item.ARTISTE
+    );
+
+
+  const title =
+    artists.length === 1
+      ?
+      artists[0]
+      :
+      artists.join(' + ');
+
+
+  dateElement.textContent =
+    formatShortDate(date);
+
+
+  titleElement.textContent =
+    title;
+
+
+  placeholderDate.textContent =
+    dayName
+    +
+    ' '
+    +
+    formatShortDate(date);
+
+
+  placeholderTitle.textContent =
+    title;
+
+
+  typeElement.textContent =
+    cleanStyle(
+      first.STYLE
+    );
+
+
+
+  /*
+  LINEUP
+  */
+
+
+  lineup.innerHTML =
+    entries
+      .map(
+        row => `
+
+          <div class="lineup-row">
+
+            <span class="lineup-name">
+              ${row.ARTISTE}
+            </span>
+
+            <div class="artist-links">
+              ${artistLinks(row)}
+            </div>
+
+          </div>
+
+        `
+      )
+      .join('');
+
+
+
+  /*
+  VISUAL
+  */
+
+
+  const visual =
+    entries.find(
+      item =>
+        item['VISUEL FEED']
+    );
+
+
+  if (
+    visual
+    &&
+    visual['VISUEL FEED']
+  ) {
+
+    flyer.src =
+      driveImageURL(
+        visual['VISUEL FEED']
+      );
+
+
+    flyer.alt =
+      `${title} — Danceteria`;
+
+
+    flyer.hidden =
+      false;
+
+
+    flyer.onerror =
+      function () {
+
+        this.hidden =
+          true;
+
+      };
+
+  }
+
+  else {
+
+    flyer.hidden =
+      true;
+
+  }
+
+
+
+  /*
+  ==========================================================
+  SHOTGUN
+  ==========================================================
+
+  Priority:
+  1. exact event URL from Google Sheets
+  2. Danceteria Shotgun venue page
+  */
+
+
+  const shotgunEntry =
+    entries.find(
+      item =>
+        String(
+          item.SHOTGUN || ''
+        ).trim() !== ''
+    );
+
+
+  if (shotgunEntry) {
+
+    shotgunButton.href =
+      shotgunEntry.SHOTGUN.trim();
+
+  }
+
+  else {
+
+    shotgunButton.href =
+      SHOTGUN_VENUE_URL;
+
+  }
+
+
+  shotgunButton.hidden =
+    false;
+
+}
+
+
+
+/*
+============================================================
+INITIALISE PROGRAMME
+============================================================
+*/
+
+
+async function initialiseProgramme() {
+
+  try {
+
+    const rows =
+      await loadSiteData();
+
+
+    renderCard(
+      document.querySelector(
+        '#card-thursday'
+      ),
+      getUpcomingEntries(
+        rows,
+        'JEUDI'
+      ),
+      'JEUDI'
+    );
+
+
+    renderCard(
+      document.querySelector(
+        '#card-friday'
+      ),
+      getUpcomingEntries(
+        rows,
+        'VENDREDI'
+      ),
+      'VENDREDI'
+    );
+
+
+    renderCard(
+      document.querySelector(
+        '#card-saturday'
+      ),
+      getUpcomingEntries(
+        rows,
+        'SAMEDI'
+      ),
+      'SAMEDI'
+    );
+
+  }
+
+  catch(error) {
+
+    console.error(
+      'Impossible de charger la programmation.',
+      error
+    );
+
+  }
+
+}
+
+
+
+/*
+============================================================
+MENU
+============================================================
+*/
+
+
+const menuButton =
+  document.querySelector(
+    '.menu-toggle'
+  );
+
+
+const nav =
+  document.querySelector(
+    '.main-nav'
+  );
+
+
+menuButton.addEventListener(
+  'click',
+  () => {
+
+    const opened =
+      nav.classList.toggle(
+        'is-open'
+      );
+
+
+    document.body.classList.toggle(
+      'menu-open',
+      opened
+    );
+
+
+    menuButton.textContent =
+      opened
+        ?
+        'FERMER'
+        :
+        'MENU';
+
+  }
+);
+
+
+nav
+  .querySelectorAll('a')
+  .forEach(
+    link => {
+
+      link.addEventListener(
+        'click',
+        () => {
+
+          nav.classList.remove(
+            'is-open'
+          );
+
+
+          document.body.classList.remove(
+            'menu-open'
+          );
+
+
+          menuButton.textContent =
+            'MENU';
+
+        }
+      );
+
+    }
+  );
+
+
+
+/*
+============================================================
+ANALYTICS — SHOTGUN CLICKS
+============================================================
+*/
+
+
+document.addEventListener(
+  'click',
+  event => {
+
+    const link =
+      event.target.closest(
+        'a[href]'
+      );
+
+
+    if (!link) {
+      return;
+    }
+
+
+    try {
+
+      const url =
+        new URL(
+          link.href,
+          window.location.href
+        );
+
+
+      const isShotgun =
+        url.hostname === 'shotgun.live'
+        ||
+        url.hostname.endsWith(
+          '.shotgun.live'
+        );
+
+
+      if (
+        isShotgun
+        &&
+        typeof window.gtag === 'function'
+      ) {
+
+        window.gtag(
+          'event',
+          'click_shotgun',
+          {
+            link_url: url.href,
+            link_domain: url.hostname,
+            link_text:
+              String(
+                link.textContent || ''
+              )
+                .trim()
+                .slice(0,100),
+            transport_type: 'beacon'
+          }
+        );
+
+      }
+
+    }
+
+    catch(error) {
+      // Invalid URL: ignore.
+    }
+
+  },
+  true
+);
+
+
+
+// Agenda public piloté par Shotgun.
+// initialiseProgramme();
+
+
+</script>
+
+
+<script src="shotgun-agenda.js?v=20260922-2"></script>
+
+<script src="https://groot.mailerlite.com/js/w/webforms.min.js?v83147fa8ce2d95cb73ece7f28b469519"></script>
+
+<script>
+  fetch('https://assets.mailerlite.com/jsonp/114943/forms/199307693974881984/takel');
+</script>
+
+</body>
+</html>

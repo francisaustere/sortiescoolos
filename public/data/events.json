@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T19:50:02.608Z",
+  "generatedAt": "2026-11-03T19:57:05.580Z",
   "windowDays": 45,
   "events": [
     {
@@ -2127,10 +2127,10 @@
       "id": "actoral",
       "name": "actoral (ex-Montévidéo)",
       "kind": "auto",
-      "ok": false,
+      "ok": true,
       "eventCount": 0,
       "keptCount": 0,
-      "error": "Réseau injoignable (Connect Timeout Error (attempted address: www.actoral.org:443, timeout: 10000ms)) sur https://www.actoral.org/",
+      "error": null,
       "usedFallback": false
     },
     {
@@ -2281,6 +2281,136 @@
       "eventCount": 0,
       "keptCount": 0,
       "error": "HTTP 404 on https://bureaudesguides-gr2013.fr/evenements/",
+      "usedFallback": false
+    },
+    {
+      "id": "vortex",
+      "name": "Le Vortex (agenda concerts souterrains)",
+      "kind": "auto",
+      "ok": true,
+      "eventCount": 0,
+      "keptCount": 0,
+      "error": null,
+      "usedFallback": false
+    },
+    {
+      "id": "tarpin-bien",
+      "name": "Le Tarpin Bien",
+      "kind": "auto",
+      "ok": false,
+      "eventCount": 0,
+      "keptCount": 0,
+      "error": "HTTP 500 on https://tarpin-bien.com/categorie/video/lagenda/",
+      "usedFallback": false
+    },
+    {
+      "id": "upop",
+      "name": "UPOP Marseille-Métropole",
+      "kind": "auto",
+      "ok": true,
+      "eventCount": 0,
+      "keptCount": 0,
+      "error": null,
+      "usedFallback": false
+    },
+    {
+      "id": "museum",
+      "name": "Muséum d'histoire naturelle",
+      "kind": "auto",
+      "ok": false,
+      "eventCount": 0,
+      "keptCount": 0,
+      "error": "Réseau injoignable (Connect Timeout Error (attempted address: musees.marseille.fr:443, timeout: 10000ms)) sur https://musees.marseille.fr/museum-dhistoire-naturelle-de-marseille-mhnm",
+      "usedFallback": false
+    },
+    {
+      "id": "courts-apres-midi",
+      "name": "Des courts l'après-midi",
+      "kind": "auto",
+      "ok": true,
+      "eventCount": 0,
+      "keptCount": 0,
+      "error": null,
+      "usedFallback": false
+    },
+    {
+      "id": "seances-speciales",
+      "name": "Séances Spéciales",
+      "kind": "auto",
+      "ok": true,
+      "eventCount": 0,
+      "keptCount": 0,
+      "error": null,
+      "usedFallback": false
+    },
+    {
+      "id": "alhambra",
+      "name": "L'Alhambra (cinéma, Estaque)",
+      "kind": "auto",
+      "ok": true,
+      "eventCount": 0,
+      "keptCount": 0,
+      "error": null,
+      "usedFallback": false
+    },
+    {
+      "id": "gyptis",
+      "name": "Le Gyptis",
+      "kind": "auto",
+      "ok": true,
+      "eventCount": 0,
+      "keptCount": 0,
+      "error": null,
+      "usedFallback": false
+    },
+    {
+      "id": "morozoff",
+      "name": "Le Morozoff (cirque)",
+      "kind": "auto",
+      "ok": false,
+      "eventCount": 0,
+      "keptCount": 0,
+      "error": "Réseau injoignable (connect ECONNREFUSED 217.70.184.50:443) sur https://www.lemorozoff.org/",
+      "usedFallback": false
+    },
+    {
+      "id": "ostau",
+      "name": "Ostau dau País Marselhés",
+      "kind": "auto",
+      "ok": true,
+      "eventCount": 0,
+      "keptCount": 0,
+      "error": null,
+      "usedFallback": false
+    },
+    {
+      "id": "art-du",
+      "name": "L'Art Dû (café-théâtre, scènes ouvertes)",
+      "kind": "auto",
+      "ok": true,
+      "eventCount": 0,
+      "keptCount": 0,
+      "error": null,
+      "usedFallback": false
+    },
+    {
+      "id": "theatre-calanques",
+      "name": "Théâtre des Calanques",
+      "kind": "auto",
+      "ok": true,
+      "eventCount": 0,
+      "keptCount": 0,
+      "error": null,
+      "usedFallback": false
+    },
+    {
+      "id": "danceteria",
+      "name": "Danceteria",
+      "kind": "auto",
+      "ok": true,
+      "eventCount": 0,
+      "keptCount": 0,
+      "error": null,
       "usedFallback": false
     },
     {
