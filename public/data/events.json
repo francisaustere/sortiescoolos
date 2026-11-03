@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T19:35:12.103Z",
+  "generatedAt": "2026-11-03T19:37:22.535Z",
   "windowDays": 45,
   "events": [
     {
@@ -879,7 +879,7 @@
       "ok": false,
       "eventCount": 0,
       "keptCount": 0,
-      "error": "Réseau injoignable (Connect Timeout Error (attempted addresses: 185.128.239.11:443, 185.128.239.10:443, timeout: 10000ms)) sur https://andromede.id.st/",
+      "error": "Réseau injoignable (Connect Timeout Error (attempted addresses: 185.128.239.10:443, 185.128.239.11:443, timeout: 10000ms)) sur https://andromede.id.st/",
       "usedFallback": false
     },
     {
