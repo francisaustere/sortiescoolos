@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+UID:1
+SUMMARY:Conférence : sociologie des luttes urbaines\, avec débat
+DTSTART;TZID=Europe/Paris:20261112T193000
+DTEND;TZID=Europe/Paris:20261112T213000
+LOCATION:Mille Bâbords\, 61 rue Consolat\, 13001 Marseille
+DESCRIPTION:Entrée libre. Discussion sur l'histoire des quartiers
+  populaires.
+END:VEVENT
+BEGIN:VEVENT
+UID:2
+SUMMARY:Marché de Noël
+DTSTART;VALUE=DATE:20261205
+LOCATION:Aubagne
+END:VEVENT
+END:VCALENDAR

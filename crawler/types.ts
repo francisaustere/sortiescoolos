@@ -1,0 +1,34 @@
+import type { Category, RawEvent, VenueTag, WatchPost } from "@shared/event";
+
+export type SourceKind = "auto" | "ical" | "jsonld" | "wp-tribe" | "reddit";
+
+export interface SourceConfig {
+  readonly id: string;
+  readonly name: string;
+  readonly kind: SourceKind;
+  readonly url: string;
+  /** Traits of the venue/organiser, used for scoring. */
+  readonly venueTags: VenueTag[];
+  /** Categories applied when keyword detection finds nothing. */
+  readonly defaultCategories?: Category[];
+  /** Venue used when the event carries none (single-venue sources). */
+  readonly defaultVenue?: { name: string; address?: string; commune: string };
+  /** jsonld only: CSS selector of links to event detail pages to follow when the listing has no JSON-LD. */
+  readonly followLinks?: string;
+  /** Aggregators covering a wide area must prove the event is in our communes. */
+  readonly requireLocalMatch?: boolean;
+  readonly enabled: boolean;
+  /** Free note on reliability, why it is disabled, etc. */
+  readonly note?: string;
+}
+
+export interface AdapterResult {
+  events: RawEvent[];
+  watch?: WatchPost[];
+}
+
+export type Adapter = (source: SourceConfig, http: HttpClient) => Promise<AdapterResult>;
+
+export interface HttpClient {
+  getText(url: string): Promise<string>;
+}

@@ -1,0 +1,46 @@
+{
+  "app": {
+    "title": "Sorties Cool OS",
+    "subtitle": "Marseille et alentours · mis à jour {date}",
+    "loading": "Chargement de l'agenda…",
+    "error": "Impossible de charger l'agenda : {message}"
+  },
+  "tabs": { "agenda": "Agenda", "watch": "À surveiller", "sources": "Sources" },
+  "filters": {
+    "search": "Rechercher (artiste, lieu, thème…)",
+    "period": { "week": "Cette semaine", "weekend": "Ce week-end", "next": "Semaine prochaine", "all": "Tout" },
+    "commune": "Toutes les communes",
+    "free": "Gratuit / prix libre",
+    "coeur": "Coups de cœur",
+    "gems": "Lieux planqués",
+    "sortDate": "Par date",
+    "sortScore": "Par coup de cœur",
+    "reset": "Réinitialiser",
+    "count": "{count} sortie | {count} sorties"
+  },
+  "categories": {
+    "concert": "Concert", "theatre": "Théâtre", "slam": "Slam & poésie", "spectacle": "Spectacle",
+    "conference": "Conférence & débat", "festival": "Festival", "nature": "Nature & insolite", "makers": "Makers & ateliers",
+    "expo": "Expo", "cinema": "Ciné", "fete": "Soirée", "autre": "Autre"
+  },
+  "event": {
+    "allDay": "Toute la journée",
+    "free": "Gratuit",
+    "gem": "Pépite",
+    "coeur": "Coup de cœur",
+    "why": "Pourquoi : {reasons}",
+    "open": "Voir la source",
+    "alsoOn": "Vu sur : {sources}"
+  },
+  "empty": "Aucune sortie ne correspond. Élargis les filtres.",
+  "watch": {
+    "intro": "Posts récents de Reddit qui parlent de sorties. Pas de date fiable : à lire à la main.",
+    "empty": "Rien cette semaine."
+  },
+  "sources": {
+    "intro": "État de chaque source au dernier passage du robot.",
+    "name": "Source", "status": "État", "events": "Trouvés", "kept": "Gardés",
+    "ok": "OK", "ko": "En panne", "fallback": "Panne — on garde les événements de la semaine dernière",
+    "summary": "{ok} sources sur {total} fonctionnent"
+  }
+}
