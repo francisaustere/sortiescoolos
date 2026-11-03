@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T20:09:45.646Z",
+  "generatedAt": "2026-11-03T21:38:05.957Z",
   "windowDays": 45,
   "events": [
     {
@@ -124,36 +124,307 @@
       "approximate": false
     },
     {
-      "id": "0a5b199a73a9",
-      "title": "Festival de La Cimade - Novembre Décembre 2026",
-      "start": "2026-11-03T20:04:00.000Z",
+      "id": "ada862f2dc7d",
+      "title": "Mawahub : nouveaux récits de l’entrepreneuriat culturel algérien – Pitchs et tables rondes des porteurs de projets lauréats",
+      "start": "2026-11-03T08:00:00.000Z",
       "end": null,
       "allDay": false,
-      "description": "",
-      "url": "https://www.millebabords.org/spip.php?article42410",
-      "venueName": "Un peu partout dans Marseille... et partout en France.",
-      "address": "Un peu partout dans Marseille... et partout en France.",
+      "description": "Dix porteuses et porteurs de projets algériens des industries culturelles et créatives présentent leurs projets à la Friche, dans le cadre d’une semaine d’immersion à Marseille du programme d’incubation Mawahub. Une proposition de Institut français d'Algérie",
+      "url": "https://www.lafriche.org/evenements/mawahub-nouveaux-recits-de-lentrepreneuriat-culturel-algerien/",
+      "venueName": "Friche la Belle de Mai",
+      "address": "41 rue Jobin, 13003 Marseille",
       "commune": "Marseille",
-      "image": null,
-      "priceText": null,
-      "isFree": false,
+      "image": "https://www.lafriche.org/app/uploads/2026/10/FBDM_MAWJAAT_CarolineDutrey_200526-3432-2-500x300.jpg",
+      "priceText": "Entrée libre",
+      "isFree": true,
       "categories": [
-        "festival"
+        "autre"
       ],
       "venueTags": [
-        "militant",
-        "planque"
+        "tiers_lieu"
       ],
-      "score": 5,
+      "score": 4,
       "scoreReasons": [
-        "festival",
-        "lieu militant",
-        "lieu planqué"
+        "original",
+        "tiers-lieu",
+        "gratuit"
       ],
       "sources": [
         {
-          "id": "mille-babords",
-          "name": "Mille Bâbords"
+          "id": "friche",
+          "name": "Friche la Belle de Mai"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "bab5734aef09",
+      "title": "Labo des désirs",
+      "start": "2026-11-03T09:00:00.000Z",
+      "end": "2026-11-05T23:00:00.000Z",
+      "allDay": false,
+      "description": "Projet participatif et convivial de création et programmation collective ouvert à tous·tes une semaine par mois. Une proposition de résident·es et associations du quartier",
+      "url": "https://www.lafriche.org/evenements/labo-des-desirs-3/",
+      "venueName": "Friche la Belle de Mai",
+      "address": "41 rue Jobin, 13003 Marseille",
+      "commune": "Marseille",
+      "image": "https://www.lafriche.org/app/uploads/2025/09/Capture-decran-2026-10-23-a-17.08.30-500x300.png",
+      "priceText": "Entrée libre",
+      "isFree": true,
+      "categories": [
+        "makers",
+        "theatre",
+        "spectacle"
+      ],
+      "venueTags": [
+        "tiers_lieu"
+      ],
+      "score": 6,
+      "scoreReasons": [
+        "IA / code",
+        "tiers-lieu",
+        "gratuit"
+      ],
+      "sources": [
+        {
+          "id": "friche",
+          "name": "Friche la Belle de Mai"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "12a434b62453",
+      "title": "Le mauvais œil 88 : Kikifruit",
+      "start": "2026-11-03T09:00:00.000Z",
+      "end": "2026-11-16T23:00:00.000Z",
+      "allDay": false,
+      "description": "Exposition de microédition Une proposition de Le Dernier Cri",
+      "url": "https://www.lafriche.org/evenements/le-mauvais-oeil-88-kikifruit/",
+      "venueName": "Friche la Belle de Mai",
+      "address": "41 rue Jobin, 13003 Marseille",
+      "commune": "Marseille",
+      "image": "https://www.lafriche.org/app/uploads/2026/08/MINIATURE-YOUTUBE-–-1-500x300.png",
+      "priceText": "Gratuit !",
+      "isFree": true,
+      "categories": [
+        "expo"
+      ],
+      "venueTags": [
+        "tiers_lieu"
+      ],
+      "score": 2,
+      "scoreReasons": [
+        "tiers-lieu",
+        "gratuit"
+      ],
+      "sources": [
+        {
+          "id": "friche",
+          "name": "Friche la Belle de Mai"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "8db7f5289366",
+      "title": "Rendez-vous Transmission avec Ugo Arsac",
+      "start": "2026-11-03T16:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "Un temps d’échange intimiste pour artistes et porteurs de projets Une proposition de AMI",
+      "url": "https://www.lafriche.org/evenements/rdv-transmission-rencontre-avec-ugo-arsac/",
+      "venueName": "Friche la Belle de Mai",
+      "address": "41 rue Jobin, 13003 Marseille",
+      "commune": "Marseille",
+      "image": "https://www.lafriche.org/app/uploads/2026/10/banniere-500x300.png",
+      "priceText": "Gratuit !",
+      "isFree": true,
+      "categories": [
+        "autre"
+      ],
+      "venueTags": [
+        "tiers_lieu"
+      ],
+      "score": 2,
+      "scoreReasons": [
+        "tiers-lieu",
+        "gratuit"
+      ],
+      "sources": [
+        {
+          "id": "friche",
+          "name": "Friche la Belle de Mai"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "1b3efa92e707",
+      "title": "La vie farpaite",
+      "start": "2026-11-04T13:00:00.000Z",
+      "end": "2026-11-14T23:00:00.000Z",
+      "allDay": false,
+      "description": "Après 20 ans à la Friche, le grand atelier de LFKs est lui-même devenu une œuvre, à découvrir dans les Cathédrales. Une proposition de LFKs-La Fabriks",
+      "url": "https://www.lafriche.org/evenements/la-vie-farpaite/",
+      "venueName": "Friche la Belle de Mai",
+      "address": "41 rue Jobin, 13003 Marseille",
+      "commune": "Marseille",
+      "image": "https://www.lafriche.org/app/uploads/2026/10/FBDM_Chroniques@CarolineDutrey_241026-0745-500x300.jpg",
+      "priceText": "Gratuit !",
+      "isFree": true,
+      "categories": [
+        "expo"
+      ],
+      "venueTags": [
+        "tiers_lieu"
+      ],
+      "score": 4,
+      "scoreReasons": [
+        "makers",
+        "tiers-lieu",
+        "gratuit"
+      ],
+      "sources": [
+        {
+          "id": "friche",
+          "name": "Friche la Belle de Mai"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "4f8e4916e70f",
+      "title": "Ce que nous voyons nous regarde – Exposition collective d'art vidéo",
+      "start": "2026-11-04T13:00:00.000Z",
+      "end": "2026-11-14T23:00:00.000Z",
+      "allDay": false,
+      "description": "Une exposition collective de 16 installations en provenance de 8 pays de méditerranée qui invitent à reconnaître, derrière chaque image, une présence humaine, politique, irréductible. Une proposition de Instants Vidéo",
+      "url": "https://www.lafriche.org/evenements/ce-que-nous-voyons-nous-regarde/",
+      "venueName": "Friche la Belle de Mai",
+      "address": "41 rue Jobin, 13003 Marseille",
+      "commune": "Marseille",
+      "image": "https://www.lafriche.org/app/uploads/2026/09/FBDM_Chroniques@CarolineDutrey_241026-1111-500x300.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "festival",
+        "expo"
+      ],
+      "venueTags": [
+        "tiers_lieu"
+      ],
+      "score": 5,
+      "scoreReasons": [
+        "politique",
+        "tiers-lieu"
+      ],
+      "sources": [
+        {
+          "id": "friche",
+          "name": "Friche la Belle de Mai"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "69425656b02d",
+      "title": "Cartographie sensible et mémoires recomposées – Exposition collective",
+      "start": "2026-11-04T13:00:00.000Z",
+      "end": "2026-11-14T23:00:00.000Z",
+      "allDay": false,
+      "description": "Les œuvres présentées dans cette exposition proposent des contre-récits face aux logiques d’effacement culturel, politique ou colonial, tout en révélant la fragilité des représentations contemporaines. Une proposition de CHRONIQUES",
+      "url": "https://www.lafriche.org/evenements/cartographie-sensible-et-memoires-recomposees/",
+      "venueName": "Friche la Belle de Mai",
+      "address": "41 rue Jobin, 13003 Marseille",
+      "commune": "Marseille",
+      "image": "https://www.lafriche.org/app/uploads/2026/09/FBDM_Chroniques@CarolineDutrey_241026-1053-500x300.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "festival",
+        "concert",
+        "expo"
+      ],
+      "venueTags": [
+        "tiers_lieu"
+      ],
+      "score": 7,
+      "scoreReasons": [
+        "histoire",
+        "politique",
+        "tiers-lieu"
+      ],
+      "sources": [
+        {
+          "id": "friche",
+          "name": "Friche la Belle de Mai"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "897ed1e61fe4",
+      "title": "Désobéir à l’ère numérique – Exposition collective",
+      "start": "2026-11-04T13:00:00.000Z",
+      "end": "2026-11-14T23:00:00.000Z",
+      "allDay": false,
+      "description": "Les artistes de cette exposition investissent les failles des systèmes numériques contemporains pour en révéler les mécanismes invisibles, devenant ainsi matériaux à détourner, perturber ou infiltrer. Une proposition de CHRONIQUES",
+      "url": "https://www.lafriche.org/evenements/desobeir-a-lere-numerique/",
+      "venueName": "Friche la Belle de Mai",
+      "address": "41 rue Jobin, 13003 Marseille",
+      "commune": "Marseille",
+      "image": "https://www.lafriche.org/app/uploads/2026/09/FBDM_Chroniques@CarolineDutrey_241026-1023-500x300.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "festival",
+        "expo"
+      ],
+      "venueTags": [
+        "tiers_lieu"
+      ],
+      "score": 2,
+      "scoreReasons": [
+        "tiers-lieu"
+      ],
+      "sources": [
+        {
+          "id": "friche",
+          "name": "Friche la Belle de Mai"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "d7845e516829",
+      "title": "Unworlding – Exposition collective",
+      "start": "2026-11-04T13:00:00.000Z",
+      "end": "2026-11-14T23:00:00.000Z",
+      "allDay": false,
+      "description": "Une exposition et une série de dialogues publics réunissant artistes et écrivain·es afin de repenser les structures et les relations dans un contexte d’effondrement social et institutionnel. Une proposition de The Racial Imaginary Institute",
+      "url": "https://www.lafriche.org/evenements/unworlding/",
+      "venueName": "Friche la Belle de Mai",
+      "address": "41 rue Jobin, 13003 Marseille",
+      "commune": "Marseille",
+      "image": "https://www.lafriche.org/app/uploads/2026/07/visuel-DP-500x300.jpg",
+      "priceText": "Gratuit !",
+      "isFree": true,
+      "categories": [
+        "expo"
+      ],
+      "venueTags": [
+        "tiers_lieu"
+      ],
+      "score": 2,
+      "scoreReasons": [
+        "tiers-lieu",
+        "gratuit"
+      ],
+      "sources": [
+        {
+          "id": "friche",
+          "name": "Friche la Belle de Mai"
         }
       ],
       "approximate": false
@@ -186,6 +457,73 @@
         {
           "id": "videodrome2",
           "name": "Vidéodrome 2"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "c4c5a8e9c3fa",
+      "title": "Les Petits Mercredis",
+      "start": "2026-11-04T13:30:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "Impression, tissage, pliage... avec l'artiste Manon Garcia del Barrio, les enfants explorent chez les dinosaures, plongent dans les fonds marins, voyagent dans l'espace, le futur et même l'imaginaire ! Une proposition de la Friche",
+      "url": "https://www.lafriche.org/evenements/les-petits-mercredis-13/",
+      "venueName": "Friche la Belle de Mai",
+      "address": "41 rue Jobin, 13003 Marseille",
+      "commune": "Marseille",
+      "image": "https://www.lafriche.org/app/uploads/2026/09/Seance-6-500x300.png",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "makers"
+      ],
+      "venueTags": [
+        "tiers_lieu"
+      ],
+      "score": 2,
+      "scoreReasons": [
+        "tiers-lieu"
+      ],
+      "sources": [
+        {
+          "id": "friche",
+          "name": "Friche la Belle de Mai"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "a48a723a891b",
+      "title": "Entrez libres",
+      "start": "2026-11-04T14:30:00.000Z",
+      "end": "2026-11-13T23:00:00.000Z",
+      "allDay": false,
+      "description": "Pendant la Biennale des Imaginaires Numériques, le MédiaLab propose de découvrir un ensemble d'activités créatives en lien avec la résistance : Venez jouer en autonomie avec les codes de la vidéo surveillance, de l’IA ou des techniques Low-tech. Une proposition de CHRONIQUES",
+      "url": "https://www.lafriche.org/evenements/entrez-libres-7/",
+      "venueName": "Friche la Belle de Mai",
+      "address": "41 rue Jobin, 13003 Marseille",
+      "commune": "Marseille",
+      "image": "https://www.lafriche.org/app/uploads/2025/08/ENTREZ-LIBRES-500x300.jpeg",
+      "priceText": "Gratuit !",
+      "isFree": true,
+      "categories": [
+        "makers",
+        "festival"
+      ],
+      "venueTags": [
+        "tiers_lieu"
+      ],
+      "score": 7,
+      "scoreReasons": [
+        "réparation",
+        "tiers-lieu",
+        "gratuit"
+      ],
+      "sources": [
+        {
+          "id": "friche",
+          "name": "Friche la Belle de Mai"
         }
       ],
       "approximate": false
@@ -317,6 +655,40 @@
         {
           "id": "mille-babords",
           "name": "Mille Bâbords"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "2aff2c60e3b4",
+      "title": "Ce soir je mange avec… Sophie Beau – Repas conversation comme à la maison",
+      "start": "2026-11-04T18:30:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "Deuxième repas de cette série culinaire qui part à la rencontre des cuisiniers et cuisinières dont les recettes font vivre un héritage chargé d'histoires, de gestes et de souvenirs ! Une proposition de Les Grandes Tables",
+      "url": "https://www.lafriche.org/evenements/ce-soir-je-mange-avec-sophie-beau/",
+      "venueName": "Friche la Belle de Mai",
+      "address": "41 rue Jobin, 13003 Marseille",
+      "commune": "Marseille",
+      "image": "https://www.lafriche.org/app/uploads/2026/10/LGTF_CeSoirJeMangeAvec@CarolineDutrey_220926-6823-500x300.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "autre"
+      ],
+      "venueTags": [
+        "tiers_lieu"
+      ],
+      "score": 5,
+      "scoreReasons": [
+        "histoire",
+        "débat",
+        "tiers-lieu"
+      ],
+      "sources": [
+        {
+          "id": "friche",
+          "name": "Friche la Belle de Mai"
         }
       ],
       "approximate": false
@@ -543,6 +915,41 @@
         {
           "id": "meetup-marseille",
           "name": "Meetup – Marseille tech"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "f132ae6049f7",
+      "title": "Festival de La Cimade - Novembre Décembre 2026",
+      "start": "2026-11-05T18:30:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://www.millebabords.org/spip.php?article42410",
+      "venueName": "Un peu partout dans Marseille... et partout en France.",
+      "address": "Un peu partout dans Marseille... et partout en France.",
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "festival"
+      ],
+      "venueTags": [
+        "militant",
+        "planque"
+      ],
+      "score": 5,
+      "scoreReasons": [
+        "festival",
+        "lieu militant",
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "mille-babords",
+          "name": "Mille Bâbords"
         }
       ],
       "approximate": false
@@ -929,6 +1336,40 @@
       "approximate": false
     },
     {
+      "id": "7e9ec349e4ec",
+      "title": "Club Cabaret",
+      "start": "2026-11-06T22:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "Le rendez-vous émergence & découverte des musiques électroniques Une proposition de Cabaret Aléatoire",
+      "url": "https://www.lafriche.org/evenements/club-cabaret-9/",
+      "venueName": "Friche la Belle de Mai",
+      "address": "41 rue Jobin, 13003 Marseille",
+      "commune": "Marseille",
+      "image": "https://www.lafriche.org/app/uploads/2025/11/Bubuphotographe-Image-38-500x300.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert",
+        "spectacle"
+      ],
+      "venueTags": [
+        "tiers_lieu"
+      ],
+      "score": 4,
+      "scoreReasons": [
+        "électronique",
+        "tiers-lieu"
+      ],
+      "sources": [
+        {
+          "id": "friche",
+          "name": "Friche la Belle de Mai"
+        }
+      ],
+      "approximate": false
+    },
+    {
       "id": "a25a83bf8e75",
       "title": "Kenny Larkin @ Petit Cab, Friche la Belle de Mai",
       "start": "2026-11-06T22:30:00.000Z",
@@ -952,6 +1393,38 @@
         {
           "id": "songkick-marseille",
           "name": "Songkick – concerts Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "578fddf5c5d1",
+      "title": "Kenny Larkin [Extended Set] + La Baronne – Detroit Techno · House · Electro",
+      "start": "2026-11-06T22:30:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "3 heures de techno de Detroit avec Kenny Larkin, La Baronne aux commandes du dancefloor : une nuit de groove et de transe à ne pas manquer. Une proposition de EXTRA",
+      "url": "https://www.lafriche.org/evenements/kenny-larkin-extended-set-la-baronne/",
+      "venueName": "Friche la Belle de Mai",
+      "address": "41 rue Jobin, 13003 Marseille",
+      "commune": "Marseille",
+      "image": "https://www.lafriche.org/app/uploads/2026/10/banniere_friche_kenny_larkin-500x300.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "tiers_lieu"
+      ],
+      "score": 1,
+      "scoreReasons": [
+        "tiers-lieu"
+      ],
+      "sources": [
+        {
+          "id": "friche",
+          "name": "Friche la Belle de Mai"
         }
       ],
       "approximate": false
@@ -1089,6 +1562,71 @@
       "approximate": false
     },
     {
+      "id": "1f11601237a4",
+      "title": "Visite flash",
+      "start": "2026-11-07T14:00:00.000Z",
+      "end": "2026-11-13T23:00:00.000Z",
+      "allDay": false,
+      "description": "Des visites commentées des expositions de 30 minutes.",
+      "url": "https://www.lafriche.org/evenements/visite-flash-16/",
+      "venueName": "Friche la Belle de Mai",
+      "address": "41 rue Jobin, 13003 Marseille",
+      "commune": "Marseille",
+      "image": "https://www.lafriche.org/app/uploads/2026/04/FBDM_MAWJAAT_CarolineDutrey_200526-2933-500x300.jpg",
+      "priceText": "Gratuit !",
+      "isFree": true,
+      "categories": [
+        "expo"
+      ],
+      "venueTags": [
+        "tiers_lieu"
+      ],
+      "score": 2,
+      "scoreReasons": [
+        "tiers-lieu",
+        "gratuit"
+      ],
+      "sources": [
+        {
+          "id": "friche",
+          "name": "Friche la Belle de Mai"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "757a557da73f",
+      "title": "Un animal, des animals",
+      "start": "2026-11-07T14:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "Théâtre de papier en forêt dès 6 ans. Une proposition de Théâtre Massalia",
+      "url": "https://www.lafriche.org/evenements/un-animal-des-animals/",
+      "venueName": "Friche la Belle de Mai",
+      "address": "41 rue Jobin, 13003 Marseille",
+      "commune": "Marseille",
+      "image": "https://www.lafriche.org/app/uploads/2026/07/UN-ANIMAL-DES-ANIMALS©helenedodet-79-500x300.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "theatre"
+      ],
+      "venueTags": [
+        "tiers_lieu"
+      ],
+      "score": 1,
+      "scoreReasons": [
+        "tiers-lieu"
+      ],
+      "sources": [
+        {
+          "id": "friche",
+          "name": "Friche la Belle de Mai"
+        }
+      ],
+      "approximate": false
+    },
+    {
       "id": "19aa503becfc",
       "title": "Festival de la rue d'Aubagne - Talk + Nuit 2026 @ La Plateforme",
       "start": "2026-11-07T14:30:00.000Z",
@@ -1115,6 +1653,75 @@
         {
           "id": "songkick-marseille",
           "name": "Songkick – concerts Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "b93474e8e78a",
+      "title": "FamilyTech",
+      "start": "2026-11-07T14:30:00.000Z",
+      "end": "2026-11-13T23:00:00.000Z",
+      "allDay": false,
+      "description": "Création d'hologrammes, fabrication de vos propres fanzines, mapping video et plein d'autres surprises vous attendent ! Une proposition de CHRONIQUES",
+      "url": "https://www.lafriche.org/evenements/familytech-10/",
+      "venueName": "Friche la Belle de Mai",
+      "address": "41 rue Jobin, 13003 Marseille",
+      "commune": "Marseille",
+      "image": "https://www.lafriche.org/app/uploads/2025/12/FAMILYTECH-500x300.jpeg",
+      "priceText": "Gratuit !",
+      "isFree": true,
+      "categories": [
+        "makers",
+        "festival"
+      ],
+      "venueTags": [
+        "tiers_lieu"
+      ],
+      "score": 4,
+      "scoreReasons": [
+        "tiers-lieu",
+        "gratuit"
+      ],
+      "sources": [
+        {
+          "id": "friche",
+          "name": "Friche la Belle de Mai"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "21c09269f06d",
+      "title": "Des courts l'après-midi – séance de courts métrages",
+      "start": "2026-11-07T15:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "Séance gratuite de courts métrages au cinéma le Miroir. En présence de Sébastien Betbeder, réalisateur de L'Éternité dans le cadre de la 27e édition du Mois du Film Documentaire Réservation conseillée mais pas obligatoire",
+      "url": "https://descourtslapresmidi.fr/",
+      "venueName": "Cinéma le Miroir, Vieille Charité",
+      "address": "2 rue de la Charité, 13002 Marseille",
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": true,
+      "categories": [
+        "cinema"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 7,
+      "scoreReasons": [
+        "débat",
+        "court métrage",
+        "prix libre",
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "courts-apres-midi",
+          "name": "Des courts l'après-midi"
         }
       ],
       "approximate": false
@@ -1262,6 +1869,70 @@
         {
           "id": "songkick-marseille",
           "name": "Songkick – concerts Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "880e832eeee1",
+      "title": "LB aka LABAT Curated Tour",
+      "start": "2026-11-07T22:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "Une nuit exclusive avec LB aka LABAT, Bella Claxton et Yenkov. Trois univers réunis autour de Feel So Good Around U, le nouvel album de LB aka LABAT. Une proposition de Cabaret Aléatoire",
+      "url": "https://www.lafriche.org/evenements/lb-aka-labat-curated-tour/",
+      "venueName": "Friche la Belle de Mai",
+      "address": "41 rue Jobin, 13003 Marseille",
+      "commune": "Marseille",
+      "image": "https://www.lafriche.org/app/uploads/2026/10/01©cestainsi-1-1008x1080-1-500x300.png",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "tiers_lieu"
+      ],
+      "score": 1,
+      "scoreReasons": [
+        "tiers-lieu"
+      ],
+      "sources": [
+        {
+          "id": "friche",
+          "name": "Friche la Belle de Mai"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "84daff9594b2",
+      "title": "Rakata invite N0l 4.44 + Dj Lina – Perreo, basses et chaleur collective.",
+      "start": "2026-11-07T22:30:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "Rakata investit le Petit Cab pour une nuit entre neo-perreo, reggaeton, dembow et rythmes afro-latins, portée par N0l.44 et DJ Lina. Une proposition de EXTRA",
+      "url": "https://www.lafriche.org/evenements/rakata-invite-n0l-4-44-dj-lina-petit-cab/",
+      "venueName": "Friche la Belle de Mai",
+      "address": "41 rue Jobin, 13003 Marseille",
+      "commune": "Marseille",
+      "image": "https://www.lafriche.org/app/uploads/2026/09/261107_RAKATA_friche-500x300.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "tiers_lieu"
+      ],
+      "score": 1,
+      "scoreReasons": [
+        "tiers-lieu"
+      ],
+      "sources": [
+        {
+          "id": "friche",
+          "name": "Friche la Belle de Mai"
         }
       ],
       "approximate": false
@@ -1436,6 +2107,139 @@
         {
           "id": "mille-babords",
           "name": "Mille Bâbords"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "734e1500e8c4",
+      "title": "Marché paysan",
+      "start": "2026-11-09T15:00:00.000Z",
+      "end": "2026-11-15T23:00:00.000Z",
+      "allDay": false,
+      "description": "Le traditionnel marché des producteurs, tous les lundis, pour faire ses courses Une proposition de Les Grandes Tables",
+      "url": "https://www.lafriche.org/evenements/marche-paysan/",
+      "venueName": "Friche la Belle de Mai",
+      "address": "41 rue Jobin, 13003 Marseille",
+      "commune": "Marseille",
+      "image": "https://www.lafriche.org/app/uploads/2021/02/cdutrey-legdmarche-FBDM-290620-9030-500x300.jpg",
+      "priceText": "Entrée libre",
+      "isFree": true,
+      "categories": [
+        "autre"
+      ],
+      "venueTags": [
+        "tiers_lieu"
+      ],
+      "score": 2,
+      "scoreReasons": [
+        "tiers-lieu",
+        "gratuit"
+      ],
+      "sources": [
+        {
+          "id": "friche",
+          "name": "Friche la Belle de Mai"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "226d301cb2f7",
+      "title": "Festival Souvenirs d’enfance",
+      "start": "2026-11-09T18:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "Dîner caritatif au profit de SOS MEDITERRANEE Une proposition de Association Ébullition et Les Grandes Tables",
+      "url": "https://www.lafriche.org/evenements/festival-souvenirs-denfance-3/",
+      "venueName": "Friche la Belle de Mai",
+      "address": "41 rue Jobin, 13003 Marseille",
+      "commune": "Marseille",
+      "image": "https://www.lafriche.org/app/uploads/2026/10/Anne-Sophie-Nival-DSC_8034-souvenirs-denfance-500x300.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "festival"
+      ],
+      "venueTags": [
+        "tiers_lieu"
+      ],
+      "score": 3,
+      "scoreReasons": [
+        "festival",
+        "tiers-lieu"
+      ],
+      "sources": [
+        {
+          "id": "friche",
+          "name": "Friche la Belle de Mai"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "e843b5d9e9b2",
+      "title": "Ces nains portent quoi ? – Maud Hufnagel et Virginie Gaillard",
+      "start": "2026-11-10T08:00:00.000Z",
+      "end": "2026-11-14T23:00:00.000Z",
+      "allDay": false,
+      "description": "Un théâtre d'objets au milieu de cartons transformés en architectures de papier : ce spectacle visuel révèle mille secrets cachés pour émerveiller les jeunes spectateur·ices. Une proposition de La Criée - Théâtre national de Marseille",
+      "url": "https://www.lafriche.org/evenements/ces-nains-portent-quoi/",
+      "venueName": "Friche la Belle de Mai",
+      "address": "41 rue Jobin, 13003 Marseille",
+      "commune": "Marseille",
+      "image": "https://www.lafriche.org/app/uploads/2026/09/ces-nains-portent-quoi-camillevautrin-500x300.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "theatre"
+      ],
+      "venueTags": [
+        "tiers_lieu"
+      ],
+      "score": 3,
+      "scoreReasons": [
+        "original",
+        "tiers-lieu"
+      ],
+      "sources": [
+        {
+          "id": "friche",
+          "name": "Friche la Belle de Mai"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "bce411559c02",
+      "title": "Lancement de la Pépinière Culture – La communauté des pros de la culture à Marseille",
+      "start": "2026-11-10T14:00:00.000Z",
+      "end": "2026-11-15T23:00:00.000Z",
+      "allDay": false,
+      "description": "Réunion d'informations autour du lancement de la pépinière culturelle Une proposition de AMI",
+      "url": "https://www.lafriche.org/evenements/lancement-de-la-pepiniere-culture/",
+      "venueName": "Friche la Belle de Mai",
+      "address": "41 rue Jobin, 13003 Marseille",
+      "commune": "Marseille",
+      "image": "https://www.lafriche.org/app/uploads/2026/10/bannierepepiniere-500x300.jpeg",
+      "priceText": "Gratuit !",
+      "isFree": true,
+      "categories": [
+        "autre"
+      ],
+      "venueTags": [
+        "tiers_lieu"
+      ],
+      "score": 5,
+      "scoreReasons": [
+        "politique",
+        "tiers-lieu",
+        "gratuit"
+      ],
+      "sources": [
+        {
+          "id": "friche",
+          "name": "Friche la Belle de Mai"
         }
       ],
       "approximate": false
@@ -1620,6 +2424,41 @@
       "approximate": false
     },
     {
+      "id": "530cb8363fd9",
+      "title": "Atelier Sauve qui pousse – Je prends soin de mes plantes d'intérieur",
+      "start": "2026-11-11T09:30:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "Un atelier qui vous apprendra tout ce qu'il vous faut pour avoir des plantes en bonne santé et qui durent longtemps Une proposition de Nouvelle Pousse",
+      "url": "https://www.lafriche.org/evenements/atelier-sauve-qui-pousse/",
+      "venueName": "Friche la Belle de Mai",
+      "address": "41 rue Jobin, 13003 Marseille",
+      "commune": "Marseille",
+      "image": "https://www.lafriche.org/app/uploads/2025/09/PXL_20250619_131618748-1-1-500x300.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "nature",
+        "makers"
+      ],
+      "venueTags": [
+        "tiers_lieu"
+      ],
+      "score": 9,
+      "scoreReasons": [
+        "makers",
+        "plantes",
+        "tiers-lieu"
+      ],
+      "sources": [
+        {
+          "id": "friche",
+          "name": "Friche la Belle de Mai"
+        }
+      ],
+      "approximate": false
+    },
+    {
       "id": "0b5e23ccb412",
       "title": "Apéro social club et chants au comptoir",
       "start": "2026-11-11T18:00:00.000Z",
@@ -1649,6 +2488,40 @@
         {
           "id": "mille-babords",
           "name": "Mille Bâbords"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "e7699328e5fa",
+      "title": "Ce soir je mange avec… Nelly Flecher – Repas conversation comme à la maison",
+      "start": "2026-11-11T18:30:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "Troisième repas de cette série culinaire qui part à la rencontre des cuisiniers et cuisinières dont les recettes font vivre un héritage chargé d'histoires, de gestes et de souvenirs ! Une proposition de Les Grandes Tables",
+      "url": "https://www.lafriche.org/evenements/ce-soir-je-mange-avec-nelly-flecher/",
+      "venueName": "Friche la Belle de Mai",
+      "address": "41 rue Jobin, 13003 Marseille",
+      "commune": "Marseille",
+      "image": "https://www.lafriche.org/app/uploads/2026/10/LGTF_CeSoirJeMangeAvec@CarolineDutrey_220926-6823-500x300.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "autre"
+      ],
+      "venueTags": [
+        "tiers_lieu"
+      ],
+      "score": 5,
+      "scoreReasons": [
+        "histoire",
+        "débat",
+        "tiers-lieu"
+      ],
+      "sources": [
+        {
+          "id": "friche",
+          "name": "Friche la Belle de Mai"
         }
       ],
       "approximate": false
@@ -1740,6 +2613,76 @@
         {
           "id": "dev-events",
           "name": "dev.events – Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "6715380b19b2",
+      "title": "Ports d’attache : Football, supporters et identités dans les villes portuaires – Conférence augmentée",
+      "start": "2026-11-12T17:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "De Marseille à Naples, comment le football nourrit l'identité des vies portuaires. Une proposition de Campus AFD et INA",
+      "url": "https://www.lafriche.org/evenements/ports-dattache-football-supporters-et-identites-dans-les-villes-portuaires/",
+      "venueName": "Friche la Belle de Mai",
+      "address": "41 rue Jobin, 13003 Marseille",
+      "commune": "Marseille",
+      "image": "https://www.lafriche.org/app/uploads/2026/09/FMVDB240508121231320-2.01_00_00_55_20.Still001-500x300.png",
+      "priceText": "Gratuit !",
+      "isFree": true,
+      "categories": [
+        "conference",
+        "fete"
+      ],
+      "venueTags": [
+        "tiers_lieu"
+      ],
+      "score": 6,
+      "scoreReasons": [
+        "débat",
+        "tiers-lieu",
+        "gratuit"
+      ],
+      "sources": [
+        {
+          "id": "friche",
+          "name": "Friche la Belle de Mai"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "90661d62b98d",
+      "title": "La peinture en lettres. Histoire & renouveau – Rencontre avec l'autrice Morgane Côme",
+      "start": "2026-11-12T17:30:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "Rencontre suivie d'une projection d’archives de l’entreprise marseillaise Enseignes Blanc (1925-1995), en présence du peintre en lettres Lucas Teyssier et d'anciens employés de l’entreprise. Une proposition de Librairie de la Friche et éditions L'échappée",
+      "url": "https://www.lafriche.org/evenements/la-peinture-en-lettres-histoire-renouveau/",
+      "venueName": "Friche la Belle de Mai",
+      "address": "41 rue Jobin, 13003 Marseille",
+      "commune": "Marseille",
+      "image": "https://www.lafriche.org/app/uploads/2026/10/4_PEL_histoire-500x300.png",
+      "priceText": "Gratuit !",
+      "isFree": true,
+      "categories": [
+        "conference"
+      ],
+      "venueTags": [
+        "tiers_lieu"
+      ],
+      "score": 8,
+      "scoreReasons": [
+        "histoire",
+        "débat",
+        "tiers-lieu",
+        "gratuit"
+      ],
+      "sources": [
+        {
+          "id": "friche",
+          "name": "Friche la Belle de Mai"
         }
       ],
       "approximate": false
@@ -1889,6 +2832,40 @@
       "approximate": false
     },
     {
+      "id": "dcfa960ff07b",
+      "title": "Phonurgia Nova Awards 2026 – Concours international de création radiophonique et sonore",
+      "start": "2026-11-13T08:15:00.000Z",
+      "end": "2026-11-13T23:00:00.000Z",
+      "allDay": false,
+      "description": "Audaces, explorations, art sonore et innovations narratives : de la radio au podcast, ce sont 51 œuvres qui sont diffusées dans des conditions d'écoute exceptionnelles. Une proposition de Radio Grenouille & Euphonia, Logellou et GMEM",
+      "url": "https://www.lafriche.org/evenements/phonurgia-nova-awards-2026/",
+      "venueName": "Friche la Belle de Mai",
+      "address": "41 rue Jobin, 13003 Marseille",
+      "commune": "Marseille",
+      "image": "https://www.lafriche.org/app/uploads/2026/09/GABARIT_IMAGE_SITE-500x300.png",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "tiers_lieu"
+      ],
+      "score": 5,
+      "scoreReasons": [
+        "nature",
+        "original",
+        "tiers-lieu"
+      ],
+      "sources": [
+        {
+          "id": "friche",
+          "name": "Friche la Belle de Mai"
+        }
+      ],
+      "approximate": false
+    },
+    {
       "id": "e20152b52bd3",
       "title": "ASHEN @ Le Dodu",
       "start": "2026-11-13T18:00:00.000Z",
@@ -1912,6 +2889,39 @@
         {
           "id": "songkick-marseille",
           "name": "Songkick – concerts Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "5dd903f43085",
+      "title": "Morphé – Texte, mise en scène et scénographie : Simon Falguières",
+      "start": "2026-11-13T18:00:00.000Z",
+      "end": "2026-11-13T23:00:00.000Z",
+      "allDay": false,
+      "description": "Dans un pays en guerre, un père raconte à sa fille un conte sur la naissance du monde. Une proposition de La Criée, Théâtre National à Marseille",
+      "url": "https://www.lafriche.org/evenements/morphe/",
+      "venueName": "Friche la Belle de Mai",
+      "address": "41 rue Jobin, 13003 Marseille",
+      "commune": "Marseille",
+      "image": "https://www.lafriche.org/app/uploads/2026/09/morphe-La-Criee-500x300.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert",
+        "theatre"
+      ],
+      "venueTags": [
+        "tiers_lieu"
+      ],
+      "score": 1,
+      "scoreReasons": [
+        "tiers-lieu"
+      ],
+      "sources": [
+        {
+          "id": "friche",
+          "name": "Friche la Belle de Mai"
         }
       ],
       "approximate": false
@@ -2080,6 +3090,71 @@
         {
           "id": "songkick-marseille",
           "name": "Songkick – concerts Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "f0bc5a805749",
+      "title": "Marché aux tissus et loisirs créatifs",
+      "start": "2026-11-14T08:30:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "Pour les passionné·es de couture, de création textile ou des loisirs créatifs, le marché aux tissus Tisséade est l’événement du fait-main. Une proposition de Tisséade",
+      "url": "https://www.lafriche.org/evenements/marche-aux-tissus-et-loisirs-creatifs/",
+      "venueName": "Friche la Belle de Mai",
+      "address": "41 rue Jobin, 13003 Marseille",
+      "commune": "Marseille",
+      "image": "https://www.lafriche.org/app/uploads/2026/10/tissus-500x300.jpg",
+      "priceText": "Entrée libre",
+      "isFree": true,
+      "categories": [
+        "autre"
+      ],
+      "venueTags": [
+        "tiers_lieu"
+      ],
+      "score": 2,
+      "scoreReasons": [
+        "tiers-lieu",
+        "gratuit"
+      ],
+      "sources": [
+        {
+          "id": "friche",
+          "name": "Friche la Belle de Mai"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "b0a03f277b46",
+      "title": "Il est où le bonheur ?",
+      "start": "2026-11-14T14:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "Une demi journée pour réfléchir ensemble. Une proposition de Mad Mars et AFD",
+      "url": "https://www.lafriche.org/evenements/il-est-ou-le-bonheur/",
+      "venueName": "Friche la Belle de Mai",
+      "address": "41 rue Jobin, 13003 Marseille",
+      "commune": "Marseille",
+      "image": "https://www.lafriche.org/app/uploads/2026/10/FBDM_MAWJAAT_CarolineDutrey_200526-3432-2-500x300.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "autre"
+      ],
+      "venueTags": [
+        "tiers_lieu"
+      ],
+      "score": 1,
+      "scoreReasons": [
+        "tiers-lieu"
+      ],
+      "sources": [
+        {
+          "id": "friche",
+          "name": "Friche la Belle de Mai"
         }
       ],
       "approximate": false
@@ -2340,6 +3415,38 @@
       "approximate": false
     },
     {
+      "id": "f210f24e05f8",
+      "title": "Vitess to Grand V – All Live Long",
+      "start": "2026-11-14T22:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "Le producteur parisien revient au Cabaret Aléatoire pour un set entièrement joué en live du début à la fin de la soirée ! Une proposition de Cabaret Aléatoire",
+      "url": "https://www.lafriche.org/evenements/vitess-to-grand-v-%f0%9d%98%88%f0%9d%98%ad%f0%9d%98%ad-%f0%9d%98%93%f0%9d%98%aa%f0%9d%98%b7%f0%9d%98%a6-%f0%9d%98%93%f0%9d%98%b0%f0%9d%98%af%f0%9d%98%a8/",
+      "venueName": "Friche la Belle de Mai",
+      "address": "41 rue Jobin, 13003 Marseille",
+      "commune": "Marseille",
+      "image": "https://www.lafriche.org/app/uploads/2026/10/Copie-de-Vitess-Live-@Ostra-Club.-CREDIT-_-LUCIE-WDL-PHOTOGRAPHIE-500x300.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "tiers_lieu"
+      ],
+      "score": 1,
+      "scoreReasons": [
+        "tiers-lieu"
+      ],
+      "sources": [
+        {
+          "id": "friche",
+          "name": "Friche la Belle de Mai"
+        }
+      ],
+      "approximate": false
+    },
+    {
       "id": "8f1cad6df186",
       "title": "Kendal @ Petit Cab",
       "start": "2026-11-14T22:30:00.000Z",
@@ -2363,6 +3470,72 @@
         {
           "id": "songkick-marseille",
           "name": "Songkick – concerts Marseille"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "2e5bfa00b087",
+      "title": "Kendal All Night Long – Une nuit, un seul rythme, Kendal.",
+      "start": "2026-11-14T22:30:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "EXTRA invite Kendal pour un all night long au Petit Cab, entre trance, italo, progressive et nostalgie 80s/90s. Une proposition de EXTRA",
+      "url": "https://www.lafriche.org/evenements/kendal-all-night-long-petit-cab/",
+      "venueName": "Friche la Belle de Mai",
+      "address": "41 rue Jobin, 13003 Marseille",
+      "commune": "Marseille",
+      "image": "https://www.lafriche.org/app/uploads/2026/09/BP-1114-PC-KENDAL_friche-500x300.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "tiers_lieu"
+      ],
+      "score": 1,
+      "scoreReasons": [
+        "tiers-lieu"
+      ],
+      "sources": [
+        {
+          "id": "friche",
+          "name": "Friche la Belle de Mai"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "21ccc0b0674e",
+      "title": "Terre ludique – Ludothèque itinérante",
+      "start": "2026-11-15T13:30:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "Jeux d’adresse, jeux coopératifs, jeux de construction, jouets et jeux traditionnels d’ici et d’ailleurs... Une proposition de l'association Terre Ludique",
+      "url": "https://www.lafriche.org/evenements/terre-ludique/",
+      "venueName": "Friche la Belle de Mai",
+      "address": "41 rue Jobin, 13003 Marseille",
+      "commune": "Marseille",
+      "image": "https://www.lafriche.org/app/uploads/2026/02/jeux-geant-500x300.jpg",
+      "priceText": "Gratuit !",
+      "isFree": true,
+      "categories": [
+        "makers"
+      ],
+      "venueTags": [
+        "tiers_lieu"
+      ],
+      "score": 5,
+      "scoreReasons": [
+        "jeux",
+        "tiers-lieu",
+        "gratuit"
+      ],
+      "sources": [
+        {
+          "id": "friche",
+          "name": "Friche la Belle de Mai"
         }
       ],
       "approximate": false
@@ -2449,6 +3622,38 @@
         {
           "id": "les-theatres",
           "name": "Les Théâtres (Bernardines, Gymnase…)"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "3e98ada24730",
+      "title": "Micrographia – Alvise Sinivia, Frédéric Blondy",
+      "start": "2026-11-17T18:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "Micrographia est un duo de piano à quatre mains augmenté, imaginé par Alvise Sinivia et Frédéric Blondy. Une proposition de GMEM",
+      "url": "https://www.lafriche.org/evenements/micrographia/",
+      "venueName": "Friche la Belle de Mai",
+      "address": "41 rue Jobin, 13003 Marseille",
+      "commune": "Marseille",
+      "image": "https://www.lafriche.org/app/uploads/2026/09/0111-500x300.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "tiers_lieu"
+      ],
+      "score": 1,
+      "scoreReasons": [
+        "tiers-lieu"
+      ],
+      "sources": [
+        {
+          "id": "friche",
+          "name": "Friche la Belle de Mai"
         }
       ],
       "approximate": false
@@ -3370,10 +4575,10 @@
     {
       "id": "friche",
       "name": "Friche la Belle de Mai",
-      "kind": "auto",
+      "kind": "custom",
       "ok": true,
-      "eventCount": 0,
-      "keptCount": 0,
+      "eventCount": 35,
+      "keptCount": 35,
       "error": null,
       "usedFallback": false
     },
@@ -3591,10 +4796,10 @@
       "id": "fete-science",
       "name": "Fête de la science – Marseille",
       "kind": "auto",
-      "ok": true,
+      "ok": false,
       "eventCount": 0,
       "keptCount": 0,
-      "error": null,
+      "error": "Réseau injoignable (Connect Timeout Error (attempted address: www.fetedelascience.fr:443, timeout: 10000ms)) sur https://www.fetedelascience.fr/festival-des-sciences-de-marseille-2026",
       "usedFallback": false
     },
     {
@@ -3662,7 +4867,7 @@
       "name": "Meetup – Marseille tech",
       "kind": "auto",
       "ok": true,
-      "eventCount": 10,
+      "eventCount": 12,
       "keptCount": 3,
       "error": null,
       "usedFallback": false
@@ -3738,22 +4943,12 @@
       "usedFallback": false
     },
     {
-      "id": "museum",
-      "name": "Muséum d'histoire naturelle",
-      "kind": "auto",
-      "ok": false,
-      "eventCount": 0,
-      "keptCount": 0,
-      "error": "HTTP 500 on https://musees.marseille.fr/museum-dhistoire-naturelle-de-marseille-mhnm",
-      "usedFallback": false
-    },
-    {
       "id": "courts-apres-midi",
       "name": "Des courts l'après-midi",
-      "kind": "auto",
+      "kind": "custom",
       "ok": true,
-      "eventCount": 0,
-      "keptCount": 0,
+      "eventCount": 1,
+      "keptCount": 1,
       "error": null,
       "usedFallback": false
     },
