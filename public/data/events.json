@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T20:02:14.447Z",
+  "generatedAt": "2026-11-03T20:06:26.654Z",
   "windowDays": 45,
   "events": [
     {
@@ -278,6 +278,33 @@
       ]
     },
     {
+      "id": "409b39097ed1",
+      "title": "Belinda Davids @ Le Silo",
+      "start": "2026-11-04T19:00:00.000Z",
+      "end": "2026-11-03T23:00:00.000Z",
+      "allDay": false,
+      "description": "Belinda Davids at Le Silo at 2026-11-04T20:00:00+0100",
+      "url": "https://www.songkick.com/concerts/42811322-belinda-davids-at-le-silo?utm_medium=organic&utm_source=microformat",
+      "venueName": "Le Silo",
+      "address": "35 Quai Du Lazaret, 13002, Marseille",
+      "commune": "Marseille",
+      "image": "https://images.sk-static.com/images/media/profile_images/artists/7847779/huge_avatar",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "songkick-marseille",
+          "name": "Songkick – concerts Marseille"
+        }
+      ]
+    },
+    {
       "id": "62243fe1d18c",
       "title": "L’EJ C’EST LE S x The Session",
       "start": "2026-11-04T19:00:00.000Z",
@@ -307,7 +334,7 @@
       ]
     },
     {
-      "id": "94fb434bf092",
+      "id": "e75bc5167f58",
       "title": "Entertorment @ L'Intermédiaire",
       "start": "2026-11-04T23:00:00.000Z",
       "end": "2026-11-04T23:00:00.000Z",
@@ -331,6 +358,10 @@
         "lieu planqué"
       ],
       "sources": [
+        {
+          "id": "songkick-marseille",
+          "name": "Songkick – concerts Marseille"
+        },
         {
           "id": "intermediaire",
           "name": "L'Intermédiaire"
@@ -439,6 +470,33 @@
       ]
     },
     {
+      "id": "9df2eed67dc9",
+      "title": "Odoo Business Show Marseille",
+      "start": "2026-11-05T18:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "En avez-vous assez de devoir utiliser de nombreuses applications différentes pour gérer votre entreprise? Simplifiez tout cela avec Odoo, l’unique plateforme dont vous avez besoin pour tout gérer! 💯 Retrouvez-nous à **Marseille** le **5 novembre 2026** à **19h** pour un événement unique, combinant une démo en direct dont vous serez le héros et une session Q&A, suivi par un cocktail networking. \ud83d…",
+      "url": "https://www.meetup.com/odoo-business-show-academies/events/316469500/",
+      "venueName": "Hôtel Mercure Marseille Centre Vieux Port",
+      "address": "1 Rue Neuve Saint-Martin, 13001 Marseille, France, Marseille, Marseille",
+      "commune": "Marseille",
+      "image": "/images/fallbacks/redesign/group-cover-1-square.webp",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "makers"
+      ],
+      "venueTags": [],
+      "score": 1,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "meetup-marseille",
+          "name": "Meetup – Marseille tech"
+        }
+      ]
+    },
+    {
       "id": "fba4d129b57d",
       "title": "THE LET’S GO’S + Supreme Nightclub",
       "start": "2026-11-05T19:30:00.000Z",
@@ -529,6 +587,33 @@
       ]
     },
     {
+      "id": "545240a53b24",
+      "title": "MASTER BOOT RECORD @ Le Dodu",
+      "start": "2026-11-06T18:00:00.000Z",
+      "end": "2026-11-05T23:00:00.000Z",
+      "allDay": false,
+      "description": "MASTER BOOT RECORD, Fulci, and Arottenbit at Le Dodu at 2026-11-06T19:00:00+0100",
+      "url": "https://www.songkick.com/concerts/43108635-master-boot-record-at-le-dodu?utm_medium=organic&utm_source=microformat",
+      "venueName": "Le Dodu",
+      "address": "22 Rue Jobin, 13003 Marseille, France, 13003, Marseille",
+      "commune": "Marseille",
+      "image": "https://images.sk-static.com/images/media/profile_images/artists/9707659/huge_avatar",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "songkick-marseille",
+          "name": "Songkick – concerts Marseille"
+        }
+      ]
+    },
+    {
       "id": "e2a31b52d093",
       "title": "NINA UZAN",
       "start": "2026-11-06T18:00:00.000Z",
@@ -590,6 +675,87 @@
       ]
     },
     {
+      "id": "679cde2da4d2",
+      "title": "Josman @ Le Dôme",
+      "start": "2026-11-06T19:00:00.000Z",
+      "end": "2026-11-05T23:00:00.000Z",
+      "allDay": false,
+      "description": "Josman at Le Dôme at 2026-11-06T20:00:00+0100",
+      "url": "https://www.songkick.com/concerts/43040240-josman-at-le-dome?utm_medium=organic&utm_source=microformat",
+      "venueName": "Le Dôme",
+      "address": "48, av de Saint­-Just, 13004, Marseille",
+      "commune": "Marseille",
+      "image": "https://images.sk-static.com/images/media/profile_images/artists/7789499/huge_avatar",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "songkick-marseille",
+          "name": "Songkick – concerts Marseille"
+        }
+      ]
+    },
+    {
+      "id": "0341afdce44b",
+      "title": "Jwles @ L'Affranchi",
+      "start": "2026-11-06T19:00:00.000Z",
+      "end": "2026-11-05T23:00:00.000Z",
+      "allDay": false,
+      "description": "Jwles at L'Affranchi at 2026-11-06T20:00:00+0100",
+      "url": "https://www.songkick.com/concerts/43170098-jwles-at-laffranchi?utm_medium=organic&utm_source=microformat",
+      "venueName": "L'Affranchi",
+      "address": "212, Boulevard de Saint-Marcel, 13011, Marseille",
+      "commune": "Marseille",
+      "image": "https://images.sk-static.com/images/media/profile_images/artists/10117294/huge_avatar",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "songkick-marseille",
+          "name": "Songkick – concerts Marseille"
+        }
+      ]
+    },
+    {
+      "id": "174c957de116",
+      "title": "Mamma Mia! @ Pathé La Joliette",
+      "start": "2026-11-06T19:00:00.000Z",
+      "end": "2026-11-05T23:00:00.000Z",
+      "allDay": false,
+      "description": "Mamma Mia! at Pathé La Joliette at 2026-11-06T20:00:00+0100",
+      "url": "https://www.songkick.com/concerts/43427448-mamma-mia-at-pathe-la-joliette?utm_medium=organic&utm_source=microformat",
+      "venueName": "Pathé La Joliette",
+      "address": "54 Rue de Chanterac, 13002, Marseille",
+      "commune": "Marseille",
+      "image": "https://images.sk-static.com/images/media/profile_images/artists/8586009/huge_avatar",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "songkick-marseille",
+          "name": "Songkick – concerts Marseille"
+        }
+      ]
+    },
+    {
       "id": "d3b2599ae382",
       "title": "MASTER BOOT RECORD + FULCI + Arottenbit",
       "start": "2026-11-06T19:00:00.000Z",
@@ -645,6 +811,87 @@
       ]
     },
     {
+      "id": "77dab4766448",
+      "title": "Taiwan Mc @ Cabaret Aléatoire",
+      "start": "2026-11-06T22:00:00.000Z",
+      "end": "2026-11-05T23:00:00.000Z",
+      "allDay": false,
+      "description": "Taiwan Mc and ODG at Cabaret Aléatoire at 2026-11-06T23:00:00+0100",
+      "url": "https://www.songkick.com/concerts/43445920-taiwan-mc-at-cabaret-aleatoire?utm_medium=organic&utm_source=microformat",
+      "venueName": "Cabaret Aléatoire",
+      "address": "41 Rue Jobin, 13003, Marseille",
+      "commune": "Marseille",
+      "image": "https://images.sk-static.com/images/media/profile_images/artists/2872946/huge_avatar",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "spectacle"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "songkick-marseille",
+          "name": "Songkick – concerts Marseille"
+        }
+      ]
+    },
+    {
+      "id": "e5ddefd893e0",
+      "title": "Joz @ Le Makeda",
+      "start": "2026-11-06T22:00:00.000Z",
+      "end": "2026-11-05T23:00:00.000Z",
+      "allDay": false,
+      "description": "Joz and NEMS at Le Makeda at 2026-11-06T23:00:00+0100",
+      "url": "https://www.songkick.com/concerts/43475948-joz-at-le-makeda?utm_medium=organic&utm_source=microformat",
+      "venueName": "Le Makeda",
+      "address": "103 Rue Ferrari, 13005, Marseille",
+      "commune": "Marseille",
+      "image": "https://images.sk-static.com/images/media/profile_images/artists/2391192/huge_avatar",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "songkick-marseille",
+          "name": "Songkick – concerts Marseille"
+        }
+      ]
+    },
+    {
+      "id": "a25a83bf8e75",
+      "title": "Kenny Larkin @ Petit Cab, Friche la Belle de Mai",
+      "start": "2026-11-06T22:30:00.000Z",
+      "end": "2026-11-05T23:00:00.000Z",
+      "allDay": false,
+      "description": "Kenny Larkin at Petit Cab, Friche la Belle de Mai at 2026-11-06T23:30:00+0100",
+      "url": "https://www.songkick.com/concerts/43394669-kenny-larkin-at-petit-cab-friche-la-belle-de-mai?utm_medium=organic&utm_source=microformat",
+      "venueName": "Petit Cab, Friche la Belle de Mai",
+      "address": "41 rue Jobin, 13003, Marseille",
+      "commune": "Marseille",
+      "image": "https://images.sk-static.com/images/media/profile_images/artists/4102/huge_avatar",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "songkick-marseille",
+          "name": "Songkick – concerts Marseille"
+        }
+      ]
+    },
+    {
       "id": "ecd3f02b51a9",
       "title": "Mohsen Ferrah + Hamid Matoub",
       "start": "2026-11-06T23:00:00.000Z",
@@ -672,6 +919,33 @@
         {
           "id": "marseille-tourisme",
           "name": "Office de tourisme de Marseille"
+        }
+      ]
+    },
+    {
+      "id": "eb2d7c0886ac",
+      "title": "La Casa Fantom @ L'Embobineuse",
+      "start": "2026-11-06T23:00:00.000Z",
+      "end": "2026-11-06T23:00:00.000Z",
+      "allDay": true,
+      "description": "La Casa Fantom at L'Embobineuse at 2026-11-07",
+      "url": "https://www.songkick.com/concerts/43482096-la-casa-fantom-at-lembobineuse?utm_medium=organic&utm_source=microformat",
+      "venueName": "L'Embobineuse",
+      "address": "11 Boulevard Boués, 13003, Marseille",
+      "commune": "Marseille",
+      "image": "https://images.sk-static.com/images/media/profile_images/artists/70795/huge_avatar",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "songkick-marseille",
+          "name": "Songkick – concerts Marseille"
         }
       ]
     },
@@ -746,6 +1020,36 @@
       ]
     },
     {
+      "id": "19aa503becfc",
+      "title": "Festival de la rue d'Aubagne - Talk + Nuit 2026 @ La Plateforme",
+      "start": "2026-11-07T14:30:00.000Z",
+      "end": "2026-11-07T23:00:00.000Z",
+      "allDay": false,
+      "description": "Festival de la rue d'Aubagne - Talk + Nuit 2026 at La Plateforme at 2026-11-07T15:30:00+0100",
+      "url": "https://www.songkick.com/festivals/3804425-de-la-rue-daubagne-talk-nuit/id/43403709-festival-de-la-rue-daubagne--talk--nuit-2026?utm_medium=organic&utm_source=microformat",
+      "venueName": "La Plateforme",
+      "address": "12 Rue Urbain V, 13002, Marseille",
+      "commune": "Marseille",
+      "image": "https://images.sk-static.com/images/media/profile_images/events/43403709/huge_avatar?series_id=3804425",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "festival"
+      ],
+      "venueTags": [],
+      "score": 5,
+      "scoreReasons": [
+        "politique",
+        "festival"
+      ],
+      "sources": [
+        {
+          "id": "songkick-marseille",
+          "name": "Songkick – concerts Marseille"
+        }
+      ]
+    },
+    {
       "id": "bb127d75576c",
       "title": "Manifestation de soutien à GAZA - Rassemblement statique",
       "start": "2026-11-07T17:00:00.000Z",
@@ -780,6 +1084,60 @@
       ]
     },
     {
+      "id": "77e3e9e350ff",
+      "title": "I.A.N.W.I.L.L @ Le Molotov",
+      "start": "2026-11-07T18:30:00.000Z",
+      "end": "2026-11-06T23:00:00.000Z",
+      "allDay": false,
+      "description": "I.A.N.W.I.L.L, MAZED, and Perseide at Le Molotov at 2026-11-07T19:30:00+0100",
+      "url": "https://www.songkick.com/concerts/43431253-ianwill-at-le-molotov?utm_medium=organic&utm_source=microformat",
+      "venueName": "Le Molotov",
+      "address": "3 place Paul Cézanne, 13006, Marseille",
+      "commune": "Marseille",
+      "image": "https://images.sk-static.com/images/media/profile_images/artists/8331338/huge_avatar",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "songkick-marseille",
+          "name": "Songkick – concerts Marseille"
+        }
+      ]
+    },
+    {
+      "id": "a215670ca6a7",
+      "title": "A2h @ Le Makeda",
+      "start": "2026-11-07T19:00:00.000Z",
+      "end": "2026-11-06T23:00:00.000Z",
+      "allDay": false,
+      "description": "A2h at Le Makeda at 2026-11-07T20:00:00+0100",
+      "url": "https://www.songkick.com/concerts/43277844-a2h-at-le-makeda?utm_medium=organic&utm_source=microformat",
+      "venueName": "Le Makeda",
+      "address": "103 Rue Ferrari, 13005, Marseille",
+      "commune": "Marseille",
+      "image": "https://images.sk-static.com/images/media/profile_images/artists/3586261/huge_avatar",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "songkick-marseille",
+          "name": "Songkick – concerts Marseille"
+        }
+      ]
+    },
+    {
       "id": "fce7355c5698",
       "title": "IANWILL + Perseide + Maze’D + Ghetto Paradise",
       "start": "2026-11-07T19:00:00.000Z",
@@ -807,6 +1165,60 @@
       ]
     },
     {
+      "id": "e1efe0aff804",
+      "title": "LB aka LABAT @ Cabaret Aléatoire",
+      "start": "2026-11-07T22:00:00.000Z",
+      "end": "2026-11-06T23:00:00.000Z",
+      "allDay": false,
+      "description": "LB aka LABAT, Yenkov, and Bella Claxton at Cabaret Aléatoire at 2026-11-07T23:00:00+0100",
+      "url": "https://www.songkick.com/concerts/43444152-lb-aka-labat-at-cabaret-aleatoire?utm_medium=organic&utm_source=microformat",
+      "venueName": "Cabaret Aléatoire",
+      "address": "41 Rue Jobin, 13003, Marseille",
+      "commune": "Marseille",
+      "image": "https://images.sk-static.com/images/media/profile_images/artists/9924479/huge_avatar",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "spectacle"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "songkick-marseille",
+          "name": "Songkick – concerts Marseille"
+        }
+      ]
+    },
+    {
+      "id": "6a42a14a0e62",
+      "title": "Hubert-Félix Thiéfaine @ Le Silo",
+      "start": "2026-11-08T17:00:00.000Z",
+      "end": "2026-11-07T23:00:00.000Z",
+      "allDay": false,
+      "description": "Hubert-Félix Thiéfaine at Le Silo at 2026-11-08T18:00:00+0100",
+      "url": "https://www.songkick.com/concerts/43131700-hubertfelix-thiefaine-at-le-silo?utm_medium=organic&utm_source=microformat",
+      "venueName": "Le Silo",
+      "address": "35 Quai Du Lazaret, 13002, Marseille",
+      "commune": "Marseille",
+      "image": "https://images.sk-static.com/images/media/profile_images/artists/375128/huge_avatar",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "songkick-marseille",
+          "name": "Songkick – concerts Marseille"
+        }
+      ]
+    },
+    {
       "id": "5b88ab949d73",
       "title": "UP TOWN MUSIC BAND #24",
       "start": "2026-11-08T17:30:00.000Z",
@@ -830,6 +1242,60 @@
         {
           "id": "molotov",
           "name": "Le Molotov / Le Dodu"
+        }
+      ]
+    },
+    {
+      "id": "80a4bee11953",
+      "title": "Bigflo & Oli @ Le Dôme",
+      "start": "2026-11-08T18:00:00.000Z",
+      "end": "2026-11-07T23:00:00.000Z",
+      "allDay": false,
+      "description": "Bigflo & Oli at Le Dôme at 2026-11-08T19:00:00+0100",
+      "url": "https://www.songkick.com/concerts/43052137-bigflo-and-oli-at-le-dome?utm_medium=organic&utm_source=microformat",
+      "venueName": "Le Dôme",
+      "address": "48, av de Saint­-Just, 13004, Marseille",
+      "commune": "Marseille",
+      "image": "https://images.sk-static.com/images/media/profile_images/artists/6890539/huge_avatar",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "songkick-marseille",
+          "name": "Songkick – concerts Marseille"
+        }
+      ]
+    },
+    {
+      "id": "03db43bf37e2",
+      "title": "Said @ Espace Julien",
+      "start": "2026-11-08T18:00:00.000Z",
+      "end": "2026-11-07T23:00:00.000Z",
+      "allDay": false,
+      "description": "Said at Espace Julien at 2026-11-08T19:00:00+0100",
+      "url": "https://www.songkick.com/concerts/43384311-said-at-espace-julien?utm_medium=organic&utm_source=microformat",
+      "venueName": "Espace Julien",
+      "address": "39, Cours Julien, 13006, Marseille",
+      "commune": "Marseille",
+      "image": "https://images.sk-static.com/images/media/profile_images/artists/481686/huge_avatar",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "songkick-marseille",
+          "name": "Songkick – concerts Marseille"
         }
       ]
     },
@@ -924,6 +1390,60 @@
         {
           "id": "mille-babords",
           "name": "Mille Bâbords"
+        }
+      ]
+    },
+    {
+      "id": "93d663c6464c",
+      "title": "Robert Finley @ Espace Julien",
+      "start": "2026-11-10T19:00:00.000Z",
+      "end": "2026-11-09T23:00:00.000Z",
+      "allDay": false,
+      "description": "Robert Finley at Espace Julien at 2026-11-10T20:00:00+0100",
+      "url": "https://www.songkick.com/concerts/43182172-robert-finley-at-espace-julien?utm_medium=organic&utm_source=microformat",
+      "venueName": "Espace Julien",
+      "address": "39, Cours Julien, 13006, Marseille",
+      "commune": "Marseille",
+      "image": "https://images.sk-static.com/images/media/profile_images/artists/9528754/huge_avatar",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "songkick-marseille",
+          "name": "Songkick – concerts Marseille"
+        }
+      ]
+    },
+    {
+      "id": "433d2d89d71b",
+      "title": "Fly Anakin @ Le Molotov",
+      "start": "2026-11-10T19:00:00.000Z",
+      "end": "2026-11-09T23:00:00.000Z",
+      "allDay": false,
+      "description": "Fly Anakin at Le Molotov at 2026-11-10T20:00:00+0100",
+      "url": "https://www.songkick.com/concerts/43345036-fly-anakin-at-le-molotov?utm_medium=organic&utm_source=microformat",
+      "venueName": "Le Molotov",
+      "address": "3 place Paul Cézanne, 13006, Marseille",
+      "commune": "Marseille",
+      "image": "https://images.sk-static.com/images/media/profile_images/artists/9051799/huge_avatar",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "songkick-marseille",
+          "name": "Songkick – concerts Marseille"
         }
       ]
     },
@@ -1046,6 +1566,33 @@
       ]
     },
     {
+      "id": "9b9e1a8ec786",
+      "title": "Various Artists @ Le Makeda",
+      "start": "2026-11-11T19:00:00.000Z",
+      "end": "2026-11-10T23:00:00.000Z",
+      "allDay": false,
+      "description": "Various Artists at Le Makeda at 2026-11-11T20:00:00+0100",
+      "url": "https://www.songkick.com/concerts/43480345-various-artists-at-le-makeda?utm_medium=organic&utm_source=microformat",
+      "venueName": "Le Makeda",
+      "address": "103 Rue Ferrari, 13005, Marseille",
+      "commune": "Marseille",
+      "image": "https://images.sk-static.com/images/media/profile_images/artists/10230901/huge_avatar",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "songkick-marseille",
+          "name": "Songkick – concerts Marseille"
+        }
+      ]
+    },
+    {
       "id": "0d2e81d22393",
       "title": "TISSILAWEN + Mehtoze",
       "start": "2026-11-11T19:30:00.000Z",
@@ -1069,6 +1616,152 @@
         {
           "id": "molotov",
           "name": "Le Molotov / Le Dodu"
+        }
+      ]
+    },
+    {
+      "id": "177d6196ec44",
+      "title": "DevFest Marseille 2026",
+      "start": "2026-11-12T15:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "🚀 Le tout premier DevFest débarque à Marseille ! Une journée pour apprendre et propulser la tech phocéenne. Pour marquer le lancement du nouveau chapitre GDG Marseille, nous vous proposons un format inédit pour notre tout premier DevFest ! Oubliez les conférences passives : cette année, on mise sur l'action et la proximité avec un événement à taille humaine. 🔥 Ce qui vous attend : 🛠️ Workshop …",
+      "url": "https://www.meetup.com/google-developer-group-marseille/events/315789568/",
+      "venueName": "École informatique Marseille - Epitech",
+      "address": "30 Place Jules Guesde, Marseille, Marseille",
+      "commune": "Marseille",
+      "image": "/images/fallbacks/redesign/group-cover-1-square.webp",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "makers"
+      ],
+      "venueTags": [],
+      "score": 6,
+      "scoreReasons": [
+        "débat",
+        "IA / code"
+      ],
+      "sources": [
+        {
+          "id": "meetup-marseille",
+          "name": "Meetup – Marseille tech"
+        },
+        {
+          "id": "dev-events",
+          "name": "dev.events – Marseille"
+        }
+      ]
+    },
+    {
+      "id": "129084b90adc",
+      "title": "Les Meetups de l’IA — Marseille #2",
+      "start": "2026-11-12T17:30:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "**Pas de scène. Tout le monde autour de la table.** Les Meetups de l’IA sont des rencontres ouvertes à toutes et tous pour discuter librement de l’intelligence artificielle, de ses usages, de ses possibilités et de ses limites. Pas de conférence, pas de présentation à préparer et aucun niveau requis. Que vous travailliez dans l’IA, que vous l’utilisiez occasionnellement ou que vous soyez simpleme…",
+      "url": "https://www.meetup.com/les-meetups-de-l-ia/events/316849731/",
+      "venueName": "Grand Bar Pierre",
+      "address": "16 Place Félix Baret 13006, Marseille, Marseille",
+      "commune": "Marseille",
+      "image": "/images/fallbacks/redesign/group-cover-4-square.webp",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "makers"
+      ],
+      "venueTags": [],
+      "score": 9,
+      "scoreReasons": [
+        "débat",
+        "IA / code",
+        "réparation"
+      ],
+      "sources": [
+        {
+          "id": "meetup-marseille",
+          "name": "Meetup – Marseille tech"
+        }
+      ]
+    },
+    {
+      "id": "9a588eb5efed",
+      "title": "BYBY @ Les 9 Salopards",
+      "start": "2026-11-12T18:00:00.000Z",
+      "end": "2026-11-11T23:00:00.000Z",
+      "allDay": false,
+      "description": "BYBY at Les 9 Salopards at 2026-11-12T19:00:00+0100",
+      "url": "https://www.songkick.com/concerts/43413311-byby-at-les-9-salopards?utm_medium=organic&utm_source=microformat",
+      "venueName": "Les 9 Salopards",
+      "address": "9 rue de l'Arc, 13001, Marseille",
+      "commune": "Marseille",
+      "image": "https://images.sk-static.com/images/media/profile_images/artists/10368064/huge_avatar",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "songkick-marseille",
+          "name": "Songkick – concerts Marseille"
+        }
+      ]
+    },
+    {
+      "id": "1fff79b30de7",
+      "title": "La marmite @ Le Makeda",
+      "start": "2026-11-12T19:00:00.000Z",
+      "end": "2026-11-11T23:00:00.000Z",
+      "allDay": false,
+      "description": "La marmite and Sto at Le Makeda at 2026-11-12T20:00:00+0100",
+      "url": "https://www.songkick.com/concerts/43488062-la-marmite-at-le-makeda?utm_medium=organic&utm_source=microformat",
+      "venueName": "Le Makeda",
+      "address": "103 Rue Ferrari, 13005, Marseille",
+      "commune": "Marseille",
+      "image": "https://images.sk-static.com/images/media/profile_images/artists/8644489/huge_avatar",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "songkick-marseille",
+          "name": "Songkick – concerts Marseille"
+        }
+      ]
+    },
+    {
+      "id": "d1616613e125",
+      "title": "Rats Don't Sink @ Le Molotov",
+      "start": "2026-11-12T19:00:00.000Z",
+      "end": "2026-11-11T23:00:00.000Z",
+      "allDay": false,
+      "description": "Rats Don't Sink at Le Molotov at 2026-11-12T20:00:00+0100",
+      "url": "https://www.songkick.com/concerts/43408857-rats-dont-sink-at-le-molotov?utm_medium=organic&utm_source=microformat",
+      "venueName": "Le Molotov",
+      "address": "3 place Paul Cézanne, 13006, Marseille",
+      "commune": "Marseille",
+      "image": "https://images.sk-static.com/images/media/profile_images/artists/8770434/huge_avatar",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "songkick-marseille",
+          "name": "Songkick – concerts Marseille"
         }
       ]
     },
@@ -1100,6 +1793,33 @@
       ]
     },
     {
+      "id": "e20152b52bd3",
+      "title": "ASHEN @ Le Dodu",
+      "start": "2026-11-13T18:00:00.000Z",
+      "end": "2026-11-12T23:00:00.000Z",
+      "allDay": false,
+      "description": "ASHEN at Le Dodu at 2026-11-13T19:00:00+0100",
+      "url": "https://www.songkick.com/concerts/43265981-ashen-at-le-dodu?utm_medium=organic&utm_source=microformat",
+      "venueName": "Le Dodu",
+      "address": "22 Rue Jobin, 13003 Marseille, France, 13003, Marseille",
+      "commune": "Marseille",
+      "image": "https://images.sk-static.com/images/media/profile_images/artists/149625/huge_avatar",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "songkick-marseille",
+          "name": "Songkick – concerts Marseille"
+        }
+      ]
+    },
+    {
       "id": "767b02ff5b07",
       "title": "ASHEN + Ascend + Fleur.",
       "start": "2026-11-13T18:00:00.000Z",
@@ -1123,6 +1843,60 @@
         {
           "id": "molotov",
           "name": "Le Molotov / Le Dodu"
+        }
+      ]
+    },
+    {
+      "id": "5a2c13c63e6f",
+      "title": "Christophe Maé @ Le Dôme",
+      "start": "2026-11-13T19:00:00.000Z",
+      "end": "2026-11-12T23:00:00.000Z",
+      "allDay": false,
+      "description": "Christophe Maé at Le Dôme at 2026-11-13T20:00:00+0100",
+      "url": "https://www.songkick.com/concerts/42846649-christophe-mae-at-le-dome?utm_medium=organic&utm_source=microformat",
+      "venueName": "Le Dôme",
+      "address": "48, av de Saint­-Just, 13004, Marseille",
+      "commune": "Marseille",
+      "image": "https://images.sk-static.com/images/media/profile_images/artists/1154038/huge_avatar",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "songkick-marseille",
+          "name": "Songkick – concerts Marseille"
+        }
+      ]
+    },
+    {
+      "id": "e35258e21ec4",
+      "title": "So La Lune @ Espace Julien",
+      "start": "2026-11-13T19:00:00.000Z",
+      "end": "2026-11-12T23:00:00.000Z",
+      "allDay": false,
+      "description": "So La Lune at Espace Julien at 2026-11-13T20:00:00+0100",
+      "url": "https://www.songkick.com/concerts/43083723-so-la-lune-at-espace-julien?utm_medium=organic&utm_source=microformat",
+      "venueName": "Espace Julien",
+      "address": "39, Cours Julien, 13006, Marseille",
+      "commune": "Marseille",
+      "image": "https://images.sk-static.com/images/media/profile_images/artists/10301303/huge_avatar",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "songkick-marseille",
+          "name": "Songkick – concerts Marseille"
         }
       ]
     },
@@ -1181,6 +1955,60 @@
       ]
     },
     {
+      "id": "e84e176e1105",
+      "title": "Dragrace France Live @ Le Cepac Silo",
+      "start": "2026-11-13T23:00:00.000Z",
+      "end": "2026-11-13T23:00:00.000Z",
+      "allDay": true,
+      "description": "Dragrace France Live at Le Cepac Silo at 2026-11-14",
+      "url": "https://www.songkick.com/concerts/42945734-dragrace-france-live-at-le-cepac-silo?utm_medium=organic&utm_source=microformat",
+      "venueName": "Le Cepac Silo",
+      "address": "35 Quai du Lazaret, 13002, Marseille",
+      "commune": "Marseille",
+      "image": "https://images.sk-static.com/images/media/profile_images/artists/10229443/huge_avatar",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "songkick-marseille",
+          "name": "Songkick – concerts Marseille"
+        }
+      ]
+    },
+    {
+      "id": "ac0df7607d32",
+      "title": "Tau Car @ Esplanade Gisèle Halimi",
+      "start": "2026-11-14T16:00:00.000Z",
+      "end": "2026-11-13T23:00:00.000Z",
+      "allDay": false,
+      "description": "Tau Car and Doubtingthomas at Esplanade Gisèle Halimi at 2026-11-14T17:00:00+0100",
+      "url": "https://www.songkick.com/concerts/43439391-tau-car-at-esplanade-gisele-halimi?utm_medium=organic&utm_source=microformat",
+      "venueName": "Esplanade Gisèle Halimi",
+      "address": "7 Promenade Robert Laffont, 13002 Marseille, France, 13002, Marseille",
+      "commune": "Marseille",
+      "image": "https://images.sk-static.com/images/media/profile_images/artists/10340910/huge_avatar",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "songkick-marseille",
+          "name": "Songkick – concerts Marseille"
+        }
+      ]
+    },
+    {
       "id": "05276d870911",
       "title": "DREAMACHINE FESTIVAL: KEIYAA + Broodoo Ramses",
       "start": "2026-11-14T18:30:00.000Z",
@@ -1211,6 +2039,87 @@
       ]
     },
     {
+      "id": "c36cd6684456",
+      "title": "Moha MMZ @ Espace Julien",
+      "start": "2026-11-14T19:00:00.000Z",
+      "end": "2026-11-13T23:00:00.000Z",
+      "allDay": false,
+      "description": "Moha MMZ at Espace Julien at 2026-11-14T20:00:00+0100",
+      "url": "https://www.songkick.com/concerts/43429556-moha-mmz-at-espace-julien?utm_medium=organic&utm_source=microformat",
+      "venueName": "Espace Julien",
+      "address": "39, Cours Julien, 13006, Marseille",
+      "commune": "Marseille",
+      "image": "https://images.sk-static.com/images/media/profile_images/artists/10354155/huge_avatar",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "songkick-marseille",
+          "name": "Songkick – concerts Marseille"
+        }
+      ]
+    },
+    {
+      "id": "5f6e505a5562",
+      "title": "Nobodylikesbirdie @ L'Affranchi",
+      "start": "2026-11-14T19:00:00.000Z",
+      "end": "2026-11-13T23:00:00.000Z",
+      "allDay": false,
+      "description": "Nobodylikesbirdie and Jaymee at L'Affranchi at 2026-11-14T20:00:00+0100",
+      "url": "https://www.songkick.com/concerts/43199805-nobodylikesbirdie-at-laffranchi?utm_medium=organic&utm_source=microformat",
+      "venueName": "L'Affranchi",
+      "address": "212, Boulevard de Saint-Marcel, 13011, Marseille",
+      "commune": "Marseille",
+      "image": "https://images.sk-static.com/images/media/profile_images/artists/10304407/huge_avatar",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "songkick-marseille",
+          "name": "Songkick – concerts Marseille"
+        }
+      ]
+    },
+    {
+      "id": "84e3a5e322f5",
+      "title": "Camille Yembe @ Le Makeda",
+      "start": "2026-11-14T19:00:00.000Z",
+      "end": "2026-11-13T23:00:00.000Z",
+      "allDay": false,
+      "description": "Camille Yembe at Le Makeda at 2026-11-14T20:00:00+0100",
+      "url": "https://www.songkick.com/concerts/43232879-camille-yembe-at-le-makeda?utm_medium=organic&utm_source=microformat",
+      "venueName": "Le Makeda",
+      "address": "103 Rue Ferrari, 13005, Marseille",
+      "commune": "Marseille",
+      "image": "https://images.sk-static.com/images/media/profile_images/artists/10265312/huge_avatar",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "songkick-marseille",
+          "name": "Songkick – concerts Marseille"
+        }
+      ]
+    },
+    {
       "id": "b0e42bef9c1a",
       "title": "MOHA MMZ",
       "start": "2026-11-14T19:00:00.000Z",
@@ -1234,6 +2143,141 @@
         {
           "id": "espace-julien",
           "name": "L'Espace Julien"
+        }
+      ]
+    },
+    {
+      "id": "5add78b9a3e0",
+      "title": "DAYVIN @ Saffar",
+      "start": "2026-11-14T21:00:00.000Z",
+      "end": "2026-11-13T23:00:00.000Z",
+      "allDay": false,
+      "description": "DAYVIN at Saffar at 2026-11-14T22:00:00+0100",
+      "url": "https://www.songkick.com/concerts/43431307-dayvin-at-saffar?utm_medium=organic&utm_source=microformat",
+      "venueName": "Saffar",
+      "address": "219 Boulevard National, 13003 Marseille, France, 13003, Marseille",
+      "commune": "Marseille",
+      "image": "https://images.sk-static.com/images/media/profile_images/artists/10366593/huge_avatar",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "songkick-marseille",
+          "name": "Songkick – concerts Marseille"
+        }
+      ]
+    },
+    {
+      "id": "ca1275ff43d5",
+      "title": "DJ Lina @ Le Makeda",
+      "start": "2026-11-14T21:30:00.000Z",
+      "end": "2026-11-13T23:00:00.000Z",
+      "allDay": false,
+      "description": "DJ Lina at Le Makeda at 2026-11-14T22:30:00+0100",
+      "url": "https://www.songkick.com/concerts/43480346-dj-lina-at-le-makeda?utm_medium=organic&utm_source=microformat",
+      "venueName": "Le Makeda",
+      "address": "103 Rue Ferrari, 13005, Marseille",
+      "commune": "Marseille",
+      "image": "https://images.sk-static.com/images/media/profile_images/artists/8643499/huge_avatar",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "songkick-marseille",
+          "name": "Songkick – concerts Marseille"
+        }
+      ]
+    },
+    {
+      "id": "05d83a411e23",
+      "title": "Grand V @ Cabaret Aléatoire",
+      "start": "2026-11-14T22:00:00.000Z",
+      "end": "2026-11-13T23:00:00.000Z",
+      "allDay": false,
+      "description": "Grand V at Cabaret Aléatoire at 2026-11-14T23:00:00+0100",
+      "url": "https://www.songkick.com/concerts/43444153-grand-v-at-cabaret-aleatoire?utm_medium=organic&utm_source=microformat",
+      "venueName": "Cabaret Aléatoire",
+      "address": "41 Rue Jobin, 13003, Marseille",
+      "commune": "Marseille",
+      "image": "https://images.sk-static.com/images/media/profile_images/artists/10284871/huge_avatar",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "spectacle"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "songkick-marseille",
+          "name": "Songkick – concerts Marseille"
+        }
+      ]
+    },
+    {
+      "id": "8f1cad6df186",
+      "title": "Kendal @ Petit Cab",
+      "start": "2026-11-14T22:30:00.000Z",
+      "end": "2026-11-13T23:00:00.000Z",
+      "allDay": false,
+      "description": "Kendal at Petit Cab at 2026-11-14T23:30:00+0100",
+      "url": "https://www.songkick.com/concerts/43394667-kendal-at-petit-cab?utm_medium=organic&utm_source=microformat",
+      "venueName": "Petit Cab",
+      "address": "41 Rue Jobin, 13003, Marseille",
+      "commune": "Marseille",
+      "image": "https://images.sk-static.com/images/media/profile_images/artists/8501773/huge_avatar",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "songkick-marseille",
+          "name": "Songkick – concerts Marseille"
+        }
+      ]
+    },
+    {
+      "id": "232c1005985c",
+      "title": "The Upsessions @ Le Molotov",
+      "start": "2026-11-15T19:00:00.000Z",
+      "end": "2026-11-14T23:00:00.000Z",
+      "allDay": false,
+      "description": "The Upsessions at Le Molotov at 2026-11-15T20:00:00+0100",
+      "url": "https://www.songkick.com/concerts/43391155-upsessions-at-le-molotov?utm_medium=organic&utm_source=microformat",
+      "venueName": "Le Molotov",
+      "address": "3 place Paul Cézanne, 13006, Marseille",
+      "commune": "Marseille",
+      "image": "https://images.sk-static.com/images/media/profile_images/artists/400002/huge_avatar",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "songkick-marseille",
+          "name": "Songkick – concerts Marseille"
         }
       ]
     },
@@ -1294,6 +2338,87 @@
       ]
     },
     {
+      "id": "ba9ac26f45e8",
+      "title": "Gus Englehorn @ Lollipop Music Store",
+      "start": "2026-11-18T18:00:00.000Z",
+      "end": "2026-11-17T23:00:00.000Z",
+      "allDay": false,
+      "description": "Gus Englehorn at Lollipop Music Store at 2026-11-18T19:00:00+0100",
+      "url": "https://www.songkick.com/concerts/43391507-gus-englehorn-at-lollipop-music-store?utm_medium=organic&utm_source=microformat",
+      "venueName": "Lollipop Music Store",
+      "address": "2 Blvd Théodore Thurner, 13006, Marseille",
+      "commune": "Marseille",
+      "image": "https://images.sk-static.com/images/media/profile_images/artists/10025284/huge_avatar",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "songkick-marseille",
+          "name": "Songkick – concerts Marseille"
+        }
+      ]
+    },
+    {
+      "id": "a3721656d36a",
+      "title": "Romsii @ Espace Julien",
+      "start": "2026-11-19T17:30:00.000Z",
+      "end": "2026-11-18T23:00:00.000Z",
+      "allDay": false,
+      "description": "Romsii at Espace Julien at 2026-11-19T18:30:00+0100",
+      "url": "https://www.songkick.com/concerts/43459492-romsii-at-espace-julien?utm_medium=organic&utm_source=microformat",
+      "venueName": "Espace Julien",
+      "address": "39, Cours Julien, 13006, Marseille",
+      "commune": "Marseille",
+      "image": "https://images.sk-static.com/images/media/profile_images/artists/10274303/huge_avatar",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "songkick-marseille",
+          "name": "Songkick – concerts Marseille"
+        }
+      ]
+    },
+    {
+      "id": "6bd43a0b5aaf",
+      "title": "EKLOZ @ Absolem Marseille",
+      "start": "2026-11-19T18:30:00.000Z",
+      "end": "2026-11-18T23:00:00.000Z",
+      "allDay": false,
+      "description": "EKLOZ at Absolem Marseille at 2026-11-19T19:30:00+0100",
+      "url": "https://www.songkick.com/concerts/43439363-ekloz-at-absolem-marseille?utm_medium=organic&utm_source=microformat",
+      "venueName": "Absolem Marseille",
+      "address": "40 bd Jacques Saadé, 13002, Marseille",
+      "commune": "Marseille",
+      "image": "https://images.sk-static.com/images/media/profile_images/artists/10366595/huge_avatar",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "songkick-marseille",
+          "name": "Songkick – concerts Marseille"
+        }
+      ]
+    },
+    {
       "id": "c955d0435071",
       "title": "MASSIMO SILVERIO + Misé Babilha",
       "start": "2026-11-19T19:00:00.000Z",
@@ -1321,6 +2446,33 @@
       ]
     },
     {
+      "id": "7e66894db6c5",
+      "title": "Marcus Gad @ Le Dodu",
+      "start": "2026-11-20T18:00:00.000Z",
+      "end": "2026-11-19T23:00:00.000Z",
+      "allDay": false,
+      "description": "Marcus Gad at Le Dodu at 2026-11-20T19:00:00+0100",
+      "url": "https://www.songkick.com/concerts/43145627-marcus-gad-at-le-dodu?utm_medium=organic&utm_source=microformat",
+      "venueName": "Le Dodu",
+      "address": "22 Rue Jobin, 13003 Marseille, France, 13003, Marseille",
+      "commune": "Marseille",
+      "image": "https://images.sk-static.com/images/media/profile_images/artists/9324744/huge_avatar",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "songkick-marseille",
+          "name": "Songkick – concerts Marseille"
+        }
+      ]
+    },
+    {
       "id": "598229ec87e3",
       "title": "MARCUS GAD & Tribe",
       "start": "2026-11-20T18:00:00.000Z",
@@ -1344,6 +2496,87 @@
         {
           "id": "molotov",
           "name": "Le Molotov / Le Dodu"
+        }
+      ]
+    },
+    {
+      "id": "58036a69182f",
+      "title": "Myra @ Le Makeda",
+      "start": "2026-11-20T19:00:00.000Z",
+      "end": "2026-11-19T23:00:00.000Z",
+      "allDay": false,
+      "description": "Myra at Le Makeda at 2026-11-20T20:00:00+0100",
+      "url": "https://www.songkick.com/concerts/43332523-myra-at-le-makeda?utm_medium=organic&utm_source=microformat",
+      "venueName": "Le Makeda",
+      "address": "103 Rue Ferrari, 13005, Marseille",
+      "commune": "Marseille",
+      "image": "https://images.sk-static.com/images/media/profile_images/artists/34566/huge_avatar",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "songkick-marseille",
+          "name": "Songkick – concerts Marseille"
+        }
+      ]
+    },
+    {
+      "id": "e1afcf6e45f6",
+      "title": "Sam Sauvage @ Espace Julien",
+      "start": "2026-11-20T19:00:00.000Z",
+      "end": "2026-11-19T23:00:00.000Z",
+      "allDay": false,
+      "description": "Sam Sauvage at Espace Julien at 2026-11-20T20:00:00+0100",
+      "url": "https://www.songkick.com/concerts/43037472-sam-sauvage-at-espace-julien?utm_medium=organic&utm_source=microformat",
+      "venueName": "Espace Julien",
+      "address": "39, Cours Julien, 13006, Marseille",
+      "commune": "Marseille",
+      "image": "https://images.sk-static.com/images/media/profile_images/artists/10344175/huge_avatar",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "songkick-marseille",
+          "name": "Songkick – concerts Marseille"
+        }
+      ]
+    },
+    {
+      "id": "30916c2d370a",
+      "title": "Mark Reeve @ Cabaret Aléatoire",
+      "start": "2026-11-20T22:00:00.000Z",
+      "end": "2026-11-19T23:00:00.000Z",
+      "allDay": false,
+      "description": "Mark Reeve, Fab Massimo, BonÏpso, Brookesia, John A. Marr, and HÏUGE at Cabaret Aléatoire at 2026-11-20T23:00:00+0100",
+      "url": "https://www.songkick.com/concerts/43422035-mark-reeve-at-cabaret-aleatoire?utm_medium=organic&utm_source=microformat",
+      "venueName": "Cabaret Aléatoire",
+      "address": "41 Rue Jobin, 13003, Marseille",
+      "commune": "Marseille",
+      "image": "https://images.sk-static.com/images/media/profile_images/artists/9245204/huge_avatar",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "spectacle"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "songkick-marseille",
+          "name": "Songkick – concerts Marseille"
         }
       ]
     },
@@ -1934,6 +3167,16 @@
       "usedFallback": false
     },
     {
+      "id": "songkick-marseille",
+      "name": "Songkick – concerts Marseille",
+      "kind": "jsonld",
+      "ok": true,
+      "eventCount": 50,
+      "keptCount": 43,
+      "error": null,
+      "usedFallback": false
+    },
+    {
       "id": "agendaculturel-13",
       "name": "Agenda culturel 13",
       "kind": "auto",
@@ -2137,11 +3380,11 @@
       "id": "mille-babords",
       "name": "Mille Bâbords",
       "kind": "custom",
-      "ok": true,
-      "eventCount": 23,
+      "ok": false,
+      "eventCount": 0,
       "keptCount": 13,
-      "error": null,
-      "usedFallback": false
+      "error": "Réseau injoignable (The operation was aborted due to timeout) sur https://www.millebabords.org/",
+      "usedFallback": true
     },
     {
       "id": "up-marseille",
@@ -2244,6 +3487,36 @@
       "usedFallback": false
     },
     {
+      "id": "ia-aixmarseille",
+      "name": "IA Aix Marseille (meetups)",
+      "kind": "auto",
+      "ok": true,
+      "eventCount": 0,
+      "keptCount": 0,
+      "error": null,
+      "usedFallback": false
+    },
+    {
+      "id": "dev-events",
+      "name": "dev.events – Marseille",
+      "kind": "auto",
+      "ok": true,
+      "eventCount": 3,
+      "keptCount": 1,
+      "error": null,
+      "usedFallback": false
+    },
+    {
+      "id": "meetup-marseille",
+      "name": "Meetup – Marseille tech",
+      "kind": "auto",
+      "ok": true,
+      "eventCount": 10,
+      "keptCount": 3,
+      "error": null,
+      "usedFallback": false
+    },
+    {
       "id": "lpo-paca",
       "name": "LPO PACA – sorties nature",
       "kind": "auto",
@@ -2270,7 +3543,7 @@
       "ok": false,
       "eventCount": 0,
       "keptCount": 0,
-      "error": "Réseau injoignable (Connect Timeout Error (attempted addresses: 185.128.239.11:443, 185.128.239.10:443, timeout: 10000ms)) sur https://andromede.id.st/",
+      "error": "Réseau injoignable (Connect Timeout Error (attempted addresses: 185.128.239.10:443, 185.128.239.11:443, timeout: 10000ms)) sur https://andromede.id.st/",
       "usedFallback": false
     },
     {
