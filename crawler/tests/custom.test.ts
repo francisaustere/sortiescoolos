@@ -45,6 +45,24 @@ describe("custom parsers on real pages", () => {
   });
 });
 
+describe("Friche and short films", () => {
+  it("reads the Friche agenda list", () => {
+    const { raw, kept } = run("friche");
+    const mawahub = raw.find((e) => e.title.startsWith("Mawahub"));
+    expect(mawahub?.start).toBe("2026-11-03T08:00:00.000Z");
+    expect(mawahub?.priceText).toBe("Entrée libre");
+    expect(raw.length).toBe(29);
+    expect(raw.find((e) => e.title.startsWith("Unworlding"))?.end).toMatch(/^2026-11-/);
+    expect(kept.length).toBeGreaterThan(15);
+  });
+  it("reads the next short-film session", () => {
+    const { raw } = run("courts-apres-midi");
+    expect(raw).toHaveLength(1);
+    expect(raw[0]?.start).toBe("2026-11-07T15:00:00.000Z");
+    expect(raw[0]?.description).toContain("Betbeder");
+  });
+});
+
 describe("Vortex", () => {
   const venues = parseVortexVenues(fixture("vortex"));
   it("reads the venue directory", () => {

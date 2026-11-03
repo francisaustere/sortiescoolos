@@ -31,6 +31,8 @@
         <template v-else>{{ event.title }}</template>
       </h3>
 
+      <p v-if="untilLabel" class="mt-0.5 text-xs font-medium text-sea">{{ t("event.until", { date: untilLabel }) }}</p>
+
       <p class="mt-0.5 text-sm text-[var(--muted)]">
         {{ [event.venueName, event.commune !== "Marseille" ? event.commune : null, event.priceText].filter(Boolean).join(" · ") }}
       </p>
@@ -57,6 +59,13 @@ import { dayKey, formatDayLabel, formatTime } from "@/utils/date.utils";
 const props = defineProps<{ event: SortieEvent; showDay?: boolean }>();
 
 const { t } = useI18n();
+
+// Multi-day events (exhibitions, festivals) show their last day
+const untilLabel = computed(() => {
+  if (!props.event.end) return null;
+  const endKey = dayKey(props.event.end);
+  return endKey > dayKey(props.event.start) ? formatDayLabel(endKey) : null;
+});
 
 const dayShort = computed(() => formatDayLabel(dayKey(props.event.start)).split(" ").slice(0, 3).join(" "));
 </script>

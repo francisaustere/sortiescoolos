@@ -13,7 +13,7 @@ export const SOURCES: SourceConfig[] = [
   {
     id: "marseille-tourisme", name: "Office de tourisme de Marseille", kind: "auto",
     url: "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/",
-    venueTags: [], requireLocalMatch: true, enabled: true, maxFollow: 120,
+    venueTags: [], requireLocalMatch: true, enabled: true, maxFollow: 120, snapshot: true,
     note: "Couvre presque tous les lieux (base Apidae). Source pivot.",
   },
   {
@@ -37,7 +37,7 @@ export const SOURCES: SourceConfig[] = [
   {
     id: "le-talus", name: "Le Talus", kind: "auto", url: "https://www.letalus.com/event-details/programmation",
     venueTags: ["tiers_lieu", "planque", "nature"], defaultCategories: ["fete"],
-    defaultVenue: { name: "Le Talus", address: "Marseille 12e", commune: MARSEILLE }, enabled: true,
+    defaultVenue: { name: "Le Talus", address: "Marseille 12e", commune: MARSEILLE }, enabled: true, snapshot: true,
     note: "Site Wix. Le lieu rétrécit (travaux LNPCA), projet « Talus 2027 » à suivre.",
   },
   {
@@ -51,7 +51,7 @@ export const SOURCES: SourceConfig[] = [
     defaultVenue: { name: "Cité des arts de la rue", address: "225 av. des Aygalades, 13015 Marseille", commune: MARSEILLE }, enabled: true,
   },
   {
-    id: "friche", name: "Friche la Belle de Mai", kind: "auto", url: "https://www.lafriche.org/agenda/",
+    id: "friche", name: "Friche la Belle de Mai", kind: "custom", url: "https://www.lafriche.org/agenda/",
     venueTags: ["tiers_lieu"], defaultVenue: { name: "Friche la Belle de Mai", address: "41 rue Jobin, 13003 Marseille", commune: MARSEILLE }, enabled: true,
   },
   {
@@ -243,11 +243,12 @@ export const SOURCES: SourceConfig[] = [
   },
   {
     id: "museum", name: "Muséum d'histoire naturelle", kind: "auto", url: "https://musees.marseille.fr/museum-dhistoire-naturelle-de-marseille-mhnm",
+    note: "Le site de la Ville ne répond pas aux serveurs GitHub (délai dépassé). Ses événements passent par l'office de tourisme.",
     venueTags: ["nature"], defaultCategories: ["sciences"],
-    defaultVenue: { name: "Muséum d'histoire naturelle", address: "Palais Longchamp, 13004 Marseille", commune: MARSEILLE }, enabled: true,
+    defaultVenue: { name: "Muséum d'histoire naturelle", address: "Palais Longchamp, 13004 Marseille", commune: MARSEILLE }, enabled: false,
   },
   {
-    id: "courts-apres-midi", name: "Des courts l'après-midi", kind: "auto", url: "https://descourtslapresmidi.fr/",
+    id: "courts-apres-midi", name: "Des courts l'après-midi", kind: "custom", url: "https://descourtslapresmidi.fr/",
     venueTags: ["planque"], defaultCategories: ["cinema"],
     defaultVenue: { name: "Vieille Charité", address: "2 rue de la Charité, 13002 Marseille", commune: MARSEILLE }, enabled: true,
   },

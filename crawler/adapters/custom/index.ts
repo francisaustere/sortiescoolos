@@ -1,6 +1,8 @@
 import type { RawEvent } from "@shared/event";
 import type { Adapter, AdapterResult, HttpClient } from "../../types";
+import { parseCourtsApresMidi } from "./courtsApresMidi";
 import { parseEventPost } from "./eventPost";
+import { parseFriche } from "./friche";
 import { parseLesTheatres } from "./lesTheatres";
 import { parseMilleBabords } from "./milleBabords";
 import { parseMolotov } from "./molotov";
@@ -20,6 +22,8 @@ export const CUSTOM_PARSERS: Record<string, HtmlParser> = {
   "molotov": parseMolotov,
   "les-theatres": parseLesTheatres,
   "videodrome2": parseEventPost,
+  "friche": parseFriche,
+  "courts-apres-midi": parseCourtsApresMidi,
 };
 
 const customAdapter: Adapter = async (source, http) => {

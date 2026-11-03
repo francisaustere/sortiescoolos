@@ -20,6 +20,8 @@ export interface SourceConfig {
   /** Aggregators covering a wide area must prove the event is in our communes. */
   readonly requireLocalMatch?: boolean;
   readonly enabled: boolean;
+  /** Always save the page HTML (to write or refine a reader), even when events were found. */
+  readonly snapshot?: boolean;
   /** Free note on reliability, why it is disabled, etc. */
   readonly note?: string;
 }

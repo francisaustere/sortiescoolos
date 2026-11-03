@@ -127,7 +127,7 @@ async function main(): Promise<void> {
     for (const [index, source] of group.entries()) {
       if (index > 0) await sleep(SAME_HOST_DELAY_MS);
       const outcome = await runSource(source, window, previous);
-      if (outcome.report.ok && outcome.report.eventCount === 0) await saveSnapshot(source);
+      if (outcome.report.ok && (outcome.report.keptCount === 0 || source.snapshot)) await saveSnapshot(source);
       results.push(outcome);
     }
     return results;

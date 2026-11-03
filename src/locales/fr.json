@@ -25,6 +25,7 @@
   },
   "event": {
     "allDay": "Toute la journée",
+    "until": "Jusqu'au {date}",
     "free": "Gratuit",
     "gem": "Pépite",
     "coeur": "Coup de cœur",
