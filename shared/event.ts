@@ -5,6 +5,7 @@ export const CATEGORIES = [
   "slam",
   "spectacle",
   "conference",
+  "sciences",
   "festival",
   "nature",
   "makers",

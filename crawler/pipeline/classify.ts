@@ -5,6 +5,7 @@ import { includesPattern, normalizeText } from "./text.utils";
 const CATEGORY_PATTERNS: [Category, string[]][] = [
   ["slam", ["slam", "poesie", "open mic", "scene ouverte", "spoken word", "lecture poetique"]],
   ["conference", ["conference", "debat", "table ronde", "rencontre avec", "causerie", "seminaire", "colloque", "universite populaire", "presentation du livre", "dedicace"]],
+  ["sciences", ["science", "scientifique", "astrophysique", "neuroscience", "pint of science", "chercheur", "chercheuse", "sciences sociales", "biodiversite", "mathematique"]],
   ["nature", ["balade", "randonnee", "sortie nature", "oiseaux", "ornitho", "etoiles", "astronom", "observation du ciel", "chauves souris", "nuit de la chouette", "jardin"]],
   ["makers", ["fablab", "atelier", "repair cafe", "maker", "bricolage", "impression 3d", "electronique"]],
   ["festival", ["festival", "biennale", "fiesta", "rencontres d"]],

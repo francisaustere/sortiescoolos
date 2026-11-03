@@ -70,6 +70,14 @@ describe("wp-tribe adapter", () => {
   });
 });
 
+describe("sciences", () => {
+  it("tags a Pint of Science talk as sciences and scores it", () => {
+    const talk = normalize({ title: "Pint of Science : neurosciences et sommeil", start: "2026-11-20T19:30:00", address: "13001 Marseille" }, { ...SOURCE, venueTags: [] }, WINDOW);
+    expect(talk?.categories).toContain("sciences");
+    expect(talk?.scoreReasons).toContain("sciences");
+  });
+});
+
 describe("reddit adapter", () => {
   it("keeps only recent event-like posts", () => {
     const now = Date.parse("2026-11-03T12:00:00Z");

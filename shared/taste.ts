@@ -5,7 +5,8 @@ import type { Category, VenueTag } from "./event";
  * Edit freely: this is the main knob for the "coup de cœur" score.
  */
 export const TASTE_KEYWORDS: { label: string; weight: number; patterns: string[] }[] = [
-  { label: "sociologie", weight: 3, patterns: ["sociolog", "bourdieu", "sciences sociales", "ethnograph", "anthropolog"] },
+  { label: "sociologie", weight: 3, patterns: ["sociolog", "bourdieu", "sciences sociales", "sciences humaines", "ehess", "ethnograph", "anthropolog", "allez savoir"] },
+  { label: "sciences", weight: 2, patterns: ["science", "scientifique", "chercheur", "chercheuse", "astrophysi", "neuroscien", "biodiversit", "physique", "biologie", "climat", "écologie scientifique", "pint of science", "fête de la science", "mathémati", "cerveau", "génétique"] },
   { label: "histoire", weight: 2, patterns: ["histoire", "historien", "mémoire", "archives", "colonial"] },
   { label: "politique", weight: 3, patterns: ["politique", "luttes", "lutte", "féminis", "antiracis", "syndica", "écologie politique", "anticapital", "marxis", "commun", "solidarit", "palestin", "migrations", "décolonial", "autogestion", "éducation populaire", "université populaire"] },
   { label: "débat", weight: 2, patterns: ["conférence", "débat", "rencontre", "table ronde", "discussion", "projection-débat", "causerie"] },
@@ -29,6 +30,7 @@ export const VENUE_TAG_WEIGHTS: Record<VenueTag, number> = {
 
 export const CATEGORY_WEIGHTS: Partial<Record<Category, number>> = {
   conference: 2,
+  sciences: 2,
   slam: 2,
   nature: 2,
   makers: 1,

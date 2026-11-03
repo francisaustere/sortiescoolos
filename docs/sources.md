@@ -41,6 +41,18 @@ le **format** de chaque agenda (JSON-LD, calendrier, API WordPress) sera confirm
 | Bureau des guides du GR2013 | Balades artistiques | Oct. 2026 |
 | r/marseille | Fil « à surveiller » | — |
 
+## Festivals annuels à ne pas rater (sciences et sciences sociales)
+
+Ils remontent via l'office de tourisme et OpenAgenda quand ils entrent dans la fenêtre de 45 jours.
+
+| Festival | Quand | Où |
+|---|---|---|
+| **Allez Savoir – festival des sciences sociales** (EHESS + Ville) | Fin septembre (2026 : 24-26 sept., thème « L'argent ») | Vieille Charité, Alcazar, musées. Majoritairement gratuit |
+| Fête de la science / Festival des sciences de Marseille | Début octobre (2026 : 10-11 oct.) | Divers lieux |
+| Nuit de la science (AMU) | Début octobre (2026 : 2 oct.) | Théâtre de l'Odéon, gratuit |
+| Pint of Science | Mi-mai (2026 : 18-20 mai) | Bars du centre, ~2 € |
+| Nouvelles Rencontres d'Averroès | Fin octobre | Divers lieux |
+
 ## Fermés ou à exclure
 
 | Lieu | Statut |

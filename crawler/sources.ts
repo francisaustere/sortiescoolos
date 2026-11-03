@@ -155,6 +155,14 @@ export const SOURCES: SourceConfig[] = [
     defaultVenue: { name: "Bibliothèque de l'Alcazar", address: "58 cours Belsunce, 13001 Marseille", commune: MARSEILLE }, enabled: true,
   },
 
+  // ---- Sciences & sciences sociales
+  {
+    id: "fete-science", name: "Fête de la science – Marseille", kind: "auto",
+    url: "https://www.fetedelascience.fr/festival-des-sciences-de-marseille-2026",
+    venueTags: [], defaultCategories: ["sciences"], requireLocalMatch: true, enabled: true,
+    note: "Annuel (octobre). Page à mettre à jour chaque année.",
+  },
+
   // ---- Cinéma associatif
   {
     id: "videodrome2", name: "Vidéodrome 2", kind: "auto", url: "https://www.videodrome2.fr/",
