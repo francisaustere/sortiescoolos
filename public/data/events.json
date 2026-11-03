@@ -1,7 +1,491 @@
 {
-  "generatedAt": "2026-11-03T20:06:26.654Z",
+  "generatedAt": "2026-11-03T20:09:45.646Z",
   "windowDays": 45,
   "events": [
+    {
+      "id": "b06a276c61db",
+      "title": "| + Mumuse (electro noise) acoustique sur acousmonium) LA SOCIETE ETRANGE & Lab El 9 sta le :",
+      "start": "2026-11-02T23:00:00.000Z",
+      "end": null,
+      "allDay": true,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": "La Société étrange",
+      "address": "100 bd de la Libération , 13004 Marseille",
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 2,
+      "scoreReasons": [
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "88bca95d96f5",
+      "title": ", 2 GRÈVE INTER + tattoo et bjoux + teeshirt 48h50 - entrée libre Laura Bolt LL",
+      "start": "2026-11-02T23:00:00.000Z",
+      "end": null,
+      "allDay": true,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": true,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 6,
+      "scoreReasons": [
+        "politique",
+        "prix libre",
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "67666ddd9550",
+      "title": "L'INTERMÉBIAIRE sérigraphie . Transmision In Silver",
+      "start": "2026-11-02T23:00:00.000Z",
+      "end": null,
+      "allDay": true,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 2,
+      "scoreReasons": [
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "3524b5cb3579",
+      "title": "az qui PROFESSIONNELLE (synthimental wave) + Its From Above",
+      "start": "2026-11-02T23:00:00.000Z",
+      "end": null,
+      "allDay": true,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 2,
+      "scoreReasons": [
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "fdd578419f3f",
+      "title": "outien cantine solidaire",
+      "start": "2026-11-02T23:00:00.000Z",
+      "end": null,
+      "allDay": true,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 2,
+      "scoreReasons": [
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "f35254fe30d2",
+      "title": "+ street médics + Marie Deback VS Stereo-",
+      "start": "2026-11-02T23:00:00.000Z",
+      "end": null,
+      "allDay": true,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 2,
+      "scoreReasons": [
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "82e323ab3fc1",
+      "title": "CR ce) LOLLIP@P Mariad (bass/break dub) void (bricorages, dj set) LE MOLOTOV",
+      "start": "2026-11-02T23:00:00.000Z",
+      "end": null,
+      "allDay": true,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": "Le Molotov",
+      "address": "3, place Paul Cézanne , 13006 Marseille",
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 2,
+      "scoreReasons": [
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "9d6e5faf4b09",
+      "title": "+ Cod (urbago bop) 49h - entrée libre (all styles)",
+      "start": "2026-11-02T23:00:00.000Z",
+      "end": null,
+      "allDay": true,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": true,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 3,
+      "scoreReasons": [
+        "prix libre",
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "56b276179dae",
+      "title": "L'INTERMÉDIAIRE LE MOLOTOV LA MAISON HANTÉE se,",
+      "start": "2026-11-02T23:00:00.000Z",
+      "end": null,
+      "allDay": true,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": "La Maison hantée",
+      "address": "10, rue Vian , 13006 Marseille",
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 2,
+      "scoreReasons": [
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "1963d68d63a4",
+      "title": "Kalao (tropicale / Afro house) UNDR bloc (rap)",
+      "start": "2026-11-02T23:00:00.000Z",
+      "end": null,
+      "allDay": true,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 2,
+      "scoreReasons": [
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "28be2c32936c",
+      "title": "+ 2st Century Beatnixx man E.T. Crew (bass music) La complainte de Fantômas",
+      "start": "2026-11-02T23:00:00.000Z",
+      "end": null,
+      "allDay": true,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 2,
+      "scoreReasons": [
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "c056ecacf193",
+      "title": "(rock electro) + Gremiins (Shatta / dance- DATA Papi",
+      "start": "2026-11-02T23:00:00.000Z",
+      "end": null,
+      "allDay": true,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": "Data",
+      "address": "44, rue des Bons Enfants , 13006 Marseille",
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 2,
+      "scoreReasons": [
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "de4e33278043",
+      "title": "+ BOT (scénario d'anticipation (impro guitare expé) CASA CONSOLAT",
+      "start": "2026-11-02T23:00:00.000Z",
+      "end": null,
+      "allDay": true,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": "Casa Consolat",
+      "address": "1, rue Consolat , 13001 Marseille",
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 2,
+      "scoreReasons": [
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "9d78ff73b4b3",
+      "title": "dansé) 49h - 3/9€ Fameless (performances drag,",
+      "start": "2026-11-02T23:00:00.000Z",
+      "end": null,
+      "allDay": true,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": "9€",
+      "isFree": false,
+      "categories": [
+        "concert",
+        "spectacle"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 2,
+      "scoreReasons": [
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "955f02887f80",
+      "title": "45h - 5/8€",
+      "start": "2026-11-02T23:00:00.000Z",
+      "end": null,
+      "allDay": true,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": "8€",
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 2,
+      "scoreReasons": [
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
     {
       "id": "f734811c0ab8",
       "title": "Ouverture du jardin de la cascade des Aygalades",
@@ -30,7 +514,8 @@
           "id": "marseille-tourisme",
           "name": "Office de tourisme de Marseille"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "cb906c7ec20b",
@@ -57,7 +542,8 @@
           "id": "marseille-tourisme",
           "name": "Office de tourisme de Marseille"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "82deaf87e338",
@@ -86,7 +572,8 @@
           "id": "les-theatres",
           "name": "Les Théâtres (Bernardines, Gymnase…)"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "55196651b8e4",
@@ -117,7 +604,274 @@
           "id": "videodrome2",
           "name": "Vidéodrome 2"
         }
-      ]
+      ],
+      "approximate": false
+    },
+    {
+      "id": "e779af36fa6a",
+      "title": "2h -5€ hall) + CKL (UK Garage) Erica Dawn Lyle “tarifne",
+      "start": "2026-11-03T01:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": "5€",
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 2,
+      "scoreReasons": [
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "67f2de5ac1d7",
+      "title": "9h00 + Télécastré (plouc punk) Oreille concrète (électro ne LAse L'ARGENT",
+      "start": "2026-11-03T08:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 2,
+      "scoreReasons": [
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "353783446a1f",
+      "title": "Jam jezz qui dérape 18h ouverture - 20h concert LA MERVEILLEUSE + Hélène et le Garçon a [",
+      "start": "2026-11-03T17:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": "La Merveilleuse",
+      "address": "18, place Notre,Dame du Mont , 13006 Marseille",
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 2,
+      "scoreReasons": [
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "163e2bea2041",
+      "title": "20h - entrée libre Départ 10h50 - Réformés 4€ Souti ti lidai (poésie expansée) 1h - prix libre",
+      "start": "2026-11-03T19:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": "4€",
+      "isFree": true,
+      "categories": [
+        "slam",
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 8,
+      "scoreReasons": [
+        "slam / poésie",
+        "prix libre",
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "63aeda18b3e2",
+      "title": "Piedebiche (post-punk) + Goodju (global bass) + Hu- 20h - prix libre ARCHIPEL 49",
+      "start": "2026-11-03T19:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": "prix libre",
+      "isFree": true,
+      "categories": [
+        "concert",
+        "fete"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 3,
+      "scoreReasons": [
+        "prix libre",
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "caacce2399ca",
+      "title": "20h - 6/10€ cabaret, chant et lecture)",
+      "start": "2026-11-03T19:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": "10€",
+      "isFree": false,
+      "categories": [
+        "concert",
+        "spectacle"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 2,
+      "scoreReasons": [
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "0a5b199a73a9",
+      "title": "Festival de La Cimade - Novembre Décembre 2026",
+      "start": "2026-11-03T20:04:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://www.millebabords.org/spip.php?article42410",
+      "venueName": "Un peu partout dans Marseille... et partout en France.",
+      "address": "Un peu partout dans Marseille... et partout en France.",
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "festival"
+      ],
+      "venueTags": [
+        "militant",
+        "planque"
+      ],
+      "score": 5,
+      "scoreReasons": [
+        "festival",
+        "lieu militant",
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "mille-babords",
+          "name": "Mille Bâbords"
+        }
+      ],
+      "approximate": false
+    },
+    {
+      "id": "8aa6fc20e210",
+      "title": "Le poil de la bête (folk) 22h - entrée libre 20h - 5/7€ Up Town Music Band",
+      "start": "2026-11-03T21:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": "7€",
+      "isFree": true,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 3,
+      "scoreReasons": [
+        "prix libre",
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
     },
     {
       "id": "29d2cf78b0a2",
@@ -148,7 +902,8 @@
           "id": "videodrome2",
           "name": "Vidéodrome 2"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "e338d951363e",
@@ -179,7 +934,8 @@
           "id": "videodrome2",
           "name": "Vidéodrome 2"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "2274e32682b5",
@@ -207,7 +963,8 @@
           "id": "molotov",
           "name": "Le Molotov / Le Dodu"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "f60a64f53497",
@@ -241,7 +998,8 @@
           "id": "mille-babords",
           "name": "Mille Bâbords"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "79e89f966a3a",
@@ -275,7 +1033,8 @@
           "id": "mille-babords",
           "name": "Mille Bâbords"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "409b39097ed1",
@@ -302,7 +1061,8 @@
           "id": "songkick-marseille",
           "name": "Songkick – concerts Marseille"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "62243fe1d18c",
@@ -331,7 +1091,8 @@
           "id": "espace-julien",
           "name": "L'Espace Julien"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "e75bc5167f58",
@@ -366,7 +1127,8 @@
           "id": "intermediaire",
           "name": "L'Intermédiaire"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "851d7d7d6104",
@@ -399,7 +1161,8 @@
           "id": "mille-babords",
           "name": "Mille Bâbords"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "c2ec8239d064",
@@ -433,7 +1196,8 @@
           "id": "mille-babords",
           "name": "Mille Bâbords"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "2fc6fa4a640e",
@@ -467,7 +1231,8 @@
           "id": "mille-babords",
           "name": "Mille Bâbords"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "9df2eed67dc9",
@@ -494,7 +1259,8 @@
           "id": "meetup-marseille",
           "name": "Meetup – Marseille tech"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "fba4d129b57d",
@@ -521,7 +1287,8 @@
           "id": "molotov",
           "name": "Le Molotov / Le Dodu"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "06a1813602b9",
@@ -550,7 +1317,8 @@
           "id": "marseille-tourisme",
           "name": "Office de tourisme de Marseille"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "08a4ae85034f",
@@ -584,7 +1352,8 @@
           "id": "mille-babords",
           "name": "Mille Bâbords"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "545240a53b24",
@@ -611,7 +1380,8 @@
           "id": "songkick-marseille",
           "name": "Songkick – concerts Marseille"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "e2a31b52d093",
@@ -638,7 +1408,8 @@
           "id": "espace-julien",
           "name": "L'Espace Julien"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "494ca0f785cb",
@@ -672,7 +1443,8 @@
           "id": "mille-babords",
           "name": "Mille Bâbords"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "679cde2da4d2",
@@ -699,7 +1471,8 @@
           "id": "songkick-marseille",
           "name": "Songkick – concerts Marseille"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "0341afdce44b",
@@ -726,7 +1499,8 @@
           "id": "songkick-marseille",
           "name": "Songkick – concerts Marseille"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "174c957de116",
@@ -753,7 +1527,8 @@
           "id": "songkick-marseille",
           "name": "Songkick – concerts Marseille"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "d3b2599ae382",
@@ -780,7 +1555,8 @@
           "id": "molotov",
           "name": "Le Molotov / Le Dodu"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "d9c198ad89c1",
@@ -808,7 +1584,8 @@
           "id": "molotov",
           "name": "Le Molotov / Le Dodu"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "77dab4766448",
@@ -835,7 +1612,8 @@
           "id": "songkick-marseille",
           "name": "Songkick – concerts Marseille"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "e5ddefd893e0",
@@ -862,7 +1640,8 @@
           "id": "songkick-marseille",
           "name": "Songkick – concerts Marseille"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "a25a83bf8e75",
@@ -889,7 +1668,8 @@
           "id": "songkick-marseille",
           "name": "Songkick – concerts Marseille"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "ecd3f02b51a9",
@@ -920,7 +1700,8 @@
           "id": "marseille-tourisme",
           "name": "Office de tourisme de Marseille"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "eb2d7c0886ac",
@@ -947,7 +1728,8 @@
           "id": "songkick-marseille",
           "name": "Songkick – concerts Marseille"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "35583ce07dee",
@@ -982,7 +1764,8 @@
           "id": "mille-babords",
           "name": "Mille Bâbords"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "4e7ca0d0e13f",
@@ -1017,7 +1800,8 @@
           "id": "mille-babords",
           "name": "Mille Bâbords"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "19aa503becfc",
@@ -1047,7 +1831,8 @@
           "id": "songkick-marseille",
           "name": "Songkick – concerts Marseille"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "bb127d75576c",
@@ -1081,7 +1866,8 @@
           "id": "mille-babords",
           "name": "Mille Bâbords"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "77e3e9e350ff",
@@ -1108,7 +1894,8 @@
           "id": "songkick-marseille",
           "name": "Songkick – concerts Marseille"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "a215670ca6a7",
@@ -1135,7 +1922,8 @@
           "id": "songkick-marseille",
           "name": "Songkick – concerts Marseille"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "fce7355c5698",
@@ -1162,7 +1950,8 @@
           "id": "molotov",
           "name": "Le Molotov / Le Dodu"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "e1efe0aff804",
@@ -1189,7 +1978,8 @@
           "id": "songkick-marseille",
           "name": "Songkick – concerts Marseille"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "6a42a14a0e62",
@@ -1216,7 +2006,8 @@
           "id": "songkick-marseille",
           "name": "Songkick – concerts Marseille"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "5b88ab949d73",
@@ -1243,7 +2034,8 @@
           "id": "molotov",
           "name": "Le Molotov / Le Dodu"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "80a4bee11953",
@@ -1270,7 +2062,8 @@
           "id": "songkick-marseille",
           "name": "Songkick – concerts Marseille"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "03db43bf37e2",
@@ -1297,7 +2090,8 @@
           "id": "songkick-marseille",
           "name": "Songkick – concerts Marseille"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "0123c4cae634",
@@ -1324,7 +2118,8 @@
           "id": "espace-julien",
           "name": "L'Espace Julien"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "87f5bf3f1b33",
@@ -1357,7 +2152,727 @@
           "id": "mille-babords",
           "name": "Mille Bâbords"
         }
-      ]
+      ],
+      "approximate": false
+    },
+    {
+      "id": "c094ca358176",
+      "title": "L'IBÉALISTE",
+      "start": "2026-11-08T23:00:00.000Z",
+      "end": null,
+      "allDay": true,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 2,
+      "scoreReasons": [
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "e20b0b836e95",
+      "title": "CONSERVAT@IRE LEBA AT@MICA VENDREDI 13 LA MAISON HANTÉE SAMEDI 14 Festival Chaos Magique",
+      "start": "2026-11-08T23:00:00.000Z",
+      "end": null,
+      "allDay": true,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": "La Maison hantée",
+      "address": "10, rue Vian , 13006 Marseille",
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "festival",
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 4,
+      "scoreReasons": [
+        "festival",
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "2d057bbc0210",
+      "title": "Hybride #2 Why dliens why ? (noisecore) Grégoire Garigue Muchmuche Company",
+      "start": "2026-11-08T23:00:00.000Z",
+      "end": null,
+      "allDay": true,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 2,
+      "scoreReasons": [
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "fecc9c34db71",
+      "title": "(sax & électroacoustique) + Corium (nuclear deathcrust) LOLLIPOP (rock Sicteen) LES 9 SALOPARBS (cirque-chorégraphique & mu-",
+      "start": "2026-11-08T23:00:00.000Z",
+      "end": null,
+      "allDay": true,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert",
+        "spectacle"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 2,
+      "scoreReasons": [
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "855110793268",
+      "title": "49h - entrée libre 20h-5€ VIBEOBROME 2 CR SE au peux 1h -10/15€",
+      "start": "2026-11-08T23:00:00.000Z",
+      "end": null,
+      "allDay": true,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": "5€",
+      "isFree": true,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 3,
+      "scoreReasons": [
+        "prix libre",
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "1023461f5a43",
+      "title": "LA CAMARABERIE Projection du film Electronic e U",
+      "start": "2026-11-08T23:00:00.000Z",
+      "end": null,
+      "allDay": true,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert",
+        "cinema"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 2,
+      "scoreReasons": [
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "c7cea622c56c",
+      "title": "LES 9 SAL@PARBS Festival Dreamachine Body Movie SYSTÈME C LE N@N-LIE",
+      "start": "2026-11-08T23:00:00.000Z",
+      "end": null,
+      "allDay": true,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "festival",
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 4,
+      "scoreReasons": [
+        "festival",
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "1d34b851d2d3",
+      "title": "(électroacoustique) (thrashcore) 4h - entrée libre + : Orchidée Cosmique electro viscéral)",
+      "start": "2026-11-09T03:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": true,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 3,
+      "scoreReasons": [
+        "prix libre",
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "58e1e97985bf",
+      "title": "+ Signal/bruit + The Butcher Project Gami (rock indé) 20h - prix libre Mother Medusa (noise rock) sique) + Deadwood (blues",
+      "start": "2026-11-09T19:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": "prix libre",
+      "isFree": true,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 3,
+      "scoreReasons": [
+        "prix libre",
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "653ca0017fe2",
+      "title": "(duorock brut) Gaouta live : + Radical Kitten 49h30 - prix libre Brouhah ‘ … Rascal Saloon",
+      "start": "2026-11-09T23:00:00.000Z",
+      "end": null,
+      "allDay": true,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": "prix libre",
+      "isFree": true,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 3,
+      "scoreReasons": [
+        "prix libre",
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "144be38d2c63",
+      "title": "+ Cul-cultura (synthpunk) + Cheikha + Adarab “er anarmonia (Irish western / folk xp)",
+      "start": "2026-11-09T23:00:00.000Z",
+      "end": null,
+      "allDay": true,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 2,
+      "scoreReasons": [
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "2059637d90b0",
+      "title": "Catchy Peril TBT (live EBM) + Jauzas The il",
+      "start": "2026-11-09T23:00:00.000Z",
+      "end": null,
+      "allDay": true,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 2,
+      "scoreReasons": [
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "07fbcd67ec30",
+      "title": "ré h dilettante",
+      "start": "2026-11-09T23:00:00.000Z",
+      "end": null,
+      "allDay": true,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 2,
+      "scoreReasons": [
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "ef56a67215f3",
+      "title": "(nuclear post punk) LA SOCIÉTÉ ÉTRANGE LEBA AT@MICA Gina (re ÉBTD + Sea (pioue DA) BRASSERIE",
+      "start": "2026-11-09T23:00:00.000Z",
+      "end": null,
+      "allDay": true,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": "La Société étrange",
+      "address": "100 bd de la Libération , 13004 Marseille",
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 2,
+      "scoreReasons": [
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "83486e6ce94b",
+      "title": "VIBEO@BROME 2 Lasso (perf magnétonirique) + Jostle (rock alt) + Armor&Murmur",
+      "start": "2026-11-09T23:00:00.000Z",
+      "end": null,
+      "allDay": true,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 2,
+      "scoreReasons": [
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "a572593e1e30",
+      "title": "(live electroacoustique) , DATA (rap emo / trap) + Dima Midborn (avant-rock) É",
+      "start": "2026-11-09T23:00:00.000Z",
+      "end": null,
+      "allDay": true,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": "Data",
+      "address": "44, rue des Bons Enfants , 13006 Marseille",
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 2,
+      "scoreReasons": [
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "0347b5a53387",
+      "title": "(label TSSS Tapes) Pyrex (punk) (clarinette électro-acoustique) live)+ CheapJewels (live) Set Catena (metal)",
+      "start": "2026-11-09T23:00:00.000Z",
+      "end": null,
+      "allDay": true,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 2,
+      "scoreReasons": [
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "912310466998",
+      "title": "49h30 - prix libre + Traumatizer (punk) + PHOS Athanathos + Kayla (dj set) LEBA ATOMICA + Odil (metal)",
+      "start": "2026-11-09T23:00:00.000Z",
+      "end": null,
+      "allDay": true,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": "prix libre",
+      "isFree": true,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 3,
+      "scoreReasons": [
+        "prix libre",
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "e0d5d5f92bb0",
+      "title": "Jam jazz qui dérape CASA CONS@LAT \" UNIX (noise) LA BAR, CENTRE S@CIAL",
+      "start": "2026-11-09T23:00:00.000Z",
+      "end": null,
+      "allDay": true,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 2,
+      "scoreReasons": [
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "beb9978ee031",
+      "title": "Rats Don't Sink Mehdi Black Wind (rap) (ateliers parole / écriture) Karaoké de soutien",
+      "start": "2026-11-09T23:00:00.000Z",
+      "end": null,
+      "allDay": true,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "makers",
+        "concert",
+        "fete"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 5,
+      "scoreReasons": [
+        "makers",
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "cec79c04a736",
+      "title": "L@LLIP@P 2h -5€ 49h - prix libre DANCETERIA (per ny Lacone 20h30 - 10/HE",
+      "start": "2026-11-10T01:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": "5€",
+      "isFree": true,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 3,
+      "scoreReasons": [
+        "prix libre",
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "9c7f4e5fd39f",
+      "title": "L'INTERMÉBIAIRE 2h-5€ 9h - 9€ + zek (pastrock noise)",
+      "start": "2026-11-10T01:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": "5€",
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 2,
+      "scoreReasons": [
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
     },
     {
       "id": "2dfaf082f2ff",
@@ -1391,7 +2906,74 @@
           "id": "mille-babords",
           "name": "Mille Bâbords"
         }
-      ]
+      ],
+      "approximate": false
+    },
+    {
+      "id": "fce3d3f542a1",
+      "title": "19h - entrée libre AAA (violonoise/ proj / radio Nova Shapers + Rawdive (live EBM) + dj sets + Fita (dj set) COMMUNALE",
+      "start": "2026-11-10T18:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": true,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 6,
+      "scoreReasons": [
+        "politique",
+        "prix libre",
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "ec0fb1d3b086",
+      "title": "+ install interactive L'INTERMÉBIAIRE Joao Orecchia Feufou (dj set) + Creamy G 19h - 3/9€ LA MAISON HANTÉE",
+      "start": "2026-11-10T18:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": "La Maison hantée",
+      "address": "10, rue Vian , 13006 Marseille",
+      "commune": "Marseille",
+      "image": null,
+      "priceText": "9€",
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 2,
+      "scoreReasons": [
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
     },
     {
       "id": "93d663c6464c",
@@ -1418,7 +3000,8 @@
           "id": "songkick-marseille",
           "name": "Songkick – concerts Marseille"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "433d2d89d71b",
@@ -1445,7 +3028,8 @@
           "id": "songkick-marseille",
           "name": "Songkick – concerts Marseille"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "2b6e7bf9cb8f",
@@ -1472,7 +3056,8 @@
           "id": "molotov",
           "name": "Le Molotov / Le Dodu"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "da09c1564bf3",
@@ -1499,7 +3084,529 @@
           "id": "espace-julien",
           "name": "L'Espace Julien"
         }
-      ]
+      ],
+      "approximate": false
+    },
+    {
+      "id": "e3c8b099083b",
+      "title": "Acousmodrome : + Impro(bable) 20h - 5/7€ LE M@L@T@V (industrial doom ritual)",
+      "start": "2026-11-10T19:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": "7€",
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 2,
+      "scoreReasons": [
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "cca46c0b46bb",
+      "title": "Observations Microsoniques 20h - 5€ Fièvre : mention très fièr.es iturs NE pop) 21h - entrée libre",
+      "start": "2026-11-10T19:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": "5€",
+      "isFree": true,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 3,
+      "scoreReasons": [
+        "prix libre",
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "8cafe83c6991",
+      "title": ", + Screaming eyes (hardcore) (sons, gestes et lumières) 20h - 6/12€ L . k 20h - prix libre",
+      "start": "2026-11-10T19:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": "12€",
+      "isFree": true,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 3,
+      "scoreReasons": [
+        "prix libre",
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "108d77045c5f",
+      "title": "20h - entrée libre LE M@LOT@V L'EMBOBINEUSE Body revolution 20h -7€ AUT@GÉRÉ",
+      "start": "2026-11-10T19:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": "L’Embobineuse",
+      "address": "11, boulevad Bouès , 13003 Marseille",
+      "commune": "Marseille",
+      "image": null,
+      "priceText": "7€",
+      "isFree": true,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 3,
+      "scoreReasons": [
+        "prix libre",
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "26345b924e08",
+      "title": "thérémine) + Canari Sans (rock & cosmic drive) 22h/6h - 10€ 20h - prix libre Towel (hardcore métal)",
+      "start": "2026-11-10T21:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": "10€",
+      "isFree": true,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 3,
+      "scoreReasons": [
+        "prix libre",
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "bbfe30f3342f",
+      "title": "(hardcore punk) + Blaze Sth (rap) + Open Mic Poétique + repas MANIFESTEN à la grève des femmes de",
+      "start": "2026-11-10T23:00:00.000Z",
+      "end": null,
+      "allDay": true,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": "Manifesten",
+      "address": "59, rue Adolphe Thiers , 13001 Marseille",
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "slam",
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 10,
+      "scoreReasons": [
+        "politique",
+        "slam / poésie",
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "be14a8b3d789",
+      "title": "+ Vodk47 (grunge / hardcore) + Amaru (beat selecta) + Nora Neko & Maya Calvet Cantine de soutien pour chambre de la CNT SO",
+      "start": "2026-11-10T23:00:00.000Z",
+      "end": null,
+      "allDay": true,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 2,
+      "scoreReasons": [
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "98ecddee8829",
+      "title": "ñ + = + ï : On",
+      "start": "2026-11-10T23:00:00.000Z",
+      "end": null,
+      "allDay": true,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 2,
+      "scoreReasons": [
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "99802b93b2fc",
+      "title": "+ Auto. (heavy post punk) LA CÊMERIE L INTERMÉBIAIRE CONSERVAT@IRE Gazpacho Records Brunch",
+      "start": "2026-11-10T23:00:00.000Z",
+      "end": null,
+      "allDay": true,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 2,
+      "scoreReasons": [
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "965b59cb8b42",
+      "title": "MANIFESTEN + Viol (post-club, xpl) + E'du & Judgitzu",
+      "start": "2026-11-10T23:00:00.000Z",
+      "end": null,
+      "allDay": true,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": "Manifesten",
+      "address": "59, rue Adolphe Thiers , 13001 Marseille",
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 5,
+      "scoreReasons": [
+        "politique",
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "05c5db02e250",
+      "title": "Chants de comptoir mn DB \"XP - (ensemble vodoo) LA MERVEILLEUSE",
+      "start": "2026-11-10T23:00:00.000Z",
+      "end": null,
+      "allDay": true,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": "La Merveilleuse",
+      "address": "18, place Notre,Dame du Mont , 13006 Marseille",
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 2,
+      "scoreReasons": [
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "ed14e078e6e3",
+      "title": "SING @R BIE Shen Cd cos no) (musique brésilienne) L'INTERMÉBIAIRE",
+      "start": "2026-11-10T23:00:00.000Z",
+      "end": null,
+      "allDay": true,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 2,
+      "scoreReasons": [
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "9857bde759cc",
+      "title": "He Lo LA MERVEILLEUSE + Z3NIA (dj tribe) + Crado Sapiens (punk) Karaoke",
+      "start": "2026-11-10T23:00:00.000Z",
+      "end": null,
+      "allDay": true,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": "La Merveilleuse",
+      "address": "18, place Notre,Dame du Mont , 13006 Marseille",
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert",
+        "fete"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 2,
+      "scoreReasons": [
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "40a769354f13",
+      "title": ": Dogskin (hommage Erik Satie)",
+      "start": "2026-11-10T23:00:00.000Z",
+      "end": null,
+      "allDay": true,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 2,
+      "scoreReasons": [
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "3e017c7951ec",
+      "title": "scie Gene (eupeEmpe) — ZMMRE FB-INSTA : VORTEXFROMMARS",
+      "start": "2026-11-10T23:00:00.000Z",
+      "end": null,
+      "allDay": true,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 2,
+      "scoreReasons": [
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "fb40d75cc6c3",
+      "title": "+ Diego (musique flamenco)",
+      "start": "2026-11-10T23:00:00.000Z",
+      "end": null,
+      "allDay": true,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 2,
+      "scoreReasons": [
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
     },
     {
       "id": "1d8cd5616bde",
@@ -1530,7 +3637,111 @@
           "id": "videodrome2",
           "name": "Vidéodrome 2"
         }
-      ]
+      ],
+      "approximate": false
+    },
+    {
+      "id": "24cf68cce8f0",
+      "title": "LA MERVEILLEUSE 2h - entrée libre ESPACE HYPERION Caroline Dauzincourt & Qu 21h - 5/7€",
+      "start": "2026-11-11T01:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": "La Merveilleuse",
+      "address": "18, place Notre,Dame du Mont , 13006 Marseille",
+      "commune": "Marseille",
+      "image": null,
+      "priceText": "7€",
+      "isFree": true,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 3,
+      "scoreReasons": [
+        "prix libre",
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "c062a6757ff3",
+      "title": "Festival Dreamachine (trad grec & balkans) acoustique sur acousmonium) Ulé (psychedelic rock prog) 11h - entrée libre",
+      "start": "2026-11-11T10:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": true,
+      "categories": [
+        "festival",
+        "concert",
+        "fete"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 5,
+      "scoreReasons": [
+        "festival",
+        "prix libre",
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "506147e662a2",
+      "title": "Second major dès 15h - prix libre (chorale féministe engagée)",
+      "start": "2026-11-11T14:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": "prix libre",
+      "isFree": true,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 6,
+      "scoreReasons": [
+        "politique",
+        "prix libre",
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
     },
     {
       "id": "0b5e23ccb412",
@@ -1563,7 +3774,8 @@
           "id": "mille-babords",
           "name": "Mille Bâbords"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "9b9e1a8ec786",
@@ -1590,7 +3802,172 @@
           "id": "songkick-marseille",
           "name": "Songkick – concerts Marseille"
         }
-      ]
+      ],
+      "approximate": false
+    },
+    {
+      "id": "9c1f6aa086f3",
+      "title": "L'INTERMÉBIAIRE Bad pet SO de (D) r (impros & perfs) Manifesten: les Rascasses 20h - prix libre",
+      "start": "2026-11-11T19:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": "Manifesten",
+      "address": "59, rue Adolphe Thiers , 13001 Marseille",
+      "commune": "Marseille",
+      "image": null,
+      "priceText": "prix libre",
+      "isFree": true,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 6,
+      "scoreReasons": [
+        "politique",
+        "prix libre",
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "55ab140339e2",
+      "title": "Se 20h - 1042€ nil",
+      "start": "2026-11-11T19:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": "1042€",
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 2,
+      "scoreReasons": [
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "0ab550a62965",
+      "title": "(indie post punk) F L 20h - prix libre LA CAMARABERIE",
+      "start": "2026-11-11T19:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": "prix libre",
+      "isFree": true,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 3,
+      "scoreReasons": [
+        "prix libre",
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "cf6cc0e02c5d",
+      "title": "20h - prix libre eq erreur LES 9 SALOPARBS ZeUMAI 2h - 9€ Ghoster (dj rock xp)",
+      "start": "2026-11-11T19:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": "prix libre",
+      "isFree": true,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 3,
+      "scoreReasons": [
+        "prix libre",
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "685e1ee4a89e",
+      "title": "20h - eu chapeau WWW.VORTEXFROMMARS.ORG",
+      "start": "2026-11-11T19:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 2,
+      "scoreReasons": [
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
     },
     {
       "id": "0d2e81d22393",
@@ -1617,7 +3994,236 @@
           "id": "molotov",
           "name": "Le Molotov / Le Dodu"
         }
-      ]
+      ],
+      "approximate": false
+    },
+    {
+      "id": "5c5efba31fa2",
+      "title": "Draa Sh (dj electro BTB) 20h30 - entrée libre La Cartouche (punk) SING @R BIE",
+      "start": "2026-11-11T19:30:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": true,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 3,
+      "scoreReasons": [
+        "prix libre",
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "6298ce6550ee",
+      "title": "Azogia (break to techno) Chu Chi Cha 20h30 - 10/11€",
+      "start": "2026-11-11T19:30:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": "11€",
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 2,
+      "scoreReasons": [
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "344e03ad1d59",
+      "title": "21h -7€ ; : Levantiko + Nka Oreille concrète (électro L'EMBOBINEUSE (sound system)",
+      "start": "2026-11-11T20:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": "L’Embobineuse",
+      "address": "11, boulevad Bouès , 13003 Marseille",
+      "commune": "Marseille",
+      "image": null,
+      "priceText": "7€",
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 2,
+      "scoreReasons": [
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "6fcb56a7bf7c",
+      "title": "Zidr (expérimental, noise) 21h-5€ 48h50 - entrée libre ; A",
+      "start": "2026-11-11T20:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": "5€",
+      "isFree": true,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 3,
+      "scoreReasons": [
+        "prix libre",
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "6601f8d15001",
+      "title": "(monna pense) Butch Party Marseille Pazsarinha 22h - entrée libre",
+      "start": "2026-11-11T21:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": true,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 3,
+      "scoreReasons": [
+        "prix libre",
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "f7bde2f00e7f",
+      "title": "(its ac ar db Lane) 22h - SRE LE N@N-LIEU + Les Cafards (punk) 2h -6€/3€",
+      "start": "2026-11-11T21:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": "6€",
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 2,
+      "scoreReasons": [
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "f2129c37ec87",
+      "title": "22h - entrée libre",
+      "start": "2026-11-11T21:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": true,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 3,
+      "scoreReasons": [
+        "prix libre",
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
     },
     {
       "id": "177d6196ec44",
@@ -1651,7 +4257,8 @@
           "id": "dev-events",
           "name": "dev.events – Marseille"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "129084b90adc",
@@ -1682,7 +4289,8 @@
           "id": "meetup-marseille",
           "name": "Meetup – Marseille tech"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "9a588eb5efed",
@@ -1709,7 +4317,8 @@
           "id": "songkick-marseille",
           "name": "Songkick – concerts Marseille"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "1fff79b30de7",
@@ -1736,7 +4345,8 @@
           "id": "songkick-marseille",
           "name": "Songkick – concerts Marseille"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "d1616613e125",
@@ -1763,7 +4373,8 @@
           "id": "songkick-marseille",
           "name": "Songkick – concerts Marseille"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "82d78ec1eaf6",
@@ -1790,7 +4401,8 @@
           "id": "molotov",
           "name": "Le Molotov / Le Dodu"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "e20152b52bd3",
@@ -1817,7 +4429,8 @@
           "id": "songkick-marseille",
           "name": "Songkick – concerts Marseille"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "767b02ff5b07",
@@ -1844,7 +4457,8 @@
           "id": "molotov",
           "name": "Le Molotov / Le Dodu"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "5a2c13c63e6f",
@@ -1871,7 +4485,8 @@
           "id": "songkick-marseille",
           "name": "Songkick – concerts Marseille"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "e35258e21ec4",
@@ -1898,7 +4513,8 @@
           "id": "songkick-marseille",
           "name": "Songkick – concerts Marseille"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "83b5e8814dae",
@@ -1925,7 +4541,8 @@
           "id": "espace-julien",
           "name": "L'Espace Julien"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "5f8deda13fa1",
@@ -1952,7 +4569,8 @@
           "id": "molotov",
           "name": "Le Molotov / Le Dodu"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "e84e176e1105",
@@ -1979,7 +4597,8 @@
           "id": "songkick-marseille",
           "name": "Songkick – concerts Marseille"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "ac0df7607d32",
@@ -2006,7 +4625,8 @@
           "id": "songkick-marseille",
           "name": "Songkick – concerts Marseille"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "05276d870911",
@@ -2036,7 +4656,8 @@
           "id": "molotov",
           "name": "Le Molotov / Le Dodu"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "c36cd6684456",
@@ -2063,7 +4684,8 @@
           "id": "songkick-marseille",
           "name": "Songkick – concerts Marseille"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "5f6e505a5562",
@@ -2090,7 +4712,8 @@
           "id": "songkick-marseille",
           "name": "Songkick – concerts Marseille"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "84e3a5e322f5",
@@ -2117,7 +4740,8 @@
           "id": "songkick-marseille",
           "name": "Songkick – concerts Marseille"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "b0e42bef9c1a",
@@ -2144,7 +4768,8 @@
           "id": "espace-julien",
           "name": "L'Espace Julien"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "5add78b9a3e0",
@@ -2171,7 +4796,8 @@
           "id": "songkick-marseille",
           "name": "Songkick – concerts Marseille"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "ca1275ff43d5",
@@ -2198,7 +4824,8 @@
           "id": "songkick-marseille",
           "name": "Songkick – concerts Marseille"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "05d83a411e23",
@@ -2225,7 +4852,8 @@
           "id": "songkick-marseille",
           "name": "Songkick – concerts Marseille"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "8f1cad6df186",
@@ -2252,7 +4880,8 @@
           "id": "songkick-marseille",
           "name": "Songkick – concerts Marseille"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "232c1005985c",
@@ -2279,7 +4908,8 @@
           "id": "songkick-marseille",
           "name": "Songkick – concerts Marseille"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "bd8d60822bac",
@@ -2306,7 +4936,8 @@
           "id": "molotov",
           "name": "Le Molotov / Le Dodu"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "68a636e30d94",
@@ -2335,7 +4966,8 @@
           "id": "les-theatres",
           "name": "Les Théâtres (Bernardines, Gymnase…)"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "ba9ac26f45e8",
@@ -2362,7 +4994,8 @@
           "id": "songkick-marseille",
           "name": "Songkick – concerts Marseille"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "a3721656d36a",
@@ -2389,7 +5022,8 @@
           "id": "songkick-marseille",
           "name": "Songkick – concerts Marseille"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "6bd43a0b5aaf",
@@ -2416,7 +5050,8 @@
           "id": "songkick-marseille",
           "name": "Songkick – concerts Marseille"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "c955d0435071",
@@ -2443,7 +5078,8 @@
           "id": "molotov",
           "name": "Le Molotov / Le Dodu"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "7e66894db6c5",
@@ -2470,7 +5106,8 @@
           "id": "songkick-marseille",
           "name": "Songkick – concerts Marseille"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "598229ec87e3",
@@ -2497,7 +5134,8 @@
           "id": "molotov",
           "name": "Le Molotov / Le Dodu"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "58036a69182f",
@@ -2524,7 +5162,8 @@
           "id": "songkick-marseille",
           "name": "Songkick – concerts Marseille"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "e1afcf6e45f6",
@@ -2551,7 +5190,8 @@
           "id": "songkick-marseille",
           "name": "Songkick – concerts Marseille"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "30916c2d370a",
@@ -2578,7 +5218,8 @@
           "id": "songkick-marseille",
           "name": "Songkick – concerts Marseille"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "32ea38f59422",
@@ -2605,7 +5246,8 @@
           "id": "molotov",
           "name": "Le Molotov / Le Dodu"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "be8eba5ce1a6",
@@ -2632,7 +5274,8 @@
           "id": "espace-julien",
           "name": "L'Espace Julien"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "6ff0326be53b",
@@ -2660,7 +5303,8 @@
           "id": "molotov",
           "name": "Le Molotov / Le Dodu"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "6a2682b5d515",
@@ -2691,7 +5335,8 @@
           "id": "intermediaire",
           "name": "L'Intermédiaire"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "534c747474e1",
@@ -2718,7 +5363,8 @@
           "id": "molotov",
           "name": "Le Molotov / Le Dodu"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "eb50d4029637",
@@ -2747,7 +5393,73 @@
           "id": "les-theatres",
           "name": "Les Théâtres (Bernardines, Gymnase…)"
         }
-      ]
+      ],
+      "approximate": false
+    },
+    {
+      "id": "1a86d3454cb5",
+      "title": "Soirée de soutien Kaz D'Aila lan Will (metalcore)",
+      "start": "2026-11-24T23:00:00.000Z",
+      "end": null,
+      "allDay": true,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert",
+        "fete"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 2,
+      "scoreReasons": [
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
+    },
+    {
+      "id": "43882822a305",
+      "title": "au mouvement social (musique Occitano-Créole) + Mazed (alt metal)",
+      "start": "2026-11-24T23:00:00.000Z",
+      "end": null,
+      "allDay": true,
+      "description": "",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf",
+      "venueName": null,
+      "address": null,
+      "commune": "Marseille",
+      "image": null,
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 2,
+      "scoreReasons": [
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "vortex",
+          "name": "Le Vortex (agenda concerts souterrains)"
+        }
+      ],
+      "approximate": true
     },
     {
       "id": "d629bc8b8376",
@@ -2776,7 +5488,8 @@
           "id": "marseille-tourisme",
           "name": "Office de tourisme de Marseille"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "383b50f5bd7b",
@@ -2803,7 +5516,8 @@
           "id": "molotov",
           "name": "Le Molotov / Le Dodu"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "338a024bfebd",
@@ -2832,7 +5546,8 @@
           "id": "les-theatres",
           "name": "Les Théâtres (Bernardines, Gymnase…)"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "5a4da5c9c010",
@@ -2861,7 +5576,8 @@
           "id": "les-theatres",
           "name": "Les Théâtres (Bernardines, Gymnase…)"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "f947e687aec8",
@@ -2888,7 +5604,8 @@
           "id": "espace-julien",
           "name": "L'Espace Julien"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "9ca8b584e80b",
@@ -2915,7 +5632,8 @@
           "id": "molotov",
           "name": "Le Molotov / Le Dodu"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "903cd2e85286",
@@ -2946,7 +5664,8 @@
           "id": "intermediaire",
           "name": "L'Intermédiaire"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "6068ca18997c",
@@ -2973,7 +5692,8 @@
           "id": "molotov",
           "name": "Le Molotov / Le Dodu"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "01216119d0d3",
@@ -3000,7 +5720,8 @@
           "id": "molotov",
           "name": "Le Molotov / Le Dodu"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "2a7eee99539c",
@@ -3029,7 +5750,8 @@
           "id": "marseille-tourisme",
           "name": "Office de tourisme de Marseille"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "c04512a913b7",
@@ -3056,7 +5778,8 @@
           "id": "molotov",
           "name": "Le Molotov / Le Dodu"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "43bb42ebbe4e",
@@ -3083,7 +5806,8 @@
           "id": "molotov",
           "name": "Le Molotov / Le Dodu"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "68390d5f6a1f",
@@ -3110,7 +5834,8 @@
           "id": "molotov",
           "name": "Le Molotov / Le Dodu"
         }
-      ]
+      ],
+      "approximate": false
     },
     {
       "id": "7129f51e9b64",
@@ -3141,10 +5866,17 @@
           "id": "zef",
           "name": "Le ZEF (Merlan, Gare Franche)"
         }
-      ]
+      ],
+      "approximate": false
     }
   ],
   "watch": [],
+  "links": [
+    {
+      "label": "Agenda du Vortex (PDF du mois)",
+      "url": "https://vortexfrommars.org/IMG/pdf/vortex-151.pdf"
+    }
+  ],
   "sources": [
     {
       "id": "marseille-tourisme",
@@ -3380,11 +6112,11 @@
       "id": "mille-babords",
       "name": "Mille Bâbords",
       "kind": "custom",
-      "ok": false,
-      "eventCount": 0,
-      "keptCount": 13,
-      "error": "Réseau injoignable (The operation was aborted due to timeout) sur https://www.millebabords.org/",
-      "usedFallback": true
+      "ok": true,
+      "eventCount": 23,
+      "keptCount": 14,
+      "error": null,
+      "usedFallback": false
     },
     {
       "id": "up-marseille",
@@ -3543,7 +6275,7 @@
       "ok": false,
       "eventCount": 0,
       "keptCount": 0,
-      "error": "Réseau injoignable (Connect Timeout Error (attempted addresses: 185.128.239.10:443, 185.128.239.11:443, timeout: 10000ms)) sur https://andromede.id.st/",
+      "error": "Réseau injoignable (Connect Timeout Error (attempted addresses: 185.128.239.11:443, 185.128.239.10:443, timeout: 10000ms)) sur https://andromede.id.st/",
       "usedFallback": false
     },
     {
@@ -3561,8 +6293,8 @@
       "name": "Le Vortex (agenda concerts souterrains)",
       "kind": "custom",
       "ok": true,
-      "eventCount": 0,
-      "keptCount": 0,
+      "eventCount": 135,
+      "keptCount": 79,
       "error": null,
       "usedFallback": false
     },
