@@ -22,6 +22,12 @@ export const SOURCES: SourceConfig[] = [
     venueTags: [], requireLocalMatch: true, enabled: true,
   },
   {
+    id: "songkick-marseille", name: "Songkick – concerts Marseille", kind: "jsonld",
+    url: "https://www.songkick.com/metro-areas/156979-france-marseille",
+    venueTags: [], defaultCategories: ["concert"], requireLocalMatch: true, enabled: true,
+    note: "Concerts de toutes tailles ; le score trie.",
+  },
+  {
     id: "agendaculturel-13", name: "Agenda culturel 13", kind: "auto",
     url: "https://13.agendaculturel.fr/marseille/",
     venueTags: [], requireLocalMatch: true, enabled: true,
