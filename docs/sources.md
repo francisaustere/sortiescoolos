@@ -41,6 +41,16 @@ le **format** de chaque agenda (JSON-LD, calendrier, API WordPress) sera confirm
 | Bureau des guides du GR2013 | Balades artistiques | Oct. 2026 |
 | r/marseille | Fil « à surveiller » | — |
 
+## Découvertes via vos pages Facebook (ajoutées le 3 nov. 2026)
+
+Le Vortex (agenda concerts DIY), Le Tarpin Bien (agenda), UPOP Marseille-Métropole, Muséum d'histoire naturelle,
+Des courts l'après-midi, Séances Spéciales, L'Alhambra, Le Gyptis, Le Morozoff, Ostau dau País Marselhés,
+L'Art Dû, Théâtre des Calanques, Danceteria.
+
+Repérés mais non collectables (Instagram/Facebook seulement ou sans agenda) : La Cômerie (Yes We Camp, rue Breteuil),
+Laboratoire Largent (labo film 16 mm), Maraboutage, Casa Consolat, Baraka Jeux, Le Nain Jaune (club de go Sardin Ki'in),
+Jardins Suspendus, Bi:Pole / Le Bon Air (Shotgun), Au Large (Théâtre Silvain, juin).
+
 ## Festivals annuels à ne pas rater (sciences et sciences sociales)
 
 Ils remontent via l'office de tourisme et OpenAgenda quand ils entrent dans la fenêtre de 45 jours.

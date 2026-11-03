@@ -204,6 +204,67 @@ export const SOURCES: SourceConfig[] = [
     venueTags: ["nature", "planque"], defaultCategories: ["nature"], requireLocalMatch: true, enabled: true,
   },
 
+  // ---- Découvertes via les pages Facebook likées (vérifiées actives 2026)
+  {
+    id: "vortex", name: "Le Vortex (agenda concerts souterrains)", kind: "auto", url: "https://vortexfrommars.org/",
+    venueTags: ["planque"], defaultCategories: ["concert"], requireLocalMatch: false, enabled: true,
+    note: "Agenda mensuel DIY 0-10 €. Site probablement SPIP : lecteur sur mesure à écrire d'après la capture.",
+  },
+  {
+    id: "tarpin-bien", name: "Le Tarpin Bien", kind: "auto", url: "https://tarpin-bien.com/categorie/video/lagenda/",
+    venueTags: [], requireLocalMatch: true, enabled: true, maxFollow: 40,
+  },
+  {
+    id: "upop", name: "UPOP Marseille-Métropole", kind: "auto", url: "https://upop.info/",
+    venueTags: ["militant"], defaultCategories: ["conference"],
+    defaultVenue: { name: "UPOP (61 La Canebière)", address: "61 La Canebière, 13001 Marseille", commune: MARSEILLE }, enabled: true,
+  },
+  {
+    id: "museum", name: "Muséum d'histoire naturelle", kind: "auto", url: "https://musees.marseille.fr/museum-dhistoire-naturelle-de-marseille-mhnm",
+    venueTags: ["nature"], defaultCategories: ["sciences"],
+    defaultVenue: { name: "Muséum d'histoire naturelle", address: "Palais Longchamp, 13004 Marseille", commune: MARSEILLE }, enabled: true,
+  },
+  {
+    id: "courts-apres-midi", name: "Des courts l'après-midi", kind: "auto", url: "https://descourtslapresmidi.fr/",
+    venueTags: ["planque"], defaultCategories: ["cinema"],
+    defaultVenue: { name: "Vieille Charité", address: "2 rue de la Charité, 13002 Marseille", commune: MARSEILLE }, enabled: true,
+  },
+  {
+    id: "seances-speciales", name: "Séances Spéciales", kind: "auto", url: "https://seances-speciales.fr/",
+    venueTags: [], defaultCategories: ["cinema"], defaultVenue: { name: "Séances Spéciales", commune: MARSEILLE }, enabled: true,
+  },
+  {
+    id: "alhambra", name: "L'Alhambra (cinéma, Estaque)", kind: "auto", url: "https://www.alhambracine.com/",
+    venueTags: ["planque"], defaultCategories: ["cinema"],
+    defaultVenue: { name: "L'Alhambra", address: "2 rue du Cinéma, 13016 Marseille", commune: MARSEILLE }, enabled: true,
+  },
+  {
+    id: "gyptis", name: "Le Gyptis", kind: "auto", url: "https://www.cinemalegyptis.org/",
+    venueTags: [], defaultCategories: ["cinema"],
+    defaultVenue: { name: "Le Gyptis", address: "136 rue Loubon, 13003 Marseille", commune: MARSEILLE }, enabled: true,
+  },
+  {
+    id: "morozoff", name: "Le Morozoff (cirque)", kind: "auto", url: "https://www.lemorozoff.org/",
+    venueTags: ["tiers_lieu", "planque"], defaultCategories: ["spectacle"],
+    defaultVenue: { name: "Le Morozoff", address: "28 rue Ferrari, 13005 Marseille", commune: MARSEILLE }, enabled: true,
+  },
+  {
+    id: "ostau", name: "Ostau dau País Marselhés", kind: "auto", url: "https://www.ostau.net/",
+    venueTags: ["planque"], defaultVenue: { name: "Ostau dau País Marselhés", commune: MARSEILLE }, enabled: true,
+  },
+  {
+    id: "art-du", name: "L'Art Dû (café-théâtre, scènes ouvertes)", kind: "auto", url: "https://www.lartdutheatre.fr/",
+    venueTags: [], defaultCategories: ["spectacle"], defaultVenue: { name: "L'Art Dû", commune: MARSEILLE }, enabled: true,
+  },
+  {
+    id: "theatre-calanques", name: "Théâtre des Calanques", kind: "auto", url: "https://www.theatredescalanques.com/",
+    venueTags: [], defaultCategories: ["theatre"], defaultVenue: { name: "Théâtre des Calanques", address: "Marseille 8e", commune: MARSEILLE }, enabled: true,
+  },
+  {
+    id: "danceteria", name: "Danceteria", kind: "auto", url: "https://www.danceteria.fr/",
+    venueTags: ["planque"], defaultCategories: ["fete"], defaultVenue: { name: "Danceteria", address: "Marseille 1er", commune: MARSEILLE }, enabled: true,
+  },
+
   // ---- Fil Reddit (posts à surveiller, sans date fiable)
   {
     id: "reddit-marseille", name: "r/marseille", kind: "reddit", url: "https://www.reddit.com/r/marseille/new.json?limit=100",
