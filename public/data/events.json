@@ -1,0 +1,906 @@
+{
+  "generatedAt": "2026-11-03T19:29:58.798Z",
+  "windowDays": 45,
+  "events": [
+    {
+      "id": "f734811c0ab8",
+      "title": "Ouverture du jardin de la cascade des Aygalades",
+      "start": "2026-11-03T00:00:00.000Z",
+      "end": "2026-12-30T23:00:00.000Z",
+      "allDay": true,
+      "description": "Ouverture du jardin de la cascade des Aygalades au départ de la Cité des arts de la rue. Chaque mercredi après-midi de 14h à 17h visitez librement le jardin de la cascade des Aygalades au départ de la Cité des arts de la rue. Joyau caché de la Cité des arts de la rue, vous pourrez apprécier la balade sonore du ruisseau et télécharger le carnet de la flore du ruisseau pour en apprendre davantage s…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/ouverture-du-jardin-de-la-cascade-des-aygalades-marseille-15eme-fr-5411533/",
+      "venueName": "Adresse",
+      "address": "Cité des Arts de la Rue225 avenue Ibrahim Ali, 13015, Marseille 15ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/214/102/29583062.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "nature"
+      ],
+      "venueTags": [],
+      "score": 6,
+      "scoreReasons": [
+        "nature",
+        "original"
+      ],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ]
+    },
+    {
+      "id": "cb906c7ec20b",
+      "title": "Visite en famille autour de l'exposition Louisa Babari - [mac]",
+      "start": "2026-11-03T00:00:00.000Z",
+      "end": "2026-12-29T23:00:00.000Z",
+      "allDay": true,
+      "description": "Visite en famille autour de l'expositon Louisa Babari présentée au [mac]. L’équipe des publics du [mac] propose une visite spécialement conçue pour les enfants accompagnés pour une expérience partagée et animée des œuvres. • Enfant à partir de 6 ans - présence d'un adulte accompagnateur • Durée : 1h • Sans réservation, dans la limite des places disponibles",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/visite-en-famille-autour-de-lexposition-louisa-babari-mac-marseille-8eme-fr-6803844/",
+      "venueName": "Adresse",
+      "address": "Musée d'Art Contemporain de Marseille [mac]69 Avenue d'Haïfa, 13008, Marseille 8ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/12/156/42769420.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "expo"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ]
+    },
+    {
+      "id": "62243fe1d18c",
+      "title": "L’EJ C’EST LE S x The Session",
+      "start": "2026-11-04T19:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://espace-julien.com/agenda/lej-cest-le-s-x-session",
+      "venueName": "Café Julien",
+      "address": "39 cours Julien, 13006, Marseille",
+      "commune": "Marseille",
+      "image": "https://espace-julien.com/sites/espacejulien/files/styles/16x9_1920/public/import_billetterie/1116-field_illustration_id-1791885245.png?h=e8711843&itok=45MIovk2",
+      "priceText": "0 EUR",
+      "isFree": true,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 1,
+      "scoreReasons": [
+        "gratuit"
+      ],
+      "sources": [
+        {
+          "id": "espace-julien",
+          "name": "L'Espace Julien"
+        }
+      ]
+    },
+    {
+      "id": "94fb434bf092",
+      "title": "Entertorment @ L'Intermédiaire",
+      "start": "2026-11-04T23:00:00.000Z",
+      "end": "2026-11-04T23:00:00.000Z",
+      "allDay": true,
+      "description": "Entertorment and Soul Hater at L'Intermédiaire at 2026-11-05",
+      "url": "https://www.songkick.com/concerts/43425755-entertorment-at-lintermediaire?utm_medium=organic&utm_source=microformat",
+      "venueName": "L'Intermédiaire",
+      "address": "63 Place Jean Jaurès, 13006, Marseille",
+      "commune": "Marseille",
+      "image": "https://images.sk-static.com/images/media/profile_images/artists/10395443/huge_avatar",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 3,
+      "scoreReasons": [
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "intermediaire",
+          "name": "L'Intermédiaire"
+        }
+      ]
+    },
+    {
+      "id": "06a1813602b9",
+      "title": "Table ronde « Patients, bénévoles, soignants »",
+      "start": "2026-11-05T23:00:00.000Z",
+      "end": "2026-11-05T23:00:00.000Z",
+      "allDay": true,
+      "description": "Une matinée d’échanges ouverte à tous autour du bénévolat à l’hôpital et en EHPAD, de la parole des patients et des résidents, et de l’éthique dans la relation entre patients, bénévoles et soignants, avec l’intervention du Dr Barthélémy Tosello. Patients, bénévoles, soignants : la force d’une présence, un lien qui nous unit. Pour clôturer l’année de ses 60 ans, l’association VMEH 13 (Visite des M…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/table-ronde-patients-benevoles-soignants-marseille-5eme-fr-6868734/",
+      "venueName": "Adresse",
+      "address": "Hôpital La Timone27 Bd Jean Moulin, 13005, Marseille 5ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/164/114/43479716.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "conference"
+      ],
+      "venueTags": [],
+      "score": 4,
+      "scoreReasons": [
+        "débat"
+      ],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ]
+    },
+    {
+      "id": "e2a31b52d093",
+      "title": "NINA UZAN",
+      "start": "2026-11-06T18:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://espace-julien.com/agenda/nina-uzan",
+      "venueName": "La Mesón",
+      "address": "52 rue Consolat, 13001, MARSEILLE",
+      "commune": "Marseille",
+      "image": "https://espace-julien.com/sites/espacejulien/files/styles/16x9_1920/public/import_billetterie/1089-field_illustration_id-1788273043.png?h=123d2181&itok=gye24Bs3",
+      "priceText": "15 EUR",
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "espace-julien",
+          "name": "L'Espace Julien"
+        }
+      ]
+    },
+    {
+      "id": "ecd3f02b51a9",
+      "title": "Mohsen Ferrah + Hamid Matoub",
+      "start": "2026-11-06T23:00:00.000Z",
+      "end": "2026-11-06T23:00:00.000Z",
+      "allDay": true,
+      "description": "Ce spectacle s’inscrit dans le cadre du Pôle des Musiques du Monde de la Cité de la Musique de Marseille. Envolées kabyles - Kabylie - France Le Pôle des Musiques du Monde est particulièrement fier et heureux d’accueillir pour sa 21è édition le Festival Talmazgha, dédié aux cultures amazighes, et porté par l’association Sud Culture, sur la scène de l’auditorium de la Cité de la Musique de Marseil…",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/mohsen-ferrah-hamid-matoub-marseille-1er-fr-6674450/",
+      "venueName": "Adresse",
+      "address": "Cité de la Musique de Marseille - L'Auditorium, Médiathèque4 Rue Bernard du Bois, 13001, Marseille 1er",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/54/237/43380022.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "festival",
+        "concert",
+        "spectacle"
+      ],
+      "venueTags": [],
+      "score": 2,
+      "scoreReasons": [
+        "festival"
+      ],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ]
+    },
+    {
+      "id": "0123c4cae634",
+      "title": "SAID & WADIE - TWO-MAN SHOW",
+      "start": "2026-11-08T18:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://espace-julien.com/agenda/said-wadie-two-man-show",
+      "venueName": "Espace Julien",
+      "address": "39, cours Julien, 13006, MARSEILLE",
+      "commune": "Marseille",
+      "image": "https://espace-julien.com/sites/espacejulien/files/styles/16x9_1920/public/import_billetterie/1082-field_illustration_id-1789118403.jpg?h=3fa9d8f0&itok=Nv59Ly3l",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "espace-julien",
+          "name": "L'Espace Julien"
+        }
+      ]
+    },
+    {
+      "id": "da09c1564bf3",
+      "title": "ROBERT FINLEY",
+      "start": "2026-11-10T19:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://espace-julien.com/agenda/robert-finley",
+      "venueName": "Espace Julien",
+      "address": "39, cours Julien, 13006, MARSEILLE",
+      "commune": "Marseille",
+      "image": "https://espace-julien.com/sites/espacejulien/files/styles/16x9_1920/public/import_billetterie/1053-field_illustration_id-1777280699.jpeg?h=19b38c81&itok=nTp9QiKI",
+      "priceText": "26 EUR",
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "espace-julien",
+          "name": "L'Espace Julien"
+        }
+      ]
+    },
+    {
+      "id": "83b5e8814dae",
+      "title": "SO LA LUNE",
+      "start": "2026-11-13T19:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://espace-julien.com/agenda/so-la-lune",
+      "venueName": "Espace Julien",
+      "address": "39, cours Julien, 13006, MARSEILLE",
+      "commune": "Marseille",
+      "image": "https://espace-julien.com/sites/espacejulien/files/styles/16x9_1920/public/import_billetterie/1115-field_illustration_id-1791820264.jpg?h=be9c4f6d&itok=l45Vi0YB",
+      "priceText": "35 EUR",
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "espace-julien",
+          "name": "L'Espace Julien"
+        }
+      ]
+    },
+    {
+      "id": "b0e42bef9c1a",
+      "title": "MOHA MMZ",
+      "start": "2026-11-14T19:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://espace-julien.com/agenda/moha-mmz",
+      "venueName": "Café Julien",
+      "address": "39 cours Julien, 13006, Marseille",
+      "commune": "Marseille",
+      "image": "https://espace-julien.com/sites/espacejulien/files/styles/16x9_1920/public/import_billetterie/1102-field_illustration_id-1789565891.jpg?h=996bcbcc&itok=_27k5vHN",
+      "priceText": "20 EUR",
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "espace-julien",
+          "name": "L'Espace Julien"
+        }
+      ]
+    },
+    {
+      "id": "be8eba5ce1a6",
+      "title": "IBEYI",
+      "start": "2026-11-21T19:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://espace-julien.com/agenda/ibeyi",
+      "venueName": "Espace Julien",
+      "address": "39, cours Julien, 13006, MARSEILLE",
+      "commune": "Marseille",
+      "image": "https://espace-julien.com/sites/espacejulien/files/styles/16x9_1920/public/import_billetterie/1061-field_illustration_id-1779371506.jpg?h=dffc6279&itok=Fi3F8OS4",
+      "priceText": "29 EUR",
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "espace-julien",
+          "name": "L'Espace Julien"
+        }
+      ]
+    },
+    {
+      "id": "6a2682b5d515",
+      "title": "Unwanted Noise @ L'Intermédiaire",
+      "start": "2026-11-24T19:00:00.000Z",
+      "end": "2026-11-23T23:00:00.000Z",
+      "allDay": false,
+      "description": "Unwanted Noise at L'Intermédiaire at 2026-11-24T20:00:00+0100",
+      "url": "https://www.songkick.com/concerts/43457309-unwanted-noise-at-lintermediaire?utm_medium=organic&utm_source=microformat",
+      "venueName": "L'Intermédiaire",
+      "address": "63 Place Jean Jaurès, 13006, Marseille",
+      "commune": "Marseille",
+      "image": "https://images.sk-static.com/images/media/profile_images/artists/9976514/huge_avatar",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 3,
+      "scoreReasons": [
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "intermediaire",
+          "name": "L'Intermédiaire"
+        }
+      ]
+    },
+    {
+      "id": "d629bc8b8376",
+      "title": "Geordie Greep",
+      "start": "2026-11-25T23:00:00.000Z",
+      "end": "2026-11-25T23:00:00.000Z",
+      "allDay": true,
+      "description": "Geordie Greep en concert ! Après avoir marqué la scène internationale avec black midi, Geordie Greep ouvre un nouveau chapitre de sa carrière avec The New Sound, un premier album solo aussi audacieux qu'inclassable. Sur scène, il déploie un univers où la pop alternative rencontre le jazz, le funk, le rock expérimental et les orchestrations les plus ambitieuses. Entre virtuosité musicale, énergie …",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/geordie-greep-marseille-5eme-fr-6690801/",
+      "venueName": "Adresse",
+      "address": "Le Makeda103 rue ferrari, 13005, Marseille 5ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/47/192/42123311.png",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 2,
+      "scoreReasons": [
+        "débat"
+      ],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ]
+    },
+    {
+      "id": "f947e687aec8",
+      "title": "OUAI STEPHANE + Luufa",
+      "start": "2026-12-03T19:00:00.000Z",
+      "end": null,
+      "allDay": false,
+      "description": "",
+      "url": "https://espace-julien.com/agenda/ouai-stephane-luufa",
+      "venueName": "Café Julien",
+      "address": "39 cours Julien, 13006, Marseille",
+      "commune": "Marseille",
+      "image": "https://espace-julien.com/sites/espacejulien/files/styles/16x9_1920/public/import_billetterie/1108-field_illustration_id-1791367677.png?h=b044a8f9&itok=xbpkIrI7",
+      "priceText": "17 EUR",
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [],
+      "score": 0,
+      "scoreReasons": [],
+      "sources": [
+        {
+          "id": "espace-julien",
+          "name": "L'Espace Julien"
+        }
+      ]
+    },
+    {
+      "id": "903cd2e85286",
+      "title": "Jim Younger's Spirit @ L'Intermédiaire",
+      "start": "2026-12-05T18:00:00.000Z",
+      "end": "2026-12-04T23:00:00.000Z",
+      "allDay": false,
+      "description": "Jim Younger's Spirit at L'Intermédiaire at 2026-12-05T19:00:00+0100",
+      "url": "https://www.songkick.com/concerts/43212385-jim-youngers-spirit-at-lintermediaire?utm_medium=organic&utm_source=microformat",
+      "venueName": "L'Intermédiaire",
+      "address": "63 Place Jean Jaurès, 13006, Marseille",
+      "commune": "Marseille",
+      "image": "https://images.sk-static.com/images/media/profile_images/artists/7140154/huge_avatar",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "concert"
+      ],
+      "venueTags": [
+        "planque"
+      ],
+      "score": 3,
+      "scoreReasons": [
+        "lieu planqué"
+      ],
+      "sources": [
+        {
+          "id": "intermediaire",
+          "name": "L'Intermédiaire"
+        }
+      ]
+    },
+    {
+      "id": "2a7eee99539c",
+      "title": "Conférence Boris Cyrulnik - Jean-Marie Cavada",
+      "start": "2026-12-08T23:00:00.000Z",
+      "end": "2026-12-08T23:00:00.000Z",
+      "allDay": true,
+      "description": "Conférence avec le neuropsychiatre Boris Cyrulnik et le journaliste Jean-Marie Cavada à Marseille le mercredi 9 décembre 2026 à 18h. Thème de la conférence : \"De la décivilisation à la recivilisation : Penser l'humain entre deux mondes\" Conférence avec le neuropsychiatre Boris Cyrulnik et le journaliste Jean-Marie Cavada à Marseille le mercredi 9 décembre 2026 à 18h. Thème de la conférence : \"De …",
+      "url": "https://www.marseille-tourisme.com/vivez-marseille-blog/agenda/conference-boris-cyrulnik-jean-marie-cavada-marseille-8eme-fr-6790396/",
+      "venueName": "Adresse",
+      "address": "160, avenue du Prado, 13008, Marseille 8ème",
+      "commune": "Marseille",
+      "image": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/126/132/42697854.jpeg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "conference"
+      ],
+      "venueTags": [],
+      "score": 4,
+      "scoreReasons": [
+        "débat"
+      ],
+      "sources": [
+        {
+          "id": "marseille-tourisme",
+          "name": "Office de tourisme de Marseille"
+        }
+      ]
+    },
+    {
+      "id": "7129f51e9b64",
+      "title": "Heppines is cheap",
+      "start": "2026-12-16T23:00:00.000Z",
+      "end": "2026-12-16T23:00:00.000Z",
+      "allDay": true,
+      "description": "Dans un dispositif de karaoké, Angélique Zaini, artiste franco-indonésienne, partage avec le public ses difficultés à vivre sa double culture et les stratégies mises en place pour se réapproprier se réapproprier son histoire, ses origines, à se construire malgré les silences, à se réconcilier avec elle-même... Heppines is cheap est une tentative de réconciliation et d’apaisement où spectateurs et…",
+      "url": "https://www.lezef.org/fr/saison/26-27/heppines-is-cheap-1022",
+      "venueName": "ZEF Scène Nationale Marseille - la Gare Franche",
+      "address": "7 Chemin des Tuileries, F-13015, Marseille, France",
+      "commune": "Marseille",
+      "image": "https://www.lezef.org/public_data/diapo/event/1788348253/640/heppinesischeap_sophieloubaton.jpg.jpg",
+      "priceText": null,
+      "isFree": false,
+      "categories": [
+        "fete"
+      ],
+      "venueTags": [
+        "institution"
+      ],
+      "score": 2,
+      "scoreReasons": [
+        "histoire"
+      ],
+      "sources": [
+        {
+          "id": "zef",
+          "name": "Le ZEF (Merlan, Gare Franche)"
+        }
+      ]
+    }
+  ],
+  "watch": [],
+  "sources": [
+    {
+      "id": "marseille-tourisme",
+      "name": "Office de tourisme de Marseille",
+      "kind": "auto",
+      "ok": true,
+      "eventCount": 9,
+      "keptCount": 6,
+      "error": null,
+      "usedFallback": false
+    },
+    {
+      "id": "openagenda-saison-med",
+      "name": "OpenAgenda – Saison Méditerranée",
+      "kind": "auto",
+      "ok": true,
+      "eventCount": 0,
+      "keptCount": 0,
+      "error": null,
+      "usedFallback": false
+    },
+    {
+      "id": "agendaculturel-13",
+      "name": "Agenda culturel 13",
+      "kind": "auto",
+      "ok": false,
+      "eventCount": 0,
+      "keptCount": 0,
+      "error": "HTTP 403 on https://13.agendaculturel.fr/marseille/",
+      "usedFallback": false
+    },
+    {
+      "id": "le-talus",
+      "name": "Le Talus",
+      "kind": "auto",
+      "ok": true,
+      "eventCount": 1,
+      "keptCount": 0,
+      "error": null,
+      "usedFallback": false
+    },
+    {
+      "id": "la-dar",
+      "name": "La Dar (centre social autogéré)",
+      "kind": "auto",
+      "ok": true,
+      "eventCount": 0,
+      "keptCount": 0,
+      "error": null,
+      "usedFallback": false
+    },
+    {
+      "id": "cite-arts-rue",
+      "name": "Cité des arts de la rue",
+      "kind": "auto",
+      "ok": true,
+      "eventCount": 0,
+      "keptCount": 0,
+      "error": null,
+      "usedFallback": false
+    },
+    {
+      "id": "friche",
+      "name": "Friche la Belle de Mai",
+      "kind": "auto",
+      "ok": true,
+      "eventCount": 0,
+      "keptCount": 0,
+      "error": null,
+      "usedFallback": false
+    },
+    {
+      "id": "couvent-levat",
+      "name": "Couvent Levat",
+      "kind": "auto",
+      "ok": true,
+      "eventCount": 0,
+      "keptCount": 0,
+      "error": null,
+      "usedFallback": false
+    },
+    {
+      "id": "murisserie",
+      "name": "La Mûrisserie",
+      "kind": "jsonld",
+      "ok": false,
+      "eventCount": 0,
+      "keptCount": 0,
+      "error": "HTTP 429 on https://shotgun.live/fr/venues/la-murisserie",
+      "usedFallback": false
+    },
+    {
+      "id": "hotel-du-nord",
+      "name": "Hôtel du Nord (balades habitants)",
+      "kind": "auto",
+      "ok": true,
+      "eventCount": 0,
+      "keptCount": 0,
+      "error": null,
+      "usedFallback": false
+    },
+    {
+      "id": "embobineuse",
+      "name": "L'Embobineuse",
+      "kind": "jsonld",
+      "ok": false,
+      "eventCount": 0,
+      "keptCount": 0,
+      "error": "HTTP 403 on https://www.helloasso.com/associations/l-embobineuse",
+      "usedFallback": false
+    },
+    {
+      "id": "molotov",
+      "name": "Le Molotov / Le Dodu",
+      "kind": "auto",
+      "ok": true,
+      "eventCount": 0,
+      "keptCount": 0,
+      "error": null,
+      "usedFallback": false
+    },
+    {
+      "id": "makeda",
+      "name": "Le Makeda",
+      "kind": "auto",
+      "ok": true,
+      "eventCount": 0,
+      "keptCount": 0,
+      "error": null,
+      "usedFallback": false
+    },
+    {
+      "id": "espace-julien",
+      "name": "L'Espace Julien",
+      "kind": "auto",
+      "ok": true,
+      "eventCount": 8,
+      "keptCount": 8,
+      "error": null,
+      "usedFallback": false
+    },
+    {
+      "id": "intermediaire",
+      "name": "L'Intermédiaire",
+      "kind": "jsonld",
+      "ok": true,
+      "eventCount": 6,
+      "keptCount": 3,
+      "error": null,
+      "usedFallback": false
+    },
+    {
+      "id": "cabaret-aleatoire",
+      "name": "Cabaret Aléatoire",
+      "kind": "jsonld",
+      "ok": false,
+      "eventCount": 0,
+      "keptCount": 0,
+      "error": "HTTP 429 on https://shotgun.live/fr/venues/cabaret-aleatoire",
+      "usedFallback": false
+    },
+    {
+      "id": "cite-musique",
+      "name": "Cité de la Musique",
+      "kind": "auto",
+      "ok": true,
+      "eventCount": 0,
+      "keptCount": 0,
+      "error": null,
+      "usedFallback": false
+    },
+    {
+      "id": "club-27",
+      "name": "Club 27",
+      "kind": "auto",
+      "ok": true,
+      "eventCount": 0,
+      "keptCount": 0,
+      "error": null,
+      "usedFallback": false
+    },
+    {
+      "id": "les-theatres",
+      "name": "Les Théâtres (Bernardines, Gymnase…)",
+      "kind": "auto",
+      "ok": true,
+      "eventCount": 0,
+      "keptCount": 0,
+      "error": null,
+      "usedFallback": false
+    },
+    {
+      "id": "la-criee",
+      "name": "Théâtre de La Criée",
+      "kind": "auto",
+      "ok": true,
+      "eventCount": 0,
+      "keptCount": 0,
+      "error": null,
+      "usedFallback": false
+    },
+    {
+      "id": "zef",
+      "name": "Le ZEF (Merlan, Gare Franche)",
+      "kind": "auto",
+      "ok": true,
+      "eventCount": 1,
+      "keptCount": 1,
+      "error": null,
+      "usedFallback": false
+    },
+    {
+      "id": "actoral",
+      "name": "actoral (ex-Montévidéo)",
+      "kind": "auto",
+      "ok": true,
+      "eventCount": 0,
+      "keptCount": 0,
+      "error": null,
+      "usedFallback": false
+    },
+    {
+      "id": "mille-babords",
+      "name": "Mille Bâbords",
+      "kind": "auto",
+      "ok": true,
+      "eventCount": 0,
+      "keptCount": 0,
+      "error": null,
+      "usedFallback": false
+    },
+    {
+      "id": "up-marseille",
+      "name": "Université populaire de Marseille",
+      "kind": "auto",
+      "ok": true,
+      "eventCount": 0,
+      "keptCount": 0,
+      "error": null,
+      "usedFallback": false
+    },
+    {
+      "id": "transit",
+      "name": "Librairie Transit",
+      "kind": "jsonld",
+      "ok": false,
+      "eventCount": 0,
+      "keptCount": 0,
+      "error": "HTTP 403 on https://www.helloasso.com/associations/librairie-transit",
+      "usedFallback": false
+    },
+    {
+      "id": "maupetit",
+      "name": "Librairie Maupetit",
+      "kind": "auto",
+      "ok": false,
+      "eventCount": 0,
+      "keptCount": 0,
+      "error": "HTTP 403 on https://www.maupetitlibraire.fr/agenda.php",
+      "usedFallback": false
+    },
+    {
+      "id": "mucem",
+      "name": "Mucem",
+      "kind": "auto",
+      "ok": false,
+      "eventCount": 0,
+      "keptCount": 0,
+      "error": "HTTP 404 on https://www.mucem.org/programme",
+      "usedFallback": false
+    },
+    {
+      "id": "alcazar",
+      "name": "Bibliothèque de l'Alcazar",
+      "kind": "auto",
+      "ok": true,
+      "eventCount": 0,
+      "keptCount": 0,
+      "error": null,
+      "usedFallback": false
+    },
+    {
+      "id": "fete-science",
+      "name": "Fête de la science – Marseille",
+      "kind": "auto",
+      "ok": true,
+      "eventCount": 0,
+      "keptCount": 0,
+      "error": null,
+      "usedFallback": false
+    },
+    {
+      "id": "videodrome2",
+      "name": "Vidéodrome 2",
+      "kind": "auto",
+      "ok": true,
+      "eventCount": 0,
+      "keptCount": 0,
+      "error": null,
+      "usedFallback": false
+    },
+    {
+      "id": "polygone-etoile",
+      "name": "Polygone Étoilé",
+      "kind": "auto",
+      "ok": true,
+      "eventCount": 0,
+      "keptCount": 0,
+      "error": null,
+      "usedFallback": false
+    },
+    {
+      "id": "repair-cafe",
+      "name": "Repair Café Marseille",
+      "kind": "auto",
+      "ok": true,
+      "eventCount": 0,
+      "keptCount": 0,
+      "error": null,
+      "usedFallback": false
+    },
+    {
+      "id": "make-it-marseille",
+      "name": "Make it Marseille",
+      "kind": "auto",
+      "ok": true,
+      "eventCount": 0,
+      "keptCount": 0,
+      "error": null,
+      "usedFallback": false
+    },
+    {
+      "id": "lpo-paca",
+      "name": "LPO PACA – sorties nature",
+      "kind": "auto",
+      "ok": true,
+      "eventCount": 0,
+      "keptCount": 0,
+      "error": null,
+      "usedFallback": false
+    },
+    {
+      "id": "calanques",
+      "name": "Parc national des Calanques",
+      "kind": "auto",
+      "ok": true,
+      "eventCount": 0,
+      "keptCount": 0,
+      "error": null,
+      "usedFallback": false
+    },
+    {
+      "id": "andromede",
+      "name": "Andromède (Observatoire de Marseille)",
+      "kind": "auto",
+      "ok": false,
+      "eventCount": 0,
+      "keptCount": 0,
+      "error": "Réseau injoignable (Connect Timeout Error (attempted addresses: 185.128.239.10:443, 185.128.239.11:443, timeout: 10000ms)) sur https://andromede.id.st/",
+      "usedFallback": false
+    },
+    {
+      "id": "bureau-guides",
+      "name": "Bureau des guides du GR2013",
+      "kind": "wp-tribe",
+      "ok": false,
+      "eventCount": 0,
+      "keptCount": 0,
+      "error": "HTTP 404 on https://bureaudesguides-gr2013.fr/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-11-03",
+      "usedFallback": false
+    },
+    {
+      "id": "reddit-marseille",
+      "name": "r/marseille",
+      "kind": "reddit",
+      "ok": false,
+      "eventCount": 0,
+      "keptCount": 0,
+      "error": "HTTP 403 on https://www.reddit.com/r/marseille/new.json?limit=100",
+      "usedFallback": false
+    }
+  ]
+}
