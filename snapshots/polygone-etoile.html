@@ -4,7 +4,7 @@
 	<meta charset="UTF-8">
 	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 <meta name="viewport" content="width=device-width, initial-scale=1">
-	<!-- This site is optimized with the Yoast SEO plugin v28.8 - https://yoast.com/product/yoast-seo-wordpress/ -->
+	<!-- This site is optimized with the Yoast SEO plugin v28.9 - https://yoast.com/product/yoast-seo-wordpress/ -->
 	<title>Le Polygone Étoilé</title>
 	<meta name="description" content="Bienvenue sur le site du Polygone Étoilé, un lieu créé en 2001 par l’association de cinéastes et d’artistes Film flamme." />
 	<link rel="canonical" href="https://www.polygone-etoile.com/" />
@@ -88,17 +88,17 @@ body{background-color:var(--base-2);color:var(--contrast);}a{color:var(--accent)
 /*# sourceURL=generate-style-inline-css */
 </style>
 <link rel='stylesheet' id='generate-child-css' href='https://www.polygone-etoile.com/wp-content/themes/generatepress-enfant/style.css?ver=1687957667' media='all' />
-<link rel='stylesheet' id='sib-front-css-css' href='https://www.polygone-etoile.com/wp-content/plugins/mailin/css/mailin-front.css?ver=7.1.4' media='all' />
+<link rel='stylesheet' id='sib-front-css-css' href='https://www.polygone-etoile.com/wp-content/plugins/mailin/css/mailin-front.css?ver=7.1.5' media='all' />
 <script id="jquery-core-js" src="https://www.polygone-etoile.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script>
 <script id="jquery-migrate-js" src="https://www.polygone-etoile.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"></script>
 <script id="sib-front-js-js-extra">
 var sibErrMsg = {"invalidMail":"Veuillez entrer une adresse e-mail valide.","requiredField":"Veuillez compl\u00e9ter les champs obligatoires.","invalidDateFormat":"Veuillez entrer une date valide.","invalidSMSFormat":"Veuillez entrer une num\u00e9ro de t\u00e9l\u00e9phone valide."};
-var ajax_sib_front_object = {"ajax_url":"https://www.polygone-etoile.com/wp-admin/admin-ajax.php","ajax_nonce":"e8320e1a8b","flag_url":"https://www.polygone-etoile.com/wp-content/plugins/mailin/img/flags/"};
+var ajax_sib_front_object = {"ajax_url":"https://www.polygone-etoile.com/wp-admin/admin-ajax.php","ajax_nonce":"fd77d0cc0c","flag_url":"https://www.polygone-etoile.com/wp-content/plugins/mailin/img/flags/"};
 //# sourceURL=sib-front-js-js-extra
 </script>
-<script id="sib-front-js-js" src="https://www.polygone-etoile.com/wp-content/plugins/mailin/js/mailin-front.js?ver=1791294397"></script>
+<script id="sib-front-js-js" src="https://www.polygone-etoile.com/wp-content/plugins/mailin/js/mailin-front.js?ver=1794936376"></script>
 <link rel="https://api.w.org/" href="https://www.polygone-etoile.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.polygone-etoile.com/wp-json/wp/v2/pages/6" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.polygone-etoile.com/xmlrpc.php?rsd" />
-<meta name="generator" content="WordPress 7.1.4" />
+<meta name="generator" content="WordPress 7.1.5" />
 <link rel='shortlink' href='https://www.polygone-etoile.com/' />
 <link rel="icon" href="https://www.polygone-etoile.com/wp-content/uploads/2023/04/logo-polygone-etoile.png" sizes="32x32" />
 <link rel="icon" href="https://www.polygone-etoile.com/wp-content/uploads/2023/04/logo-polygone-etoile.png" sizes="192x192" />
@@ -146,6 +146,25 @@ h1, h2, h3, h4, h5, h6, .header_soutien {
 /* 3. Cadre pour image (ajouter "cadre" dans Avancé > champ Classe(s) CSS additionnelle(s) dans les options de l'image) */
 .cadre img {
   border: 2px solid #F0F0F0;
+}
+
+/* 4. Grands écrans : le titre revient à la ligne avant la date */
+@media (min-width: 1100px) {
+	body:is(.home, .blog, .tag, .single-post, .tax-date_du_film, .tax-date_de_l_atelier, .category-soutiens-aux-cineastes, .category-ateliers-cinematographiques) .evenement .entry-header:has(.date) .entry-title {
+		padding-right: 190px;
+	}
+}
+
+/* 5. Encadrés Équipe / Fiche technique / Diffusion / Soutien : empilés sur mobile
+   Corrige les blocs Colonnes « Ne pas empiler sur mobile » qui contiennent un encadré titré.
+   Le bloc titre / réalisateur du haut n'est pas touché. */
+@media (max-width: 781px) {
+	.entry-content .wp-block-columns.is-not-stacked-on-mobile:has(> .wp-block-column > p.has-background) {
+		flex-wrap: wrap !important;
+	}
+	.entry-content .wp-block-columns.is-not-stacked-on-mobile:has(> .wp-block-column > p.has-background) > .wp-block-column {
+		flex-basis: 100% !important;
+	}
 }
 </style>
 <style id="core-block-supports-inline-css">
@@ -269,8 +288,101 @@ h1, h2, h3, h4, h5, h6, .header_soutien {
 			<div class="grid">
 			
 		
-<article id="post-3936" class="post-3936 post type-post status-publish format-standard has-post-thumbnail hentry category-passees category-projections" itemtype="https://schema.org/CreativeWork" itemscope>
+<article id="post-3986" class="post-3986 post type-post status-publish format-standard has-post-thumbnail hentry category-soutiens-aux-cineastes tag-raphael-lefevre date_du_film-149" itemtype="https://schema.org/CreativeWork" itemscope>
 	<div class="inside-article ">
+
+		
+					<header class="entry-header">
+
+			<h2 class="entry-title" itemprop="headline">
+				<a rel="bookmark" href="https://www.polygone-etoile.com/soutiens-aux-cineastes/une-nuit-parmi-dautres/">
+				
+				Une nuit parmi d&rsquo;autres</a>
+			</h2>
+
+
+
+
+												
+				
+
+			</header>
+			
+					<div class="post-image">
+				<a rel="bookmark" href="https://www.polygone-etoile.com/soutiens-aux-cineastes/une-nuit-parmi-dautres/"><img width="800" height="600" src="https://www.polygone-etoile.com/wp-content/uploads/2026/11/light_UNPDA©RaphaelLefevre.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.polygone-etoile.com/wp-content/uploads/2026/11/light_UNPDA©RaphaelLefevre.jpg 800w, https://www.polygone-etoile.com/wp-content/uploads/2026/11/light_UNPDA©RaphaelLefevre-300x225.jpg 300w, https://www.polygone-etoile.com/wp-content/uploads/2026/11/light_UNPDA©RaphaelLefevre-768x576.jpg 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /></a>
+	
+	 		</div>
+		
+		 
+			<div class="entry-summary" itemprop="text">
+
+	
+				<div class="etiquette">
+				<a href="https://www.polygone-etoile.com/tag/raphael-lefevre/" rel="tag">Raphaël Lefèvre</a>				</div>
+				
+									<span class="duree"> Durée <b>
+						38</b>
+					</span>
+											
+	
+
+
+				<p>Raphaël Lefèvre2025 • France • 38&prime;numérique • couleur Le bar ferme, Benoît a la flemme de rentrer à Endoume, il demande à Sarah s’il peut dormir chez elle. Sarah n’ose pas dire non… ÉQUIPE Écrit par Raphaël Lefèvre avec la collaboration d&rsquo;Estelle André Chabrolin, improvisé par les interprètesavec Estelle André Chabrolin, Damien Cattinari, Mourad Tahar &#8230; <a title="Une nuit parmi d&rsquo;autres" class="read-more" href="https://www.polygone-etoile.com/soutiens-aux-cineastes/une-nuit-parmi-dautres/" aria-label="En savoir plus sur Une nuit parmi d&rsquo;autres">Lire la suite</a></p>
+			</div>
+
+			</div>
+</article>
+
+			
+		
+<article id="post-3973" class="post-3973 post type-post status-publish format-standard has-post-thumbnail hentry category-projections category-semaine-asymetrique" itemtype="https://schema.org/CreativeWork" itemscope>
+	<div class="inside-article evenement">
+
+		
+					<header class="entry-header">
+
+			<h2 class="entry-title" itemprop="headline">
+				<a rel="bookmark" href="https://www.polygone-etoile.com/projections/semaine-asymetrique/19e-semaine-asymetrique/">
+				
+				19e semaine asymétrique</a>
+			</h2>
+
+
+
+
+												<div class="date">
+					25/11/2026  18:00				</div>
+								
+				
+
+			</header>
+			
+					<div class="post-image">
+				<a rel="bookmark" href="https://www.polygone-etoile.com/projections/semaine-asymetrique/19e-semaine-asymetrique/"><img width="2100" height="1526" src="https://www.polygone-etoile.com/wp-content/uploads/2026/11/19e-Semaine-Asymetrique.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.polygone-etoile.com/wp-content/uploads/2026/11/19e-Semaine-Asymetrique.jpg 2100w, https://www.polygone-etoile.com/wp-content/uploads/2026/11/19e-Semaine-Asymetrique-300x218.jpg 300w, https://www.polygone-etoile.com/wp-content/uploads/2026/11/19e-Semaine-Asymetrique-1024x744.jpg 1024w, https://www.polygone-etoile.com/wp-content/uploads/2026/11/19e-Semaine-Asymetrique-768x558.jpg 768w, https://www.polygone-etoile.com/wp-content/uploads/2026/11/19e-Semaine-Asymetrique-1536x1116.jpg 1536w, https://www.polygone-etoile.com/wp-content/uploads/2026/11/19e-Semaine-Asymetrique-2048x1488.jpg 2048w" sizes="auto, (max-width: 2100px) 100vw, 2100px" /></a>
+	
+	 		</div>
+		
+		 
+			<div class="entry-summary" itemprop="text">
+
+	
+				<div class="etiquette">
+								</div>
+				
+											
+	
+
+
+				<p>19e SEMAINE ASYMÉTRIQUE DU 25 AU 29 NOVEMBRE 2026</p>
+			</div>
+
+			</div>
+</article>
+
+			
+		
+<article id="post-3936" class="post-3936 post type-post status-publish format-standard has-post-thumbnail hentry category-passees category-projections" itemtype="https://schema.org/CreativeWork" itemscope>
+	<div class="inside-article evenement">
 
 		
 					<header class="entry-header">
@@ -284,7 +396,9 @@ h1, h2, h3, h4, h5, h6, .header_soutien {
 
 
 
-												
+												<div class="date">
+					05/11/2026  17:00				</div>
+								
 				
 
 			</header>
@@ -635,98 +749,6 @@ h1, h2, h3, h4, h5, h6, .header_soutien {
 			</div>
 </article>
 
-			
-		
-<article id="post-3773" class="post-3773 post type-post status-publish format-standard has-post-thumbnail hentry category-passees category-projections" itemtype="https://schema.org/CreativeWork" itemscope>
-	<div class="inside-article evenement">
-
-		
-					<header class="entry-header">
-
-			<h2 class="entry-title" itemprop="headline">
-				<a rel="bookmark" href="https://www.polygone-etoile.com/projections/25-ans-a-paris/">
-				
-				25 ANS À PARIS</a>
-			</h2>
-
-
-
-
-												<div class="date">
-					17/09/2026  20:00				</div>
-								
-				
-
-			</header>
-			
-					<div class="post-image">
-				<a rel="bookmark" href="https://www.polygone-etoile.com/projections/25-ans-a-paris/"><img width="1000" height="603" src="https://www.polygone-etoile.com/wp-content/uploads/2026/09/3-25ANS_LaClef_ImagoMundi©SaraMillot.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.polygone-etoile.com/wp-content/uploads/2026/09/3-25ANS_LaClef_ImagoMundi©SaraMillot.jpg 1000w, https://www.polygone-etoile.com/wp-content/uploads/2026/09/3-25ANS_LaClef_ImagoMundi©SaraMillot-300x181.jpg 300w, https://www.polygone-etoile.com/wp-content/uploads/2026/09/3-25ANS_LaClef_ImagoMundi©SaraMillot-768x463.jpg 768w" sizes="auto, (max-width: 1000px) 100vw, 1000px" /></a>
-	
-	 		</div>
-		
-		 
-			<div class="entry-summary" itemprop="text">
-
-	
-				<div class="etiquette">
-								</div>
-				
-											
-	
-
-
-				<p>Après Saint-Étienne, Douarnenez, Forcalquier, les Cévennes, Bruxelles, Newcastle, Marseille, avant Lecce, Genève, Toulouse, nous entrons dans Paris avec La Clef : un collectif et sa dynamique, une salle récemment réouverte après de longues années de lutte, oasis au cœur de la capital(e).</p>
-			</div>
-
-			</div>
-</article>
-
-			
-		
-<article id="post-3757" class="post-3757 post type-post status-publish format-standard has-post-thumbnail hentry category-passees category-projections" itemtype="https://schema.org/CreativeWork" itemscope>
-	<div class="inside-article evenement">
-
-		
-					<header class="entry-header">
-
-			<h2 class="entry-title" itemprop="headline">
-				<a rel="bookmark" href="https://www.polygone-etoile.com/projections/passees/25-ans-a-marseille-2/">
-				
-				25 ANS À MARSEILLE</a>
-			</h2>
-
-
-
-
-												<div class="date">
-					10/09/2026  20:30				</div>
-								
-				
-
-			</header>
-			
-					<div class="post-image">
-				<a rel="bookmark" href="https://www.polygone-etoile.com/projections/passees/25-ans-a-marseille-2/"><img width="1998" height="1080" src="https://www.polygone-etoile.com/wp-content/uploads/2026/09/2-CommunicationBaleineSeance20h30_10-09-26.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.polygone-etoile.com/wp-content/uploads/2026/09/2-CommunicationBaleineSeance20h30_10-09-26.jpg 1998w, https://www.polygone-etoile.com/wp-content/uploads/2026/09/2-CommunicationBaleineSeance20h30_10-09-26-300x162.jpg 300w, https://www.polygone-etoile.com/wp-content/uploads/2026/09/2-CommunicationBaleineSeance20h30_10-09-26-1024x554.jpg 1024w, https://www.polygone-etoile.com/wp-content/uploads/2026/09/2-CommunicationBaleineSeance20h30_10-09-26-768x415.jpg 768w, https://www.polygone-etoile.com/wp-content/uploads/2026/09/2-CommunicationBaleineSeance20h30_10-09-26-1536x830.jpg 1536w" sizes="auto, (max-width: 1998px) 100vw, 1998px" /></a>
-	
-	 		</div>
-		
-		 
-			<div class="entry-summary" itemprop="text">
-
-	
-				<div class="etiquette">
-								</div>
-				
-											
-	
-
-
-				<p>En clôture de l’exposition Qu’est-ce qui reste ? de Raphaëlle Paupert-Borne et Damien Cabanes à la Galerie Béa-Ba, auquel s’ajoute Jean-François Neplaz pour les co-réalisations avec Raphaëlle, nous présentons quelques films de ces trois artistes – peintres de la vie moderne.</p>
-			</div>
-
-			</div>
-</article>
-
 						</div>
 		
 			
@@ -815,7 +837,7 @@ var generatepressMenu = {"toggleOpenedSubMenus":true,"openSubMenuLabel":"Ouvrir 
 </script>
 <script id="generate-menu-js" src="https://www.polygone-etoile.com/wp-content/themes/generatepress/assets/js/menu.min.js?ver=3.6.1"></script>
 <script id="wp-emoji-settings" type="application/json">
-{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://www.polygone-etoile.com/wp-includes/js/wp-emoji-release.min.js?ver=7.1.4"}}
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://www.polygone-etoile.com/wp-includes/js/wp-emoji-release.min.js?ver=7.1.5"}}
 </script>
 <script type="module">
 /*! This file is auto-generated */
